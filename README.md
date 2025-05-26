@@ -1,14 +1,15 @@
-# Ru Hickson - Analytics & Data Portfolio
+# CAIRDE - Cultural Archive for Irish Recorded & Digital Entertainment
 
-A modern, responsive portfolio website showcasing my work in analytics, data engineering, and product management. Built with Vue.js and Tailwind CSS.
+A modern, responsive website for CAIRDE, an Irish video game preservation society dedicated to championing Irish-made video games, celebrating gaming history, and promoting game preservation.
 
 ## Features
 
-- Responsive design that works on all devices
-- Modern UI with smooth animations
-- Project showcase
-- Skills and experience presentation
-- Interactive components
+- Showcase of Irish-made video games
+- Historical timeline of Irish gaming
+- Preservation resources and guidelines
+- Interactive game database
+- Community features
+- News and events section
 - Dark mode support
 
 ## Tech Stack
@@ -30,8 +31,8 @@ A modern, responsive portfolio website showcasing my work in analytics, data eng
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
+git clone https://github.com/ruhickson/CAIRDE.git
+cd CAIRDE
 ```
 
 2. Install dependencies:
@@ -52,7 +53,7 @@ npm run build
 ## Project Structure
 
 ```
-portfolio/
+CAIRDE/
 ├── public/          # Static assets
 ├── src/            # Source files
 │   ├── assets/     # Images, fonts, etc.
@@ -66,7 +67,13 @@ portfolio/
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+We welcome contributions from the community! Whether you're interested in:
+- Adding Irish games to our database
+- Contributing to our preservation guidelines
+- Helping with documentation
+- Suggesting new features
+
+Please feel free to submit issues and pull requests!
 
 ## License
 
