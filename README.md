@@ -1,4 +1,4 @@
-# CAIRDE - Cultural Archive for Irish Recorded & Digital Entertainment
+# CAIRDE - Cultural Archive for Irish Representation in Digital Entertainment
 
 A modern, responsive website for CAIRDE, an Irish video game preservation society dedicated to championing Irish-made video games, celebrating gaming history, and promoting game preservation.
 

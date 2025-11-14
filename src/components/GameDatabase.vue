@@ -1,62 +1,397 @@
 <template>
-  <section class="py-12 bg-amber-50">
+  <section class="py-12 bg-green-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-3xl font-bold text-purple-900 mb-8">Irish Games Database</h2>
+      <h2 class="text-4xl md:text-5xl font-extrabold text-green-800 mb-10 flex items-center gap-4">
+        <i class="fas fa-gamepad text-green-700 text-3xl md:text-4xl"></i>
+        Irish Games Database
+      </h2>
       
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div v-for="game in games" :key="game.id" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+      <!-- Loading State -->
+      <div v-if="loading" class="text-center py-12">
+        <p class="text-green-800 text-lg">Loading games...</p>
+      </div>
+
+      <!-- Error State -->
+      <div v-else-if="error" class="bg-red-50 border border-red-200 rounded-lg p-6 mb-6">
+        <p class="text-red-800 font-semibold mb-2">Error loading games</p>
+        <p class="text-red-600 text-sm">{{ error }}</p>
+        <button 
+          @click="() => fetchGames(false)" 
+          class="mt-4 px-4 py-2 bg-green-700 text-white rounded hover:bg-green-600 transition-colors">
+          Retry
+        </button>
+      </div>
+
+      <!-- Search and Sort Controls -->
+      <div v-else-if="allGames.length > 0" class="mb-6 space-y-4">
+        <div class="flex flex-col sm:flex-row gap-4">
+          <!-- Search Input -->
+          <div class="flex-1">
+            <input
+              v-model="searchQuery"
+              type="text"
+              placeholder="Search games..."
+              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-300"
+            />
+          </div>
+          
+          <!-- Sort Dropdown -->
+          <div class="sm:w-64">
+            <select
+              v-model="sortBy"
+              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-300 bg-white"
+            >
+              <option value="date-desc">Release Date (Newest)</option>
+              <option value="date-asc">Release Date (Oldest)</option>
+              <option value="score-desc">Review Score (High to Low)</option>
+              <option value="score-asc">Review Score (Low to High)</option>
+              <option value="review-desc">Review Description (A-Z)</option>
+              <option value="review-asc">Review Description (Z-A)</option>
+            </select>
+          </div>
+        </div>
+        
+        <!-- Results Count -->
+        <div class="text-sm text-gray-600">
+          Showing {{ paginatedGames.length }} of {{ filteredGames.length }} games
+        </div>
+      </div>
+
+      <!-- Games Grid -->
+      <div v-if="!loading && !error && paginatedGames.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+        <div v-for="game in paginatedGames" :key="game.appId" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
           <div class="p-6">
-            <h3 class="text-xl font-semibold text-purple-900 mb-2">{{ game.title }}</h3>
-            <p class="text-gray-600 mb-4">{{ game.developer }}</p>
+            <h3 class="text-2xl font-bold text-green-800 mb-3">
+              <a 
+                :href="getGameLink(game)" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                class="hover:text-green-600 transition-colors">
+                {{ game.name || 'Unknown Game' }}
+              </a>
+            </h3>
+            
+            <div v-if="game.developers" class="mb-3">
+              <span class="text-base text-gray-700">Developer: </span>
+              <span class="text-base font-semibold text-green-700">{{ formatDevelopers(game.developers) }}</span>
+            </div>
+            
             <div class="flex flex-wrap gap-2 mb-4">
-              <span v-for="platform in game.platforms" :key="platform" 
-                    class="px-2 py-1 bg-amber-50 text-purple-900 text-sm rounded">
-                {{ platform }}
+              <span v-if="game.isFree" 
+                    class="px-2 py-1 bg-green-100 text-green-800 text-sm rounded font-medium">
+                Free
               </span>
             </div>
-            <p class="text-gray-600 text-sm mb-4">{{ game.description }}</p>
-            <div class="flex justify-between items-center">
-              <span class="text-sm text-gray-500">{{ game.year }}</span>
-              <a :href="game.link" target="_blank" 
-                 class="text-purple-900 hover:text-purple-700 text-sm font-medium">
-                Learn More →
+
+            <div class="space-y-2 mb-4">
+              <div v-if="game.reviewScoreDesc" class="flex items-center gap-2">
+                <span class="text-base text-gray-700">Reviews:</span>
+                <span :class="getReviewScoreColorClass(game.reviewScoreDesc)" 
+                      class="text-sm font-semibold px-2 py-1 rounded">
+                  {{ game.reviewScoreDesc }}
+                </span>
+              </div>
+              
+              <div v-if="game.metacritic !== null && game.metacritic !== undefined" class="flex items-center gap-2">
+                <span class="text-base text-gray-700">Metacritic:</span>
+                <span class="text-base font-semibold text-green-700">{{ game.metacritic }}</span>
+              </div>
+              
+              <div v-if="game.releaseDate" class="flex items-center gap-2">
+                <span class="text-base text-gray-700">Released:</span>
+                <span class="text-base text-gray-600">{{ formatDate(game.releaseDate) }}</span>
+              </div>
+              
+              <div v-if="game.website && game.website.trim()" class="flex items-center gap-2 flex-wrap">
+                <span class="text-base text-gray-700">Website:</span>
+                <a 
+                  :href="game.website.startsWith('http') ? game.website : `https://${game.website}`" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  class="text-base text-green-700 hover:text-green-600 underline break-all">
+                  {{ formatWebsite(game.website) }}
+                </a>
+              </div>
+            </div>
+
+            <div class="flex justify-end items-center pt-4 border-t border-gray-200">
+              <a 
+                v-if="game.appId" 
+                :href="`https://store.steampowered.com/app/${game.appId}`" 
+                target="_blank" 
+                class="text-green-700 hover:text-green-600 text-base font-semibold">
+                View on Steam →
               </a>
             </div>
           </div>
         </div>
+      </div>
+
+      <!-- Pagination -->
+      <div v-if="!loading && !error && filteredGames.length > 0" class="flex justify-center items-center gap-2 mt-8">
+        <button
+          @click="currentPage = 1"
+          :disabled="currentPage === 1"
+          :class="[
+            'px-4 py-2 rounded-lg transition-colors',
+            currentPage === 1 
+              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
+              : 'bg-green-700 text-white hover:bg-green-600'
+          ]"
+        >
+          First
+        </button>
+        <button
+          @click="currentPage--"
+          :disabled="currentPage === 1"
+          :class="[
+            'px-4 py-2 rounded-lg transition-colors',
+            currentPage === 1 
+              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
+              : 'bg-green-700 text-white hover:bg-green-600'
+          ]"
+        >
+          Previous
+        </button>
+        <span class="px-4 py-2 text-green-800 font-medium">
+          Page {{ currentPage }} of {{ totalPages }}
+        </span>
+        <button
+          @click="currentPage++"
+          :disabled="currentPage === totalPages"
+          :class="[
+            'px-4 py-2 rounded-lg transition-colors',
+            currentPage === totalPages 
+              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
+              : 'bg-purple-900 text-white hover:bg-purple-700'
+          ]"
+        >
+          Next
+        </button>
+        <button
+          @click="currentPage = totalPages"
+          :disabled="currentPage === totalPages"
+          :class="[
+            'px-4 py-2 rounded-lg transition-colors',
+            currentPage === totalPages 
+              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
+              : 'bg-purple-900 text-white hover:bg-purple-700'
+          ]"
+        >
+          Last
+        </button>
+      </div>
+
+      <!-- Empty State -->
+      <div v-if="!loading && !error && filteredGames.length === 0" class="text-center py-12">
+        <p class="text-green-800 text-lg">No games found{{ searchQuery ? ' matching your search.' : '.' }}</p>
       </div>
     </div>
   </section>
 </template>
 
 <script setup>
-const games = [
-  {
-    id: 1,
-    title: "Dungeons of Dredmor",
-    developer: "Gaslamp Games",
-    year: 2011,
-    platforms: ["PC", "Linux", "Mac"],
-    description: "A roguelike dungeon crawler with a humorous take on the genre, featuring deep gameplay and extensive modding support.",
-    link: "https://store.steampowered.com/app/98800/Dungeons_of_Dredmor/"
-  },
-  {
-    id: 2,
-    title: "The Swapper",
-    developer: "Facepalm Games",
-    year: 2013,
-    platforms: ["PC", "PS4", "PS Vita", "Wii U"],
-    description: "A critically acclaimed puzzle-platformer that explores themes of consciousness and identity through innovative cloning mechanics.",
-    link: "https://store.steampowered.com/app/231160/The_Swapper/"
-  },
-  {
-    id: 3,
-    title: "The Curious Expedition",
-    developer: "Maschinen-Mensch",
-    year: 2015,
-    platforms: ["PC", "PS4", "Xbox One", "Switch"],
-    description: "A roguelike expedition simulation game set in the late 19th century, featuring procedurally generated adventures.",
-    link: "https://store.steampowered.com/app/358130/The_Curious_Expedition/"
+import { ref, onMounted, computed, watch } from 'vue';
+import { queryIrishGames } from '../services/cubejs';
+
+const allGames = ref([]);
+const loading = ref(true);
+const error = ref(null);
+const searchQuery = ref('');
+const sortBy = ref('date-desc');
+const currentPage = ref(1);
+const itemsPerPage = 24;
+
+const formatDate = (dateString) => {
+  if (!dateString) return 'Unknown';
+  try {
+    const date = new Date(dateString);
+    return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  } catch (e) {
+    return dateString;
   }
-];
+};
+
+const formatWebsite = (url) => {
+  if (!url || !url.trim()) return '';
+  try {
+    // Handle URLs with or without protocol
+    let urlToParse = url.trim();
+    if (!urlToParse.startsWith('http://') && !urlToParse.startsWith('https://')) {
+      urlToParse = `https://${urlToParse}`;
+    }
+    const urlObj = new URL(urlToParse);
+    return urlObj.hostname.replace('www.', '');
+  } catch (e) {
+    // If URL parsing fails, return the original string (cleaned up)
+    return url.trim().replace(/^https?:\/\//, '').replace(/^www\./, '');
+  }
+};
+
+const formatDevelopers = (developers) => {
+  if (!developers) return '';
+  
+  // If it's already a string, clean it up
+  if (typeof developers === 'string') {
+    return developers
+      .replace(/[\[\]"]/g, '') // Remove brackets and quotes
+      .trim();
+  }
+  
+  // If it's an array, join it
+  if (Array.isArray(developers)) {
+    return developers
+      .map(dev => typeof dev === 'string' ? dev.replace(/[\[\]"]/g, '').trim() : String(dev))
+      .filter(dev => dev) // Remove empty strings
+      .join(', ');
+  }
+  
+  // For any other type, convert to string and clean
+  return String(developers)
+    .replace(/[\[\]"]/g, '')
+    .trim();
+};
+
+const getGameLink = (game) => {
+  // If website exists and is not empty, use it
+  if (game.website && game.website.trim()) {
+    const website = game.website.trim();
+    // Ensure it has a protocol
+    if (website.startsWith('http://') || website.startsWith('https://')) {
+      return website;
+    }
+    return `https://${website}`;
+  }
+  // Otherwise, link to Steam
+  if (game.appId) {
+    return `https://store.steampowered.com/app/${game.appId}`;
+  }
+  // Fallback (shouldn't happen)
+  return '#';
+};
+
+const getReviewScoreColorClass = (reviewDesc) => {
+  if (!reviewDesc) return 'text-gray-600 bg-gray-100';
+  
+  const desc = reviewDesc.toLowerCase();
+  
+  // Positive reviews - green shades
+  if (desc.includes('overwhelmingly positive')) {
+    return 'text-white bg-green-600';
+  } else if (desc.includes('very positive')) {
+    return 'text-white bg-green-500';
+  } else if (desc.includes('positive') && !desc.includes('mostly')) {
+    return 'text-white bg-green-400';
+  } else if (desc.includes('mostly positive')) {
+    return 'text-green-800 bg-green-100';
+  }
+  // Mixed/Neutral - yellow/orange
+  else if (desc.includes('mixed')) {
+    return 'text-yellow-800 bg-yellow-100';
+  }
+  // Negative reviews - red shades
+  else if (desc.includes('overwhelmingly negative')) {
+    return 'text-white bg-red-700';
+  } else if (desc.includes('very negative')) {
+    return 'text-white bg-red-600';
+  } else if (desc.includes('negative') && !desc.includes('mostly')) {
+    return 'text-white bg-red-500';
+  } else if (desc.includes('mostly negative')) {
+    return 'text-red-800 bg-red-100';
+  }
+  // Default fallback
+  else {
+    return 'text-gray-700 bg-gray-200';
+  }
+};
+
+// Filter games based on search query
+const filteredGames = computed(() => {
+  let games = [...allGames.value];
+  
+  // Apply search filter
+  if (searchQuery.value.trim()) {
+    const query = searchQuery.value.toLowerCase().trim();
+    games = games.filter(game => {
+      const name = (game.name || '').toLowerCase();
+      const developers = (game.developers || '').toLowerCase();
+      const type = (game.type || '').toLowerCase();
+      const reviewDesc = (game.reviewScoreDesc || '').toLowerCase();
+      return name.includes(query) || developers.includes(query) || type.includes(query) || reviewDesc.includes(query);
+    });
+  }
+  
+  // Apply sorting
+  games.sort((a, b) => {
+    switch (sortBy.value) {
+      case 'date-desc':
+        return new Date(b.releaseDate || 0) - new Date(a.releaseDate || 0);
+      case 'date-asc':
+        return new Date(a.releaseDate || 0) - new Date(b.releaseDate || 0);
+      case 'score-desc':
+        return (b.reviewScore || 0) - (a.reviewScore || 0);
+      case 'score-asc':
+        return (a.reviewScore || 0) - (b.reviewScore || 0);
+      case 'review-desc':
+        return (a.reviewScoreDesc || '').localeCompare(b.reviewScoreDesc || '');
+      case 'review-asc':
+        return (b.reviewScoreDesc || '').localeCompare(a.reviewScoreDesc || '');
+      default:
+        return 0;
+    }
+  });
+  
+  return games;
+});
+
+// Pagination computed properties
+const totalPages = computed(() => {
+  return Math.ceil(filteredGames.value.length / itemsPerPage);
+});
+
+const paginatedGames = computed(() => {
+  const start = (currentPage.value - 1) * itemsPerPage;
+  const end = start + itemsPerPage;
+  return filteredGames.value.slice(start, end);
+});
+
+// Reset to page 1 when search or sort changes
+watch([searchQuery, sortBy], () => {
+  currentPage.value = 1;
+});
+
+const fetchGames = async (useCache = true) => {
+  console.log('fetchGames called, useCache:', useCache);
+  loading.value = true;
+  error.value = null;
+  console.log('Loading state set to true');
+  
+  try {
+    console.log('Starting to fetch games, useCache:', useCache);
+    const data = await queryIrishGames(useCache);
+    console.log('Successfully fetched', data.length, 'games');
+    console.log('Sample game data:', data[0]);
+    
+    // Ensure data is an array
+    if (Array.isArray(data)) {
+      allGames.value = data;
+      console.log('allGames.value set to', data.length, 'games');
+    } else {
+      console.error('Data is not an array:', data);
+      allGames.value = [];
+    }
+  } catch (err) {
+    console.error('Error in fetchGames:', err);
+    error.value = err.message || 'Failed to load games from Cube.js';
+    allGames.value = [];
+  } finally {
+    console.log('Setting loading to false');
+    loading.value = false;
+    console.log('Current state - loading:', loading.value, 'games count:', allGames.value.length, 'error:', error.value);
+  }
+};
+
+onMounted(() => {
+  fetchGames();
+});
 </script> 

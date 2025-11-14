@@ -3,9 +3,301 @@
 @tailwind utilities;
 
 body {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.125rem; /* 18px base */
+  line-height: 1.7;
+  transition: filter 0.3s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: 2.5rem; /* 40px */
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 2rem; /* 32px */
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 1.5rem; /* 24px */
+  font-weight: 600;
+}
+
+p {
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.7;
+}
+
+/* Accessibility Mode Styles - Apply to everything */
+html.accessibility-mode,
+body.accessibility-mode {
+  background-color: black !important;
+  color: white !important;
+}
+
+html.accessibility-mode *,
+body.accessibility-mode * {
+  color: white !important;
+}
+
+/* Override all text colors */
+html.accessibility-mode *,
+body.accessibility-mode * {
+  color: white !important;
+}
+
+/* Override all background colors except specific ones */
+html.accessibility-mode [class*="bg-"]:not([class*="bg-black"]):not([class*="bg-white"]),
+body.accessibility-mode [class*="bg-"]:not([class*="bg-black"]):not([class*="bg-white"]) {
+  background-color: black !important;
+}
+
+body.accessibility-mode,
+body.accessibility-mode * {
+  font-size: 1.5rem !important; /* Increase base by 2 steps: 18px -> 24px */
+}
+
+/* Force all backgrounds to black or dark */
+html.accessibility-mode,
+body.accessibility-mode,
+html.accessibility-mode #app,
+body.accessibility-mode #app,
+html.accessibility-mode #app > div,
+body.accessibility-mode #app > div {
+  background-color: black !important;
+  color: white !important;
+}
+
+html.accessibility-mode h1,
+body.accessibility-mode h1 {
+  font-size: 3.5rem !important; /* Increase by 2 steps: 40px -> 56px */
+  color: white !important;
+}
+
+html.accessibility-mode h2,
+body.accessibility-mode h2 {
+  font-size: 3rem !important; /* Increase by 2 steps: 32px -> 48px */
+  color: white !important;
+}
+
+html.accessibility-mode h3,
+body.accessibility-mode h3 {
+  font-size: 2rem !important; /* Increase by 2 steps: 24px -> 32px */
+  color: white !important;
+}
+
+html.accessibility-mode h4,
+html.accessibility-mode h5,
+html.accessibility-mode h6,
+body.accessibility-mode h4,
+body.accessibility-mode h5,
+body.accessibility-mode h6 {
+  color: white !important;
+}
+
+html.accessibility-mode p,
+html.accessibility-mode span,
+html.accessibility-mode div,
+html.accessibility-mode a,
+html.accessibility-mode li,
+html.accessibility-mode button,
+html.accessibility-mode input,
+html.accessibility-mode select,
+body.accessibility-mode p,
+body.accessibility-mode span,
+body.accessibility-mode div,
+body.accessibility-mode a,
+body.accessibility-mode li,
+body.accessibility-mode button,
+body.accessibility-mode input,
+body.accessibility-mode select {
+  font-size: 1.5rem !important; /* Increase by 2 steps */
+  line-height: 1.8 !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-sm {
+  font-size: 1.25rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-base {
+  font-size: 1.5rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-lg {
+  font-size: 1.75rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-xl {
+  font-size: 2rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-2xl {
+  font-size: 2.5rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-3xl {
+  font-size: 3rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-4xl {
+  font-size: 3.5rem !important;
+  color: white !important;
+}
+
+body.accessibility-mode .text-5xl {
+  font-size: 4rem !important;
+  color: white !important;
+}
+
+/* Force black background and white text in accessibility mode */
+html.accessibility-mode [class*="bg-"],
+body.accessibility-mode [class*="bg-"] {
+  background-color: black !important;
+  border-color: white !important;
+}
+
+body.accessibility-mode .bg-green-50,
+body.accessibility-mode .bg-green-100,
+body.accessibility-mode .bg-green-200,
+body.accessibility-mode .bg-green-700,
+body.accessibility-mode .bg-green-800,
+body.accessibility-mode .bg-white,
+body.accessibility-mode .bg-amber-50 {
+  background-color: black !important;
+  border-color: white !important;
+}
+
+html.accessibility-mode [class*="text-"],
+body.accessibility-mode [class*="text-"] {
+  color: white !important;
+}
+
+body.accessibility-mode .text-green-700,
+body.accessibility-mode .text-green-800,
+body.accessibility-mode .text-green-600,
+body.accessibility-mode .text-green-50,
+body.accessibility-mode .text-green-100,
+body.accessibility-mode .text-green-800 {
+  color: white !important;
+}
+
+body.accessibility-mode .text-gray-600,
+body.accessibility-mode .text-gray-700,
+body.accessibility-mode .text-gray-500,
+body.accessibility-mode .text-gray-800,
+body.accessibility-mode .text-gray-900 {
+  color: white !important;
+}
+
+body.accessibility-mode .text-white {
+  color: white !important;
+}
+
+body.accessibility-mode .bg-white {
+  background-color: black !important;
+}
+
+body.accessibility-mode .border-green-100,
+body.accessibility-mode .border-green-700,
+body.accessibility-mode .border-gray-200,
+body.accessibility-mode .border-gray-300 {
+  border-color: white !important;
+}
+
+/* Ensure good contrast */
+body.accessibility-mode {
+  color: white !important;
+  background-color: black !important;
+}
+
+body.accessibility-mode a {
+  color: white !important;
+  text-decoration: underline;
+}
+
+body.accessibility-mode a:hover {
+  color: #ccc !important;
+}
+
+body.accessibility-mode button {
+  border: 2px solid white !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+body.accessibility-mode button:hover {
+  background-color: #333 !important;
+}
+
+body.accessibility-mode input,
+body.accessibility-mode select {
+  border: 2px solid white !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+body.accessibility-mode input::placeholder {
+  color: #999 !important;
+}
+
+/* Game cards and sections */
+body.accessibility-mode section {
+  background-color: black !important;
+  color: white !important;
+}
+
+body.accessibility-mode main {
+  background-color: black !important;
+  color: white !important;
+}
+
+body.accessibility-mode .rounded-lg,
+body.accessibility-mode .shadow-md,
+body.accessibility-mode .shadow-lg,
+body.accessibility-mode [class*="rounded"] {
+  background-color: #111 !important;
+  border: 1px solid white !important;
+  color: white !important;
+}
+
+body.accessibility-mode header {
+  background-color: black !important;
+  color: white !important;
+  border-color: white !important;
+}
+
+body.accessibility-mode footer {
+  background-color: black !important;
+  color: white !important;
+  border-color: white !important;
+}
+
+/* Review score badges - make them visible on black background */
+body.accessibility-mode .bg-green-600,
+body.accessibility-mode .bg-green-500,
+body.accessibility-mode .bg-green-400,
+body.accessibility-mode .bg-green-100,
+body.accessibility-mode .bg-red-700,
+body.accessibility-mode .bg-red-600,
+body.accessibility-mode .bg-red-500,
+body.accessibility-mode .bg-red-100,
+body.accessibility-mode .bg-yellow-100 {
+  background-color: #333 !important;
+  border: 1px solid white !important;
+  color: white !important;
 } 
