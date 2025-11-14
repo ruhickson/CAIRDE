@@ -1,24 +1,28 @@
 const faqs = [
-    {
-        id: 1,
-        title: "What would you consider yourself skilled in?",
-        description: "SAS, SQL, R, Python, Shiny, Tableau, PowerBI, AWS, Azure, GCP, Visualization, Leadership, JIRA, Atlassian, Confluence, MS Office, Public Speaking, Heroku, Matlab, Java, Powershell, Teradata, Visual Studio, Spark, Pig, Hive, Looker.",
-    },
-    {
-        id: 2,
-        title: "What are your career interests?",
-        description: "I am most interested in working in video games, sport, or cryptocurrency. I am not interested in working in gambling.",
-    },
-    {
-        id: 3,
-        title: "Do you work better solo or as a part of a larger team?",
-        description: "Having done both, I can honestly say I love both. There are ups and downs to each, but I get along with people very easily, and once I set my mind to something, it gets done either way.",
-    },
-    {
-        id: 4,
-        title: "Do you have other qualifications?",
-        description: "Yes! Ask me about them by sending me an email (see my CV).",
-    },
-];
+  {
+    id: 1,
+    title: "How do I submit a game to the archive?",
+    description:
+      "Email cairde@tutamail.com with the title name, release year, platforms, studio credits, and any supporting assets (screenshots, press kits, builds). We manually verify every submission before publishing."
+  },
+  {
+    id: 2,
+    title: "What qualifies a title for inclusion?",
+    description:
+      "Games developed in Ireland, or had a significant contribution from an Irish developer qualify as titles for inclusion."
+  },
+  {
+    id: 3,
+    title: "Can I volunteer if I live outside Ireland?",
+    description:
+      "Yes! Research, metadata cleanup, preservation initiatives, or content creation can all be done remotely. Tell us your skills and availability on the Get Involved page."
+  },
+  {
+    id: 4,
+    title: "How often is the data refreshed?",
+    description:
+      'Data is refreshed daily courtesy of <a href="https://gamediscoverytool.com" target="_blank" rel="noopener" class="underline text-green-700">Game Discovery Tool</a>.'
+  }
+]
 
-export default faqs;
+export default faqs

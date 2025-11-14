@@ -52,8 +52,15 @@
         </div>
         
         <!-- Results Count -->
-        <div class="text-sm text-gray-600">
-          Showing {{ paginatedGames.length }} of {{ filteredGames.length }} games
+        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-sm text-gray-600">
+          <span>Showing {{ paginatedGames.length }} of {{ filteredGames.length }} games</span>
+          <button
+            class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-green-200 text-green-800 hover:bg-green-600 hover:text-white transition"
+            @click="refreshGames"
+          >
+            <i class="fas fa-arrows-rotate"></i>
+            Refresh from source
+          </button>
         </div>
       </div>
 
@@ -313,10 +320,11 @@ const filteredGames = computed(() => {
   if (searchQuery.value.trim()) {
     const query = searchQuery.value.toLowerCase().trim();
     games = games.filter(game => {
-      const name = (game.name || '').toLowerCase();
-      const developers = (game.developers || '').toLowerCase();
-      const type = (game.type || '').toLowerCase();
-      const reviewDesc = (game.reviewScoreDesc || '').toLowerCase();
+      const toStringValue = (value) => (value === null || value === undefined ? '' : String(value));
+      const name = toStringValue(game.name).toLowerCase();
+      const developers = formatDevelopers(game.developers).toLowerCase();
+      const type = toStringValue(game.type).toLowerCase();
+      const reviewDesc = toStringValue(game.reviewScoreDesc).toLowerCase();
       return name.includes(query) || developers.includes(query) || type.includes(query) || reviewDesc.includes(query);
     });
   }
@@ -394,4 +402,8 @@ const fetchGames = async (useCache = true) => {
 onMounted(() => {
   fetchGames();
 });
+
+const refreshGames = () => {
+  fetchGames(false);
+};
 </script> 
