@@ -1,20 +1,39 @@
 <script setup>
-import { reactive } from 'vue'
+import { reactive, ref } from 'vue'
 
 const form = reactive({
   name: '',
   email: '',
   interest: '',
-  availability: '',
   message: ''
 })
 
-const handleSubmit = () => {
-  const mailSubject = encodeURIComponent(`Volunteer enquiry: ${form.interest || 'General'}`)
-  const mailBody = encodeURIComponent(
-    `Name: ${form.name}\nEmail: ${form.email}\nAvailability: ${form.availability}\n\nMessage:\n${form.message}`
-  )
-  window.location.href = `mailto:cairde@tutamail.com?subject=${mailSubject}&body=${mailBody}`
+const submitting = ref(false)
+const submitMessage = ref('')
+const submitError = ref('')
+
+const handleSubmit = async () => {
+  submitting.value = true
+  submitMessage.value = ''
+  submitError.value = ''
+
+  try {
+    const data = new FormData()
+    data.append('form-name', 'get-involved')
+    Object.keys(form).forEach((key) => data.append(key, form[key] || ''))
+
+    await fetch('/', {
+      method: 'POST',
+      body: data
+    })
+
+    submitMessage.value = 'Thanks for raising your hand—we’ll send onboarding details soon.'
+    Object.keys(form).forEach((key) => (form[key] = ''))
+  } catch (err) {
+    submitError.value = 'Unable to send right now. Please try again shortly.'
+  } finally {
+    submitting.value = false
+  }
 }
 </script>
 
@@ -46,37 +65,53 @@ const handleSubmit = () => {
 
         <div class="bg-white rounded-2xl border border-green-100 p-8 shadow-sm">
           <h2 class="text-2xl font-bold text-green-900 mb-4">Tell us about you</h2>
-          <form class="space-y-5" @submit.prevent="handleSubmit">
+          <form
+            class="space-y-5"
+            name="get-involved"
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
+            @submit.prevent="handleSubmit"
+          >
+            <input type="hidden" name="form-name" value="get-involved" />
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+            </p>
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Name *</label>
-              <input v-model="form.name" required type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Eimear Murphy" />
+              <input v-model="form.name" name="name" required type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Eimear Murphy" />
             </div>
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Email *</label>
-              <input v-model="form.email" required type="email" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="you@example.com" />
+              <input v-model="form.email" name="email" required type="email" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="you@example.com" />
             </div>
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Focus area</label>
-              <select v-model="form.interest" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500">
-                <option value="">Choose one...</option>
-                <option>Research & Documentation</option>
-                <option>Artefact Donation / Digitisation</option>
-                <option>Community Events</option>
-                <option>Technical Preservation</option>
-                <option>Education & Outreach</option>
-              </select>
-            </div>
-            <div>
-              <label class="block text-sm font-semibold text-green-900 mb-1">Availability</label>
-              <input v-model="form.availability" type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="e.g. 4 hrs/week, evenings only" />
+              <input
+                v-model="form.interest"
+                name="interest"
+                type="text"
+                class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500"
+                placeholder="Research, events, technical preservation, etc."
+              />
             </div>
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">How would you like to help? *</label>
-              <textarea v-model="form.message" required rows="5" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Share your skills, project ideas, or collection..."></textarea>
+              <textarea v-model="form.message" name="message" required rows="5" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Share your skills, project ideas, or collection..."></textarea>
             </div>
             <div class="flex flex-wrap items-center justify-between gap-3">
-              <p class="text-sm text-gray-500">We’ll reply with onboarding steps within a week.</p>
-              <button type="submit" class="inline-flex items-center px-5 py-3 rounded-full bg-green-700 text-white font-semibold hover:bg-green-600 transition">Submit interest</button>
+              <p class="text-sm text-gray-500">
+                <span v-if="submitMessage" class="text-green-700 font-semibold">{{ submitMessage }}</span>
+                <span v-else-if="submitError" class="text-red-600 font-semibold">{{ submitError }}</span>
+                <span v-else>We’ll reply with onboarding steps within a week.</span>
+              </p>
+              <button
+                type="submit"
+                :disabled="submitting"
+                class="inline-flex items-center px-5 py-3 rounded-full bg-green-700 text-white font-semibold hover:bg-green-600 transition disabled:opacity-60 disabled:cursor-not-allowed"
+              >
+                {{ submitting ? 'Submitting…' : 'Submit interest' }}
+              </button>
             </div>
           </form>
         </div>

@@ -1,6 +1,7 @@
 <script setup>
 import AboutSection from '../components/AboutSection.vue'
-import { reactive } from 'vue'
+import FaqSection from '../sections/FaqSection.vue'
+import { reactive, ref } from 'vue'
 
 const form = reactive({
   name: '',
@@ -9,10 +10,32 @@ const form = reactive({
   message: ''
 })
 
-const handleSubmit = () => {
-  const mailSubject = encodeURIComponent(form.subject || `Message from ${form.name || 'CAIRDE visitor'}`)
-  const mailBody = encodeURIComponent(`Name: ${form.name}\nEmail: ${form.email}\n\n${form.message}`)
-  window.location.href = `mailto:cairde@tutamail.com?subject=${mailSubject}&body=${mailBody}`
+const submitting = ref(false)
+const submitMessage = ref('')
+const submitError = ref('')
+
+const handleSubmit = async () => {
+  submitting.value = true
+  submitMessage.value = ''
+  submitError.value = ''
+
+  try {
+    const data = new FormData()
+    data.append('form-name', 'contact')
+    Object.keys(form).forEach((key) => data.append(key, form[key] || ''))
+
+    await fetch('/', {
+      method: 'POST',
+      body: data
+    })
+
+    submitMessage.value = 'Thanks for reaching out! We will reply shortly.'
+    Object.keys(form).forEach((key) => (form[key] = ''))
+  } catch (err) {
+    submitError.value = 'Something went wrong. Please try again later.'
+  } finally {
+    submitting.value = false
+  }
 }
 </script>
 
@@ -31,37 +54,57 @@ const handleSubmit = () => {
         </div>
 
         <div class="bg-green-50 rounded-2xl border border-green-100 p-8 shadow-sm">
-          <form class="space-y-6" @submit.prevent="handleSubmit">
+          <form
+            class="space-y-6"
+            name="contact"
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
+            @submit.prevent="handleSubmit"
+          >
+            <input type="hidden" name="form-name" value="contact" />
+            <p class="hidden">
+              <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+            </p>
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Your Name</label>
-              <input v-model="form.name" type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Aine Devlin" />
+              <input v-model="form.name" name="name" type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Aine Devlin" />
             </div>
 
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Email Address *</label>
-              <input v-model="form.email" type="email" required class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="you@example.com" />
+              <input v-model="form.email" name="email" type="email" required class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="you@example.com" />
             </div>
 
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Subject</label>
-              <input v-model="form.subject" type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="New archive submission" />
+              <input v-model="form.subject" name="subject" type="text" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="New archive submission" />
             </div>
 
             <div>
               <label class="block text-sm font-semibold text-green-900 mb-1">Message *</label>
-              <textarea v-model="form.message" required rows="6" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Tell us about your project, event, or collection…"></textarea>
+              <textarea v-model="form.message" name="message" required rows="6" class="w-full rounded-xl border border-green-200 px-4 py-3 focus:ring-2 focus:ring-green-500 focus:border-green-500" placeholder="Tell us about your project, event, or collection…"></textarea>
             </div>
 
             <div class="flex flex-wrap items-center justify-between gap-4">
-              <p class="text-sm text-gray-500">We’ll respond within 3–5 working days.</p>
-              <button type="submit" class="inline-flex items-center px-6 py-3 rounded-full bg-green-700 text-white font-semibold hover:bg-green-600 transition">
-                Send Email
+              <p class="text-sm text-gray-500">
+                <span v-if="submitMessage" class="text-green-700 font-semibold">{{ submitMessage }}</span>
+                <span v-else-if="submitError" class="text-red-600 font-semibold">{{ submitError }}</span>
+                <span v-else>We’ll respond within 3–5 working days.</span>
+              </p>
+              <button
+                type="submit"
+                :disabled="submitting"
+                class="inline-flex items-center px-6 py-3 rounded-full bg-green-700 text-white font-semibold hover:bg-green-600 transition disabled:opacity-60 disabled:cursor-not-allowed"
+              >
+                {{ submitting ? 'Sending…' : 'Send Message' }}
               </button>
             </div>
           </form>
         </div>
       </div>
     </section>
+    <FaqSection />
   </div>
 </template>
 
