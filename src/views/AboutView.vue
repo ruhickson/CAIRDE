@@ -20,14 +20,20 @@ const handleSubmit = async () => {
   submitError.value = ''
 
   try {
-    const data = new FormData()
-    data.append('form-name', 'contact')
-    Object.keys(form).forEach((key) => data.append(key, form[key] || ''))
+    const formData = new URLSearchParams()
+    formData.append('form-name', 'contact')
+    formData.append('bot-field', '') // Netlify honeypot field
+    Object.keys(form).forEach((key) => formData.append(key, form[key] || ''))
 
-    await fetch('/', {
+    const response = await fetch('/', {
       method: 'POST',
-      body: data
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: formData.toString()
     })
+
+    if (!response.ok) {
+      throw new Error(`Form submission failed: ${response.status}`)
+    }
 
     submitMessage.value = 'Thanks for reaching out! We will reply shortly.'
     Object.keys(form).forEach((key) => (form[key] = ''))

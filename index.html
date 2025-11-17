@@ -23,6 +23,26 @@
 <body class="font-content antialiased text-gray-700 overflow-x-hidden relative">
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
+    
+    <!-- Hidden Netlify forms for static build detection -->
+    <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
+        <input type="text" name="name" />
+        <input type="email" name="email" />
+        <input type="text" name="subject" />
+        <textarea name="message"></textarea>
+    </form>
+    <form name="get-involved" data-netlify="true" netlify-honeypot="bot-field" hidden>
+        <input type="text" name="name" />
+        <input type="email" name="email" />
+        <input type="text" name="interest" />
+        <textarea name="message"></textarea>
+    </form>
+    <form name="contact-legacy" data-netlify="true" netlify-honeypot="bot-field" hidden>
+        <input type="text" name="name" />
+        <input type="email" name="email" />
+        <input type="text" name="subject" />
+        <textarea name="message"></textarea>
+    </form>
 </body>
 
 </html>

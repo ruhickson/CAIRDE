@@ -88,27 +88,6 @@ const handleMobileNav = (event) => {
         </div>
       </div>
     </footer>
-    <!-- Hidden Netlify forms so static build detects them -->
-    <div class="hidden">
-      <form name="contact" data-netlify="true" netlify-honeypot="bot-field">
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <input type="text" name="subject" />
-        <textarea name="message"></textarea>
-      </form>
-      <form name="get-involved" data-netlify="true" netlify-honeypot="bot-field">
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <input type="text" name="interest" />
-        <textarea name="message"></textarea>
-      </form>
-      <form name="contact-legacy" data-netlify="true" netlify-honeypot="bot-field">
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <input type="text" name="subject" />
-        <textarea name="message"></textarea>
-      </form>
-    </div>
   </div>
 </template>
 
