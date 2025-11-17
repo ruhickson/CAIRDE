@@ -75,7 +75,7 @@ const handleMobileNav = (event) => {
             <p>Email: cairde@tutamail.com</p>
           </div>
           <div>
-            <h3 class="text-lg font-semibold mb-4">Follow Us</h3>
+            <h3 class="text-lg font-semibold mb-4">Follow Us (Coming Soon)</h3>
             <div class="flex space-x-4">
               <a href="#" class="text-green-100 hover:text-white">Twitter</a>
               <a href="#" class="text-green-100 hover:text-white">Discord</a>

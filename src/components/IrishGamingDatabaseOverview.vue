@@ -10,6 +10,11 @@
           <p class="text-lg text-gray-700 mt-4 leading-relaxed">
             The database contains titles released on home micros, consoles, PC, VR, and mobile by creators born in, based in, or collaborating with Irish studios. Every entry is manually verified and linked to preservation resources, interviews, and playable builds when available.
           </p>
+          <div class="mt-6 p-4 bg-amber-50 border-l-4 border-amber-400 rounded-r-lg">
+            <p class="text-base text-gray-800 leading-relaxed">
+              <strong class="text-amber-900">Note:</strong> This database is currently incomplete and represents a constantly evolving source of data. We're actively working to expand our coverage of Ireland's gaming heritage, and <strong>contributions are always welcome</strong>. If you have information about Irish-developed games, corrections to existing entries, or additional context to share, please reach out.
+            </p>
+          </div>
 
           <div class="mt-8 grid gap-5 sm:grid-cols-2">
             <div class="bg-green-50 rounded-2xl border border-green-100 p-6 shadow-sm">

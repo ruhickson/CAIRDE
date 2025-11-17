@@ -66,7 +66,7 @@
 
       <!-- Games Grid -->
       <div v-if="!loading && !error && paginatedGames.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-        <div v-for="game in paginatedGames" :key="game.appId" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+        <div v-for="(game, index) in paginatedGames" :key="game.appId || `csv-${game.name}-${index}`" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
           <div class="p-6">
             <h3 class="text-2xl font-bold text-green-800 mb-3">
               <a 
@@ -81,6 +81,16 @@
             <div v-if="game.developers" class="mb-3">
               <span class="text-base text-gray-700">Developer: </span>
               <span class="text-base font-semibold text-green-700">{{ formatDevelopers(game.developers) }}</span>
+            </div>
+            
+            <div v-if="game.publisher" class="mb-3">
+              <span class="text-base text-gray-700">Publisher: </span>
+              <span class="text-base font-semibold text-green-700">{{ game.publisher }}</span>
+            </div>
+            
+            <div v-if="game.platforms" class="mb-3">
+              <span class="text-base text-gray-700">Platforms: </span>
+              <span class="text-base text-gray-600">{{ game.platforms }}</span>
             </div>
             
             <div class="flex flex-wrap gap-2 mb-4">
@@ -200,6 +210,7 @@
 <script setup>
 import { ref, onMounted, computed, watch } from 'vue';
 import { queryIrishGames } from '../services/cubejs';
+import { loadCSVGames } from '../services/csvLoader';
 
 const allGames = ref([]);
 const loading = ref(true);
@@ -323,9 +334,11 @@ const filteredGames = computed(() => {
       const toStringValue = (value) => (value === null || value === undefined ? '' : String(value));
       const name = toStringValue(game.name).toLowerCase();
       const developers = formatDevelopers(game.developers).toLowerCase();
+      const publisher = toStringValue(game.publisher).toLowerCase();
+      const platforms = toStringValue(game.platforms).toLowerCase();
       const type = toStringValue(game.type).toLowerCase();
       const reviewDesc = toStringValue(game.reviewScoreDesc).toLowerCase();
-      return name.includes(query) || developers.includes(query) || type.includes(query) || reviewDesc.includes(query);
+      return name.includes(query) || developers.includes(query) || publisher.includes(query) || platforms.includes(query) || type.includes(query) || reviewDesc.includes(query);
     });
   }
   
@@ -375,28 +388,67 @@ const fetchGames = async (useCache = true) => {
   console.log('Loading state set to true');
   
   try {
-    console.log('Starting to fetch games, useCache:', useCache);
-    const data = await queryIrishGames(useCache);
-    console.log('Successfully fetched', data.length, 'games');
-    console.log('Sample game data:', data[0]);
+    console.log('Starting to fetch games from both sources, useCache:', useCache);
+    
+    // Load both sources in parallel
+    const [cubeGames, csvGames] = await Promise.all([
+      queryIrishGames(useCache).catch(err => {
+        console.warn('Failed to load Cube.js games:', err);
+        return [];
+      }),
+      loadCSVGames().catch(err => {
+        console.warn('Failed to load CSV games:', err);
+        return [];
+      })
+    ]);
+    
+    console.log('Cube.js games:', cubeGames.length);
+    console.log('CSV games:', csvGames.length);
+    
+    // Merge games, preferring Cube.js data when duplicates exist
+    const mergedGames = mergeGameData(cubeGames, csvGames);
+    
+    console.log('Merged total:', mergedGames.length, 'games');
+    console.log('Sample game data:', mergedGames[0]);
     
     // Ensure data is an array
-    if (Array.isArray(data)) {
-      allGames.value = data;
-      console.log('allGames.value set to', data.length, 'games');
+    if (Array.isArray(mergedGames)) {
+      allGames.value = mergedGames;
+      console.log('allGames.value set to', mergedGames.length, 'games');
     } else {
-      console.error('Data is not an array:', data);
+      console.error('Merged data is not an array:', mergedGames);
       allGames.value = [];
     }
   } catch (err) {
     console.error('Error in fetchGames:', err);
-    error.value = err.message || 'Failed to load games from Cube.js';
+    error.value = err.message || 'Failed to load games';
     allGames.value = [];
   } finally {
     console.log('Setting loading to false');
     loading.value = false;
     console.log('Current state - loading:', loading.value, 'games count:', allGames.value.length, 'error:', error.value);
   }
+};
+
+/**
+ * Merge Cube.js and CSV game data, preferring Cube.js when duplicates exist
+ * Duplicates are identified by matching game names (case-insensitive)
+ */
+const mergeGameData = (cubeGames, csvGames) => {
+  const merged = [...cubeGames]
+  const cubeGameNames = new Set(
+    cubeGames.map(g => g.name?.toLowerCase().trim()).filter(Boolean)
+  )
+  
+  // Add CSV games that don't exist in Cube.js data
+  for (const csvGame of csvGames) {
+    const csvName = csvGame.name?.toLowerCase().trim()
+    if (csvName && !cubeGameNames.has(csvName)) {
+      merged.push(csvGame)
+    }
+  }
+  
+  return merged
 };
 
 onMounted(() => {

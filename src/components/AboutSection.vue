@@ -29,7 +29,6 @@
             <ul class="space-y-2">
               <li>• Donate physical or digital materials (games, artwork, documentation).</li>
               <li>• Help research and catalogue historic releases.</li>
-              <li>• Mentor students interested in preservation careers.</li>
               <li>• Sponsor events or provide hosting and storage resources.</li>
             </ul>
             <p class="text-sm text-gray-500">Email <a href="mailto:cairde@tutamail.com" class="underline text-green-700 font-semibold">cairde@tutamail.com</a> to introduce yourself and learn more.</p>
@@ -41,8 +40,8 @@
         <div class="grid gap-8 md:grid-cols-3">
           <div>
             <p class="text-sm uppercase tracking-widest text-green-200">Contact Us</p>
-            <h4 class="text-xl font-semibold mt-2">Questions & Collaborations</h4>
-            <p class="text-green-100 mt-2">cairde@tutamail.com</p>
+            <h4 class="text-xl font-semibold mt-2">cairde@tutamail.com</h4>
+            <p class="text-green-100 mt-2">Questions & Collaborations welcome</p>
           </div>
           <div>
             <p class="text-sm uppercase tracking-widest text-green-200">Materials & Donations</p>

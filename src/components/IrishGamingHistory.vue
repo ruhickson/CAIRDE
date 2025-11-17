@@ -41,7 +41,7 @@
             • <a href="https://www.imirt.ie" target="_blank" rel="noopener" class="underline hover:text-green-900">Imirt – The Irish Game Makers Association</a>
           </li>
           <li>
-            • <a href="https://www.rte.ie/culture/games/" target="_blank" rel="noopener" class="underline hover:text-green-900">RTÉ Culture – Weekly reporting on Irish-made games</a>
+            • <a href="https://www.rte.ie/culture/games/" target="_blank" rel="noopener" class="underline hover:text-green-900">RTÉ Culture – Irish coverage of video games</a>
           </li>
           <li>
             • <a href="https://www.havok.com" target="_blank" rel="noopener" class="underline hover:text-green-900">Havok History – Middleware innovation born in Dublin</a>
