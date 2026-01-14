@@ -1,0 +1,9 @@
+Documented Title: Feud (Released: 2024)
+
+Developed by Bearwaves, this work represents a contribution to Ireland's digital game development heritage. Classified within the Indie, Strategy, Free To Play genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2020s.
+
+Upon release, Feud garnered very positive critical reception, accumulating 221 player reviews. Feud is a turn-based strategy game made by some guys you haven't heard of yet. Originally a board game designed by Dave Cordell, it's been polished and tweaked and generally mucked about with to bring it to the glowing screen you're reading this description on. Unless you printed it out? Think of the trees. Please.CONDENSED ABSTRACT STRATEGYImagine chess, but on a four-by-four grid, where pieces are swapped rather than moved, each piece has its own special ability and--OK, not so much like chess. What you can expect is a highly condensed little abstract strategy game which is easy enough to...
+
+
+
+[Archival Reference: Steam App ID 863400]

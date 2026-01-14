@@ -1,0 +1,1046 @@
+[
+  {
+    "app_id": 70300,
+    "name": "VVVVVV",
+    "developer": "Terry Cavanagh",
+    "year": 2010
+  },
+  {
+    "app_id": 221640,
+    "name": "Super Hexagon",
+    "developer": "Terry Cavanagh",
+    "year": 2012
+  },
+  {
+    "app_id": 270330,
+    "name": "Ku: Shroud of the Morrigan",
+    "developer": "bitSmith Games",
+    "year": 2014
+  },
+  {
+    "app_id": 295710,
+    "name": "Darkwind: War on Wheels",
+    "developer": "Psychic Software",
+    "year": 2014
+  },
+  {
+    "app_id": 295490,
+    "name": "Schrodinger\u2019s Cat And The Raiders Of The Lost Quark",
+    "developer": "Italic Pig Limited",
+    "year": 2014
+  },
+  {
+    "app_id": 327150,
+    "name": "Deadstone",
+    "developer": "Timeslip Softworks",
+    "year": 2014
+  },
+  {
+    "app_id": 346630,
+    "name": "Plazma Being",
+    "developer": "Hedge Knight Games",
+    "year": 2015
+  },
+  {
+    "app_id": 346440,
+    "name": "Musclecar Online",
+    "developer": "Psychic Software",
+    "year": 2015
+  },
+  {
+    "app_id": 317820,
+    "name": "Guild of Dungeoneering Ultimate Edition",
+    "developer": "Gambrinous",
+    "year": 2015
+  },
+  {
+    "app_id": 287980,
+    "name": "Mini Metro",
+    "developer": "Dinosaur Polo Club",
+    "year": 2015
+  },
+  {
+    "app_id": 430240,
+    "name": "Duplexer",
+    "developer": "Vantage Games",
+    "year": 2016
+  },
+  {
+    "app_id": 443650,
+    "name": "Wailing Heights",
+    "developer": "Outsider Games",
+    "year": 2016
+  },
+  {
+    "app_id": 395100,
+    "name": "Systematic Immunity",
+    "developer": "Hedge Knight Games",
+    "year": 2016
+  },
+  {
+    "app_id": 389190,
+    "name": "Goblins and Grottos",
+    "developer": "Psychic Software",
+    "year": 2016
+  },
+  {
+    "app_id": 488770,
+    "name": "Her Majesty's SPIFFING",
+    "developer": "Billy Goat Entertainment Ltd",
+    "year": 2016
+  },
+  {
+    "app_id": 423590,
+    "name": "The Little Acre",
+    "developer": "Pewter Games Studios",
+    "year": 2016
+  },
+  {
+    "app_id": 586310,
+    "name": "Gunman Taco Truck",
+    "developer": "Romero Games Ltd.",
+    "year": 2017
+  },
+  {
+    "app_id": 582270,
+    "name": "Everything",
+    "developer": "David OReilly",
+    "year": 2017
+  },
+  {
+    "app_id": 651820,
+    "name": "Little Miss Lonely",
+    "developer": "Club Cotton Games",
+    "year": 2017
+  },
+  {
+    "app_id": 368390,
+    "name": "The Darkside Detective",
+    "developer": "Spooky Doorway",
+    "year": 2017
+  },
+  {
+    "app_id": 724640,
+    "name": "AuroraBound Deluxe",
+    "developer": "Final Game Studio",
+    "year": 2017
+  },
+  {
+    "app_id": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "developer": "PUBG Corporation",
+    "year": 2017
+  },
+  {
+    "app_id": 545600,
+    "name": "Vigilantes",
+    "developer": "Timeslip Softworks",
+    "year": 2018
+  },
+  {
+    "app_id": 882390,
+    "name": "EnHanced",
+    "developer": "RainingLamppost",
+    "year": 2018
+  },
+  {
+    "app_id": 945360,
+    "name": "Among Us",
+    "developer": "Innersloth",
+    "year": 2018
+  },
+  {
+    "app_id": 977810,
+    "name": "THE ENIGMA MACHINE",
+    "developer": "ENIGMA STUDIO",
+    "year": 2018
+  },
+  {
+    "app_id": 871310,
+    "name": "Arc Savior",
+    "developer": "Squid Monkey Studios",
+    "year": 2019
+  },
+  {
+    "app_id": 340210,
+    "name": "Predestination",
+    "developer": "Brain and Nerd Ltd",
+    "year": 2019
+  },
+  {
+    "app_id": 945100,
+    "name": "Bassline Sinker",
+    "developer": "TheFitzyGames",
+    "year": 2019
+  },
+  {
+    "app_id": 1032240,
+    "name": "Line Loops - Logic Puzzles",
+    "developer": "Final Game Studio",
+    "year": 2019
+  },
+  {
+    "app_id": 1068540,
+    "name": "Aurora Hex - Pattern Puzzles",
+    "developer": "Final Game Studio",
+    "year": 2019
+  },
+  {
+    "app_id": 861540,
+    "name": "Dicey Dungeons",
+    "developer": "Terry Cavanagh",
+    "year": 2019
+  },
+  {
+    "app_id": 548240,
+    "name": "Demon Pit",
+    "developer": "Psychic Software",
+    "year": 2019
+  },
+  {
+    "app_id": 1234280,
+    "name": "Fighters' Glory",
+    "developer": "Corbally Games",
+    "year": 2020
+  },
+  {
+    "app_id": 1274630,
+    "name": "So May It Be: A Witch Dating Simulator",
+    "developer": "Planchette Games",
+    "year": 2020
+  },
+  {
+    "app_id": 1041920,
+    "name": "If Found...",
+    "developer": "DREAMFEEL",
+    "year": 2020
+  },
+  {
+    "app_id": 1250030,
+    "name": "Ourea",
+    "developer": "Rewrite Games",
+    "year": 2020
+  },
+  {
+    "app_id": 427520,
+    "name": "Factorio",
+    "developer": "Wube Software LTD.",
+    "year": 2020
+  },
+  {
+    "app_id": 1184480,
+    "name": "Inertial Drift",
+    "developer": "Level 91 Entertainment",
+    "year": 2020
+  },
+  {
+    "app_id": 904400,
+    "name": "Cardpocalypse",
+    "developer": "Gambrinous",
+    "year": 2020
+  },
+  {
+    "app_id": 1086460,
+    "name": "Supermarket Shriek",
+    "developer": "Billy Goat Entertainment",
+    "year": 2020
+  },
+  {
+    "app_id": 604540,
+    "name": "Empire of Sin",
+    "developer": "Romero Games",
+    "year": 2020
+  },
+  {
+    "app_id": 1482830,
+    "name": "Ho-Ho-Home Invasion",
+    "developer": "Whitepot Studios",
+    "year": 2020
+  },
+  {
+    "app_id": 1157700,
+    "name": "Pro Wrestling Sim",
+    "developer": "Pro Wrestling Sim",
+    "year": 2021
+  },
+  {
+    "app_id": 795420,
+    "name": "The Darkside Detective: A Fumble in the Dark",
+    "developer": "Spooky Doorway",
+    "year": 2021
+  },
+  {
+    "app_id": 945740,
+    "name": "Buildings Have Feelings Too!",
+    "developer": "Blackstaff Games",
+    "year": 2021
+  },
+  {
+    "app_id": 1399620,
+    "name": "The Caretaker",
+    "developer": "Squid Monkey Studios",
+    "year": 2021
+  },
+  {
+    "app_id": 913720,
+    "name": "Alchemic Cutie",
+    "developer": "Vakio",
+    "year": 2021
+  },
+  {
+    "app_id": 1830720,
+    "name": "MOTHERED - A ROLE-PLAYING HORROR GAME",
+    "developer": "ENIGMA STUDIO",
+    "year": 2021
+  },
+  {
+    "app_id": 1492650,
+    "name": "Crooks Like Us",
+    "developer": "Out Of Tune Games",
+    "year": 2022
+  },
+  {
+    "app_id": 2082260,
+    "name": "TAXINAUT",
+    "developer": "mosgrom",
+    "year": 2022
+  },
+  {
+    "app_id": 1957230,
+    "name": "Employee of The Month",
+    "developer": "Projeckt Skeleton",
+    "year": 2022
+  },
+  {
+    "app_id": 1466350,
+    "name": "Jennifer Wilde: Unlikely Revolutionaries",
+    "developer": "Outsider Games",
+    "year": 2022
+  },
+  {
+    "app_id": 2199610,
+    "name": "Lincoln Green",
+    "developer": "Corbally Games",
+    "year": 2023
+  },
+  {
+    "app_id": 2222220,
+    "name": "FaceValue",
+    "developer": "Sure Why Not?",
+    "year": 2023
+  },
+  {
+    "app_id": 1266030,
+    "name": "The Pale Beyond",
+    "developer": "Saltstone Studios",
+    "year": 2023
+  },
+  {
+    "app_id": 774801,
+    "name": "Crab Champions",
+    "developer": "Noisestorm",
+    "year": 2023
+  },
+  {
+    "app_id": 1195420,
+    "name": "Filthy Animals | Heist Simulator",
+    "developer": "Pewter Games Studios",
+    "year": 2023
+  },
+  {
+    "app_id": 1269300,
+    "name": "This Means Warp",
+    "developer": "Outlier",
+    "year": 2023
+  },
+  {
+    "app_id": 2238210,
+    "name": "Sergeant Squidley: Space Cop!",
+    "developer": "Ninjaconor",
+    "year": 2023
+  },
+  {
+    "app_id": 1086940,
+    "name": "Baldur's Gate 3",
+    "developer": "Larian Studios",
+    "year": 2023
+  },
+  {
+    "app_id": 1202200,
+    "name": "Paleo Pines",
+    "developer": "Italic Pig",
+    "year": 2023
+  },
+  {
+    "app_id": 1957300,
+    "name": "The Sirena Expedition",
+    "developer": "Giraffe Cat",
+    "year": 2023
+  },
+  {
+    "app_id": 2604450,
+    "name": "com__et",
+    "developer": "Margarita Games",
+    "year": 2023
+  },
+  {
+    "app_id": 858030,
+    "name": "Paranoia: Happiness is Mandatory",
+    "developer": "Black Shamrock",
+    "year": 2023
+  },
+  {
+    "app_id": 2181800,
+    "name": "Just Dodge, LOL",
+    "developer": "Gretham",
+    "year": 2024
+  },
+  {
+    "app_id": 863400,
+    "name": "Feud",
+    "developer": "Bearwaves",
+    "year": 2024
+  },
+  {
+    "app_id": 2701020,
+    "name": "The Gauntlet",
+    "developer": "Round Table Studios",
+    "year": 2024
+  },
+  {
+    "app_id": 2803140,
+    "name": "The Final Farewell",
+    "developer": "Studio Witchstar",
+    "year": 2024
+  },
+  {
+    "app_id": 2772590,
+    "name": "Catlists",
+    "developer": "Burkus",
+    "year": 2024
+  },
+  {
+    "app_id": 1558000,
+    "name": "[ECHOSTASIS]",
+    "developer": "ENIGMA STUDIO",
+    "year": 2024
+  },
+  {
+    "app_id": 2396660,
+    "name": "Anchored Hearts: A Tale of Destiny",
+    "developer": "Studio Witchstar",
+    "year": 2024
+  },
+  {
+    "app_id": 2906540,
+    "name": "Scrambled Eggs",
+    "developer": "Jake Horner",
+    "year": 2024
+  },
+  {
+    "app_id": 2835960,
+    "name": "BattleClaws",
+    "developer": "DameGev",
+    "year": 2024
+  },
+  {
+    "app_id": 2942420,
+    "name": "Poetry Pigeon",
+    "developer": "T. T. Hew Games",
+    "year": 2024
+  },
+  {
+    "app_id": 3106750,
+    "name": "Gladiate!",
+    "developer": "Teicsoft",
+    "year": 2024
+  },
+  {
+    "app_id": 2809240,
+    "name": "Elemental Exiles",
+    "developer": "Final Game Studio",
+    "year": 2024
+  },
+  {
+    "app_id": 2015960,
+    "name": "Parcel Corps",
+    "developer": "Billy Goat Entertainment Ltd",
+    "year": 2024
+  },
+  {
+    "app_id": 1663040,
+    "name": "Amber Isle",
+    "developer": "Ambertail Games",
+    "year": 2024
+  },
+  {
+    "app_id": 2891690,
+    "name": "Whispers in the Shadows",
+    "developer": "Sugradh_Dev",
+    "year": 2024
+  },
+  {
+    "app_id": 3193510,
+    "name": "The Ghost of Redstone Manor",
+    "developer": "Bashevis Games",
+    "year": 2024
+  },
+  {
+    "app_id": 3080030,
+    "name": "Chroma Cross",
+    "developer": "TheFitzyGames",
+    "year": 2024
+  },
+  {
+    "app_id": 2948790,
+    "name": "CROWDED. FOLLOWED.",
+    "developer": "NIGHT DIAL",
+    "year": 2024
+  },
+  {
+    "app_id": 2327140,
+    "name": "Daemonium",
+    "developer": "Steel Feather Studio",
+    "year": 2024
+  },
+  {
+    "app_id": 1254320,
+    "name": "Surviving the Abyss",
+    "developer": "Rocket Flair Studios",
+    "year": 2024
+  },
+  {
+    "app_id": 2663840,
+    "name": "An Aisling",
+    "developer": "Club Cotton Games",
+    "year": 2024
+  },
+  {
+    "app_id": 2826890,
+    "name": "Fight Back The Night",
+    "developer": "Morpeth Jetsan Ltd",
+    "year": 2024
+  },
+  {
+    "app_id": 993770,
+    "name": "LazerGrrl",
+    "developer": "Sandwich Generation",
+    "year": 2024
+  },
+  {
+    "app_id": 2080450,
+    "name": "The Empress Quest : Full Moons Saga",
+    "developer": "Nine Stories Tower Studio",
+    "year": 2024
+  },
+  {
+    "app_id": 1520590,
+    "name": "Slap It Together!",
+    "developer": "Head Tilt Games",
+    "year": 2024
+  },
+  {
+    "app_id": 3300480,
+    "name": "POCKET MYSTERY EP DX",
+    "developer": "Kohococoa Design Works",
+    "year": 2024
+  },
+  {
+    "app_id": 3345970,
+    "name": "Benign Land",
+    "developer": "Leandros Ntolas",
+    "year": 2025
+  },
+  {
+    "app_id": 690830,
+    "name": "Foundation",
+    "developer": "Polymorph Games",
+    "year": 2025
+  },
+  {
+    "app_id": 3475600,
+    "name": "FriendShapes",
+    "developer": "RainingLamppost",
+    "year": 2025
+  },
+  {
+    "app_id": 2824580,
+    "name": "Terry's Other Games",
+    "developer": "Terry Cavanagh",
+    "year": 2025
+  },
+  {
+    "app_id": 1886910,
+    "name": "Mars Vice",
+    "developer": "Rho Labyrinths GmbH",
+    "year": 2025
+  },
+  {
+    "app_id": 2983520,
+    "name": "Tile Tales: Pirate",
+    "developer": "NineZyme O\u00dc",
+    "year": 2025
+  },
+  {
+    "app_id": 2850490,
+    "name": "Axyz",
+    "developer": "Space Lion Studios",
+    "year": 2025
+  },
+  {
+    "app_id": 1725270,
+    "name": "Ekoh Beach",
+    "developer": "Zenland Games",
+    "year": 2025
+  },
+  {
+    "app_id": 3356320,
+    "name": "For Her",
+    "developer": "Matthew",
+    "year": 2025
+  },
+  {
+    "app_id": 2324180,
+    "name": "Tranquil Isle",
+    "developer": "Tom Daly",
+    "year": 2025
+  },
+  {
+    "app_id": 3541130,
+    "name": "Many Nights a Whisper",
+    "developer": "Deconstructeam",
+    "year": 2025
+  },
+  {
+    "app_id": 3364220,
+    "name": "Ventilate",
+    "developer": "Inkfox Studios",
+    "year": 2025
+  },
+  {
+    "app_id": 3462150,
+    "name": "Turret Baffler",
+    "developer": "Aceade Games",
+    "year": 2025
+  },
+  {
+    "app_id": 2985990,
+    "name": "MMM",
+    "developer": "We Are Dinosaurs",
+    "year": 2025
+  },
+  {
+    "app_id": 3716980,
+    "name": "Thank You for Your Time",
+    "developer": "Rogue Writer Indie",
+    "year": 2025
+  },
+  {
+    "app_id": 3694740,
+    "name": "Bean Sidhe",
+    "developer": "Sealbee Games",
+    "year": 2025
+  },
+  {
+    "app_id": 2972380,
+    "name": "The Paddock",
+    "developer": "Josh Devlin",
+    "year": 2025
+  },
+  {
+    "app_id": 1208110,
+    "name": "Prometheus Wept",
+    "developer": "Timeslip Softworks",
+    "year": 2025
+  },
+  {
+    "app_id": 1315320,
+    "name": "The Necromancer's Tale",
+    "developer": "Psychic Software",
+    "year": 2025
+  },
+  {
+    "app_id": 3477080,
+    "name": "Tree Kingdoms",
+    "developer": "Biscuit Factory Games",
+    "year": 2025
+  },
+  {
+    "app_id": 3842180,
+    "name": "MINI Rugby: World Tour",
+    "developer": "Chunky Games",
+    "year": 2025
+  },
+  {
+    "app_id": 1724030,
+    "name": "Eyes of Hellfire",
+    "developer": "Gambrinous",
+    "year": 2025
+  },
+  {
+    "app_id": 1646800,
+    "name": "RelicWar",
+    "developer": "Violent Candle Studios",
+    "year": 2025
+  },
+  {
+    "app_id": 2760580,
+    "name": "Mars Attracts",
+    "developer": "Outlier",
+    "year": 2025
+  },
+  {
+    "app_id": 3560370,
+    "name": "\u00c9al\u00fa",
+    "developer": "Beyond the Bark",
+    "year": 2025
+  },
+  {
+    "app_id": 3039260,
+    "name": "Lumo 2",
+    "developer": "Triple Eh? Ltd",
+    "year": 2025
+  },
+  {
+    "app_id": 1395520,
+    "name": "The S\u00e9ance of Blake Manor",
+    "developer": "Spooky Doorway",
+    "year": 2025
+  },
+  {
+    "app_id": 4119500,
+    "name": "1711 Ireland: A Witch's Fate",
+    "developer": "Brian Coyle",
+    "year": 2025
+  },
+  {
+    "app_id": 689370,
+    "name": "Azzy Battles the Darkness",
+    "developer": "Celtic Dragon Studio",
+    "year": null
+  },
+  {
+    "app_id": 1143070,
+    "name": "Dynasty of the Sands",
+    "developer": "Rocket Flair Studios",
+    "year": null
+  },
+  {
+    "app_id": 1400660,
+    "name": "Rise of Piracy",
+    "developer": "IrishJohnGames",
+    "year": null
+  },
+  {
+    "app_id": 1595390,
+    "name": "Castle Dornstein",
+    "developer": "Digital Mosaic Games",
+    "year": null
+  },
+  {
+    "app_id": 1866360,
+    "name": "Chimeral Fantasy",
+    "developer": "Leanne Rath",
+    "year": null
+  },
+  {
+    "app_id": 2003450,
+    "name": "Moonatics",
+    "developer": "Benpaste",
+    "year": null
+  },
+  {
+    "app_id": 2238400,
+    "name": "PizzaBoy",
+    "developer": "Breadless",
+    "year": null
+  },
+  {
+    "app_id": 2471910,
+    "name": "Neon Runner",
+    "developer": "iRL Games",
+    "year": null
+  },
+  {
+    "app_id": 2472530,
+    "name": "PILLORY",
+    "developer": "IODINE",
+    "year": null
+  },
+  {
+    "app_id": 2508290,
+    "name": "Tax-Force",
+    "developer": "Outsider Games",
+    "year": null
+  },
+  {
+    "app_id": 2528170,
+    "name": "The Hearth and Harbour",
+    "developer": "Saltstone Studios",
+    "year": null
+  },
+  {
+    "app_id": 2627200,
+    "name": "Potter About",
+    "developer": "Stableboy Entertainment",
+    "year": null
+  },
+  {
+    "app_id": 2669780,
+    "name": "Spill the Beans",
+    "developer": "Skeletal Games",
+    "year": null
+  },
+  {
+    "app_id": 2744520,
+    "name": "Swing Boy",
+    "developer": "Robert O'Connor",
+    "year": null
+  },
+  {
+    "app_id": 2812890,
+    "name": "Astral Arena",
+    "developer": "The Game Garden",
+    "year": null
+  },
+  {
+    "app_id": 2891720,
+    "name": "Necromage",
+    "developer": "CrazyPepe Games",
+    "year": null
+  },
+  {
+    "app_id": 3087670,
+    "name": "Questing",
+    "developer": "Jaggy Snake Games",
+    "year": null
+  },
+  {
+    "app_id": 3126340,
+    "name": "Burden Street Station",
+    "developer": "IODINE",
+    "year": null
+  },
+  {
+    "app_id": 3188880,
+    "name": "Crystal Edge: Retribution",
+    "developer": "Broken Brains Studios",
+    "year": null
+  },
+  {
+    "app_id": 3258250,
+    "name": "Eighthwell",
+    "developer": "Lutum Games",
+    "year": null
+  },
+  {
+    "app_id": 3286860,
+    "name": "The Hundredth Hike",
+    "developer": "Liberation Games",
+    "year": null
+  },
+  {
+    "app_id": 3314190,
+    "name": "Oh No! UFO!",
+    "developer": "Blunderjack",
+    "year": null
+  },
+  {
+    "app_id": 3350850,
+    "name": "Coco's Revenge",
+    "developer": "Octopus Punch",
+    "year": null
+  },
+  {
+    "app_id": 3354930,
+    "name": "Junk Sec",
+    "developer": "Shoehead",
+    "year": null
+  },
+  {
+    "app_id": 3411120,
+    "name": "Everstill Valley",
+    "developer": "Pixel Army Games",
+    "year": null
+  },
+  {
+    "app_id": 3437350,
+    "name": "Little Aviary",
+    "developer": "Tom Daly",
+    "year": 2025
+  },
+  {
+    "app_id": 3451110,
+    "name": "Pulp Action Shotgun",
+    "developer": "Monitr",
+    "year": null
+  },
+  {
+    "app_id": 3469260,
+    "name": "Marblous Worlds",
+    "developer": "Hyphinett",
+    "year": null
+  },
+  {
+    "app_id": 3473440,
+    "name": "Sparrow Warfare",
+    "developer": "NEON AURELIUS",
+    "year": null
+  },
+  {
+    "app_id": 3499260,
+    "name": "Ravel the Frays",
+    "developer": "Margarita Games",
+    "year": null
+  },
+  {
+    "app_id": 3512730,
+    "name": "Bouncy Butt Castle",
+    "developer": "AueSip",
+    "year": null
+  },
+  {
+    "app_id": 3556110,
+    "name": "You've Changed",
+    "developer": "Burkus",
+    "year": null
+  },
+  {
+    "app_id": 3571380,
+    "name": "Travel Pack!",
+    "developer": "Blackstaff Games",
+    "year": null
+  },
+  {
+    "app_id": 3571710,
+    "name": "Leaf Blower Co.",
+    "developer": "LifT Games",
+    "year": 2025
+  },
+  {
+    "app_id": 3575280,
+    "name": "Build A Bot",
+    "developer": "DESKRAGE",
+    "year": null
+  },
+  {
+    "app_id": 3578080,
+    "name": "Wee Boats",
+    "developer": "James Poole",
+    "year": null
+  },
+  {
+    "app_id": 3582530,
+    "name": "Max Beyond",
+    "developer": "Hazimation",
+    "year": null
+  },
+  {
+    "app_id": 3599690,
+    "name": "Funi Raccoon Game",
+    "developer": "Crayon",
+    "year": null
+  },
+  {
+    "app_id": 3691430,
+    "name": "Blood Of The Lamb",
+    "developer": "Tusks And Talons Games",
+    "year": null
+  },
+  {
+    "app_id": 3723750,
+    "name": "Trading Card Inspector",
+    "developer": "Daydream Gallery",
+    "year": null
+  },
+  {
+    "app_id": 3749760,
+    "name": "Sushi On Wheels",
+    "developer": "Greene Rapture",
+    "year": null
+  },
+  {
+    "app_id": 3763050,
+    "name": "Comet Tycoon",
+    "developer": "CalmFrantix",
+    "year": 2025
+  },
+  {
+    "app_id": 3779120,
+    "name": "Sub-Species",
+    "developer": "Howling Hamster Entertainment",
+    "year": null
+  },
+  {
+    "app_id": 3812490,
+    "name": "T\u00d6LT",
+    "developer": "ENIGMA STUDIO",
+    "year": null
+  },
+  {
+    "app_id": 3840340,
+    "name": "DeTails",
+    "developer": "Can You Eat It?",
+    "year": null
+  },
+  {
+    "app_id": 3851460,
+    "name": "Smash 'N Grab",
+    "developer": "SLAP-BANG! Digital",
+    "year": null
+  },
+  {
+    "app_id": 3873460,
+    "name": "ExoDomia",
+    "developer": "Fomorian Studios",
+    "year": null
+  },
+  {
+    "app_id": 3914780,
+    "name": "Familiar Findings",
+    "developer": "Cliffa Games",
+    "year": null
+  },
+  {
+    "app_id": 3917800,
+    "name": "Breadieval",
+    "developer": "Eight Dots Game Studio",
+    "year": null
+  },
+  {
+    "app_id": 3977140,
+    "name": "Myosotis",
+    "developer": "Matthew",
+    "year": null
+  },
+  {
+    "app_id": 4032290,
+    "name": "Exercise your Demons",
+    "developer": "BoopDood",
+    "year": null
+  },
+  {
+    "app_id": 4039690,
+    "name": "Brass & Bramble",
+    "developer": "Puca Labs",
+    "year": null
+  },
+  {
+    "app_id": 4078550,
+    "name": "Blast Off!",
+    "developer": "Head for Orbit Games",
+    "year": null
+  },
+  {
+    "app_id": 4088470,
+    "name": "Muskets VR",
+    "developer": "Swordmaster2k Games",
+    "year": null
+  },
+  {
+    "app_id": 4091420,
+    "name": "Benjumpin Hopkins",
+    "developer": "MrWhoMan",
+    "year": null
+  }
+]

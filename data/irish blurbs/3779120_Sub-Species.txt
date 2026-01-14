@@ -1,0 +1,9 @@
+Documented Title: Sub-Species
+
+Developed by Howling Hamster Entertainment, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action, Adventure genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Sub-Species is a 2.5D Arcade Action/Adventure, where you control a submarine that rotates 360° in order to battle alien sea monsters that will be coming at you from all angles.You must explore the contaminated zones,  outmanoeuvring and fighting aggressive alien lifeforms that have overrun these areas of the oceanBattle across 12 levels in 4 environments, as you search for new weapons and lost experimental technology amongst the shipwrecks and naval outposts.As the Story unfolds, uncover the secrets of the emerging alien world, and the naval authorities that control it.
+
+
+
+[Archival Reference: Steam App ID 3779120]

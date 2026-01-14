@@ -1,0 +1,9 @@
+Documented Title: Pulp Action Shotgun
+
+Developed by Monitr, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action, Adventure, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Inspired by Quake and 1940s pulp comics, Pulp Action Shotgun a round-based comic boomer shooter. The goal is simple, Survive the endless waves of demons hellbent on taking you down. With your Ol' Reliable Shotgun you will face the oncoming apocalypse alone. The longer you survive the bigger the horde, they will stop at nothing to defeat you, so make it a worthy battle to the death. Your shotgun can be used for more than just killing, as the knockback is strong enough to send you flying. A well placed shot to the ground will open the skies for traversal, but you can't be wasteful with your a...
+
+
+
+[Archival Reference: Steam App ID 3451110]

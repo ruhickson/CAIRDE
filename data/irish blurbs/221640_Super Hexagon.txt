@@ -1,0 +1,9 @@
+Documented Title: Super Hexagon (Released: 2012)
+
+Developed by Terry Cavanagh, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2010s.
+
+Upon release, Super Hexagon garnered overwhelmingly positive critical reception, accumulating 24,831 player reviews. Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.Important facts about Hexagons:Hexagons are third order permutohedrons: The vertices of a hexagon can be formed by permuting the coordinates of the vector (1, 2, 3).The north pole of the planet Saturn has a hexagonal storm cloud pattern with 8,600 mile long sides, larger than the diameter of Earth.Though hexagon may appear to be a difficult word to rhyme, there are actually dozens of words that rhyme with it. For example: Autobahn, decagon, decathlon, electron, Kyrgzstan, Lebanon, leprechaun and marathon.
+
+
+
+[Archival Reference: Steam App ID 221640]

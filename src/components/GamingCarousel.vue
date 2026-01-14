@@ -108,12 +108,12 @@ onBeforeUnmount(() => {
           </button>
         </div>
 
-        <div class="flex justify-center gap-2 py-4 bg-white dark:bg-black">
+        <div class="flex justify-center gap-2 py-4 bg-white dark:bg-gray-900">
           <button
             v-for="(slide, index) in slides"
             :key="slide.image"
-            class="h-3 w-3 rounded-full border border-green-600"
-            :class="index === currentIndex ? 'bg-green-600' : 'bg-transparent'"
+            class="h-3 w-3 rounded-full border border-green-600 dark:border-green-500"
+            :class="index === currentIndex ? 'bg-green-600 dark:bg-green-500' : 'bg-transparent'"
             @click="currentIndex = index"
             @mouseenter="stopAutoPlay"
             @mouseleave="startAutoPlay"

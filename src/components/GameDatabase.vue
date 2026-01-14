@@ -1,23 +1,23 @@
 <template>
-  <section class="py-12 bg-green-50">
+  <section class="py-12 bg-green-50 dark:bg-gray-900">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-4xl md:text-5xl font-extrabold text-green-800 mb-10 flex items-center gap-4">
-        <i class="fas fa-gamepad text-green-700 text-3xl md:text-4xl"></i>
+      <h2 class="text-4xl md:text-5xl font-extrabold text-green-800 dark:text-green-300 mb-10 flex items-center gap-4">
+        <i class="fas fa-gamepad text-green-700 dark:text-green-400 text-3xl md:text-4xl"></i>
         Irish Games Database
       </h2>
       
       <!-- Loading State -->
       <div v-if="loading" class="text-center py-12">
-        <p class="text-green-800 text-lg">Loading games...</p>
+        <p class="text-green-800 dark:text-white text-lg">Loading games...</p>
       </div>
 
       <!-- Error State -->
-      <div v-else-if="error" class="bg-red-50 border border-red-200 rounded-lg p-6 mb-6">
-        <p class="text-red-800 font-semibold mb-2">Error loading games</p>
-        <p class="text-red-600 text-sm">{{ error }}</p>
+      <div v-else-if="error" class="bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 rounded-lg p-6 mb-6">
+        <p class="text-red-800 dark:text-red-300 font-semibold mb-2">Error loading games</p>
+        <p class="text-red-600 dark:text-red-400 text-sm">{{ error }}</p>
         <button 
           @click="() => fetchGames(false)" 
-          class="mt-4 px-4 py-2 bg-green-700 text-white rounded hover:bg-green-600 transition-colors">
+          class="mt-4 px-4 py-2 bg-green-700 dark:bg-green-600 text-white rounded hover:bg-green-600 dark:hover:bg-green-500 transition-colors">
           Retry
         </button>
       </div>
@@ -31,7 +31,7 @@
               v-model="searchQuery"
               type="text"
               placeholder="Search games..."
-              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-300"
+              class="w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400 focus:border-green-300 dark:focus:border-green-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400"
             />
           </div>
           
@@ -39,7 +39,7 @@
           <div class="sm:w-64">
             <select
               v-model="sortBy"
-              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-green-300 bg-white"
+              class="w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-green-500 dark:focus:ring-green-400 focus:border-green-300 dark:focus:border-green-600 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
             >
               <option value="date-desc">Release Date (Newest)</option>
               <option value="date-asc">Release Date (Oldest)</option>
@@ -52,10 +52,10 @@
         </div>
         
         <!-- Results Count -->
-        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-sm text-gray-600">
+        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-sm text-gray-600 dark:text-white">
           <span>Showing {{ paginatedGames.length }} of {{ filteredGames.length }} games</span>
           <button
-            class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-green-200 text-green-800 hover:bg-green-600 hover:text-white transition"
+            class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-green-200 dark:border-green-700 text-green-800 dark:text-green-300 hover:bg-green-600 dark:hover:bg-green-700 hover:text-white transition"
             @click="refreshGames"
           >
             <i class="fas fa-arrows-rotate"></i>
@@ -66,43 +66,43 @@
 
       <!-- Games Grid -->
       <div v-if="!loading && !error && paginatedGames.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-        <div v-for="(game, index) in paginatedGames" :key="game.appId || `csv-${game.name}-${index}`" class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+        <div v-for="(game, index) in paginatedGames" :key="game.appId || `csv-${game.name}-${index}`" class="bg-white dark:bg-gray-800 rounded-lg shadow-md dark:shadow-gray-900/50 overflow-hidden hover:shadow-lg dark:hover:shadow-gray-900 transition-shadow duration-300 border border-gray-200 dark:border-gray-700">
           <div class="p-6">
-            <h3 class="text-2xl font-bold text-green-800 mb-3">
+            <h3 class="text-2xl font-bold text-green-800 dark:text-green-300 mb-3">
               <a 
                 :href="getGameLink(game)" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                class="hover:text-green-600 transition-colors">
+                class="hover:text-green-600 dark:hover:text-green-200 transition-colors">
                 {{ game.name || 'Unknown Game' }}
               </a>
             </h3>
             
             <div v-if="game.developers" class="mb-3">
-              <span class="text-base text-gray-700">Developer: </span>
-              <span class="text-base font-semibold text-green-700">{{ formatDevelopers(game.developers) }}</span>
+              <span class="text-base text-gray-700 dark:text-white">Developer: </span>
+              <span class="text-base font-semibold text-green-700 dark:text-green-300">{{ formatDevelopers(game.developers) }}</span>
             </div>
             
             <div v-if="game.publisher" class="mb-3">
-              <span class="text-base text-gray-700">Publisher: </span>
-              <span class="text-base font-semibold text-green-700">{{ game.publisher }}</span>
+              <span class="text-base text-gray-700 dark:text-white">Publisher: </span>
+              <span class="text-base font-semibold text-green-700 dark:text-green-300">{{ game.publisher }}</span>
             </div>
             
             <div v-if="game.platforms" class="mb-3">
-              <span class="text-base text-gray-700">Platforms: </span>
-              <span class="text-base text-gray-600">{{ game.platforms }}</span>
+              <span class="text-base text-gray-700 dark:text-white">Platforms: </span>
+              <span class="text-base text-gray-600 dark:text-white">{{ game.platforms }}</span>
             </div>
             
             <div class="flex flex-wrap gap-2 mb-4">
               <span v-if="game.isFree" 
-                    class="px-2 py-1 bg-green-100 text-green-800 text-sm rounded font-medium">
+                    class="px-2 py-1 bg-green-100 dark:bg-green-900/50 text-green-800 dark:text-green-300 text-sm rounded font-medium">
                 Free
               </span>
             </div>
 
             <div class="space-y-2 mb-4">
               <div v-if="game.reviewScoreDesc" class="flex items-center gap-2">
-                <span class="text-base text-gray-700">Reviews:</span>
+                <span class="text-base text-gray-700 dark:text-white">Reviews:</span>
                 <span :class="getReviewScoreColorClass(game.reviewScoreDesc)" 
                       class="text-sm font-semibold px-2 py-1 rounded">
                   {{ game.reviewScoreDesc }}
@@ -110,33 +110,33 @@
               </div>
               
               <div v-if="game.metacritic !== null && game.metacritic !== undefined" class="flex items-center gap-2">
-                <span class="text-base text-gray-700">Metacritic:</span>
-                <span class="text-base font-semibold text-green-700">{{ game.metacritic }}</span>
+                <span class="text-base text-gray-700 dark:text-white">Metacritic:</span>
+                <span class="text-base font-semibold text-green-700 dark:text-green-300">{{ game.metacritic }}</span>
               </div>
               
               <div v-if="game.releaseDate" class="flex items-center gap-2">
-                <span class="text-base text-gray-700">Released:</span>
-                <span class="text-base text-gray-600">{{ formatDate(game.releaseDate) }}</span>
+                <span class="text-base text-gray-700 dark:text-white">Released:</span>
+                <span class="text-base text-gray-600 dark:text-white">{{ formatDate(game.releaseDate) }}</span>
               </div>
               
               <div v-if="game.website && game.website.trim()" class="flex items-center gap-2 flex-wrap">
-                <span class="text-base text-gray-700">Website:</span>
+                <span class="text-base text-gray-700 dark:text-white">Website:</span>
                 <a 
                   :href="game.website.startsWith('http') ? game.website : `https://${game.website}`" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  class="text-base text-green-700 hover:text-green-600 underline break-all">
+                  class="text-base text-green-700 dark:text-green-300 hover:text-green-600 dark:hover:text-green-200 underline break-all">
                   {{ formatWebsite(game.website) }}
                 </a>
               </div>
             </div>
 
-            <div class="flex justify-end items-center pt-4 border-t border-gray-200">
+            <div class="flex justify-end items-center pt-4 border-t border-gray-200 dark:border-gray-700">
               <a 
                 v-if="game.appId" 
                 :href="`https://store.steampowered.com/app/${game.appId}`" 
                 target="_blank" 
-                class="text-green-700 hover:text-green-600 text-base font-semibold">
+                class="text-green-700 dark:text-green-300 hover:text-green-600 dark:hover:text-green-200 text-base font-semibold">
                 View on Steam →
               </a>
             </div>
@@ -152,8 +152,8 @@
           :class="[
             'px-4 py-2 rounded-lg transition-colors',
             currentPage === 1 
-              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
-              : 'bg-green-700 text-white hover:bg-green-600'
+              ? 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed' 
+              : 'bg-green-700 dark:bg-green-600 text-white hover:bg-green-600 dark:hover:bg-green-500'
           ]"
         >
           First
@@ -164,13 +164,13 @@
           :class="[
             'px-4 py-2 rounded-lg transition-colors',
             currentPage === 1 
-              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
-              : 'bg-green-700 text-white hover:bg-green-600'
+              ? 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed' 
+              : 'bg-green-700 dark:bg-green-600 text-white hover:bg-green-600 dark:hover:bg-green-500'
           ]"
         >
           Previous
         </button>
-        <span class="px-4 py-2 text-green-800 font-medium">
+        <span class="px-4 py-2 text-green-800 dark:text-green-300 font-medium">
           Page {{ currentPage }} of {{ totalPages }}
         </span>
         <button
@@ -179,8 +179,8 @@
           :class="[
             'px-4 py-2 rounded-lg transition-colors',
             currentPage === totalPages 
-              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
-              : 'bg-purple-900 text-white hover:bg-purple-700'
+              ? 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed' 
+              : 'bg-purple-900 dark:bg-purple-700 text-white hover:bg-purple-700 dark:hover:bg-purple-600'
           ]"
         >
           Next
@@ -191,8 +191,8 @@
           :class="[
             'px-4 py-2 rounded-lg transition-colors',
             currentPage === totalPages 
-              ? 'bg-gray-200 text-gray-400 cursor-not-allowed' 
-              : 'bg-purple-900 text-white hover:bg-purple-700'
+              ? 'bg-gray-200 dark:bg-gray-700 text-gray-400 dark:text-gray-500 cursor-not-allowed' 
+              : 'bg-purple-900 dark:bg-purple-700 text-white hover:bg-purple-700 dark:hover:bg-purple-600'
           ]"
         >
           Last
@@ -201,7 +201,7 @@
 
       <!-- Empty State -->
       <div v-if="!loading && !error && filteredGames.length === 0" class="text-center py-12">
-        <p class="text-green-800 text-lg">No games found{{ searchQuery ? ' matching your search.' : '.' }}</p>
+        <p class="text-green-800 dark:text-white text-lg">No games found{{ searchQuery ? ' matching your search.' : '.' }}</p>
       </div>
     </div>
   </section>
@@ -289,37 +289,37 @@ const getGameLink = (game) => {
 };
 
 const getReviewScoreColorClass = (reviewDesc) => {
-  if (!reviewDesc) return 'text-gray-600 bg-gray-100';
+  if (!reviewDesc) return 'text-gray-600 dark:text-white bg-gray-100 dark:bg-gray-700';
   
   const desc = reviewDesc.toLowerCase();
   
   // Positive reviews - green shades
   if (desc.includes('overwhelmingly positive')) {
-    return 'text-white bg-green-600';
+    return 'text-white bg-green-600 dark:bg-green-700';
   } else if (desc.includes('very positive')) {
-    return 'text-white bg-green-500';
+    return 'text-white bg-green-500 dark:bg-green-600';
   } else if (desc.includes('positive') && !desc.includes('mostly')) {
-    return 'text-white bg-green-400';
+    return 'text-white bg-green-400 dark:bg-green-500';
   } else if (desc.includes('mostly positive')) {
-    return 'text-green-800 bg-green-100';
+    return 'text-green-800 dark:text-white bg-green-100 dark:bg-green-900/50';
   }
   // Mixed/Neutral - yellow/orange
   else if (desc.includes('mixed')) {
-    return 'text-yellow-800 bg-yellow-100';
+    return 'text-yellow-800 dark:text-white bg-yellow-100 dark:bg-yellow-900/50';
   }
   // Negative reviews - red shades
   else if (desc.includes('overwhelmingly negative')) {
-    return 'text-white bg-red-700';
+    return 'text-white bg-red-700 dark:bg-red-800';
   } else if (desc.includes('very negative')) {
-    return 'text-white bg-red-600';
+    return 'text-white bg-red-600 dark:bg-red-700';
   } else if (desc.includes('negative') && !desc.includes('mostly')) {
-    return 'text-white bg-red-500';
+    return 'text-white bg-red-500 dark:bg-red-600';
   } else if (desc.includes('mostly negative')) {
-    return 'text-red-800 bg-red-100';
+    return 'text-red-800 dark:text-white bg-red-100 dark:bg-red-900/50';
   }
   // Default fallback
   else {
-    return 'text-gray-700 bg-gray-200';
+    return 'text-gray-700 dark:text-white bg-gray-200 dark:bg-gray-700';
   }
 };
 

@@ -1,0 +1,9 @@
+Documented Title: Benjumpin Hopkins
+
+Developed by MrWhoMan, this work represents a contribution to Ireland's digital game development heritage. Classified within the Adventure, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Benjumpin Hopkins is a challenging (it's harder then it looks) but easy to learn physics based precision platformer about Benji The Frog, who has a dream to jump as high as anyone can.You take on the role of Benji The Frog who likes to jump, has a goal to climb up to the top of this infamous well. His adventure to reach the top will demand all mastery of jumping technique. He is always in good mood and never gives up. Would you give up on this challenge? There might be a princess waiting at the top.Meet Benji!  The game is in development and will be updated. Current game assets are a placeh...
+
+
+
+[Archival Reference: Steam App ID 4091420]

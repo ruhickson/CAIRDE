@@ -1,0 +1,9 @@
+Documented Title: Marblous Worlds
+
+Developed by Hyphinett, this work represents a contribution to Ireland's digital game development heritage. Classified within the Adventure, Casual, Indie, Racing genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Marblous Worlds is a toylike 3D Platformer. Explore a series of worlds collecting meebstars.  Visit levels where you can collect all the meebstars or set a new record for how fast you make it through. Once you collect enough meebstars in a world you'll unlock the portal to the next world, with a new set of levels and overworld to explore.Customise your marble. Collect flower medals across each of the levels in Marblous Worlds to unlock new customisation options. Head to the Marble Maker to test out options such as the classic catseye swirl, glitter or even 3D objects inside your marble and ...
+
+
+
+[Archival Reference: Steam App ID 3469260]

@@ -1,0 +1,9 @@
+Documented Title: PILLORY
+
+Developed by IODINE, this work represents a contribution to Ireland's digital game development heritage. Classified within the RPG genre, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Discord CommunityAbout the GamePILLORY is a surreal indie RPG set in a forgotten afterlife.Engage in unique turn-based mood battles and meet strange creatures in the dark corners the Progenitors forgot about.Throughout your adventure, encounter a mix of unusual allies and foes.Some, like you, are lost. Others are indifferent to their eternal existence.Some mean you great harm.Combat revolves around party members proposing ideas each turn.You may choose one, or reroll for a different idea, at the cost of mood.Identifying enemies' weaknesses to one of the three damage types is crucial.At extr...
+
+
+
+[Archival Reference: Steam App ID 2472530]

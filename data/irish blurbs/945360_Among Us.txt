@@ -1,0 +1,9 @@
+Documented Title: Among Us (Released: 2018)
+
+Developed by Innersloth, this work represents a contribution to Ireland's digital game development heritage. Classified within the Casual genre, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2010s.
+
+Upon release, Among Us garnered very positive critical reception, accumulating 712,522 player reviews. Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!Originally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console. Win by completing tasks to prepare the ship or ejecting all Impostors. React quickly to undo the Impostor's sabotages. Check the Admin map and Security cameras to keep tabs on other Crewmates. Report any dead bodies immed...
+
+
+
+[Archival Reference: Steam App ID 945360]

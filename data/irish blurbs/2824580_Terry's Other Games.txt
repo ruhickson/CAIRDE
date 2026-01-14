@@ -1,0 +1,9 @@
+Documented Title: Terry's Other Games (Released: 2025)
+
+Developed by Terry Cavanagh, this work represents a contribution to Ireland's digital game development heritage. Classified within the Indie genre, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2020s.
+
+Upon release, Terry's Other Games garnered very positive critical reception, accumulating 56 player reviews. Hello there! I'm Terry Cavanagh, and I'm a game designer. Maybe you've played some of my games before? I made the C64-inspired gravity-flipping platformer VVVVVV, the minimal action game Super Hexagon, and the dice placement dungeon crawler Dicey Dungeons.Those are my commercial releases. But I've been making games since I was a kid, and along the way I've worked on a lot of stuff! Most of these games are very hard to  get running nowadays, even some of the ones that are only a few years old - computers change and things slowly break. Making these other games has always been a really import...
+
+
+
+[Archival Reference: Steam App ID 2824580]

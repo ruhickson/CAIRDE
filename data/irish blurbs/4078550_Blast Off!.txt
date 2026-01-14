@@ -1,0 +1,9 @@
+Documented Title: Blast Off!
+
+Developed by Head for Orbit Games, this work represents a contribution to Ireland's digital game development heritage. Classified within the Adventure, Casual, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+You've crash-landed in a tiny, strange solar system and your ship is in pieces! With only a trusty magnet gun and a sarcastic robot drone at your side, it's time to brave this bizarre new world. Your main goal is clear: find the scattered parts of your ship, reassemble them, and get home.You'll explore a solar system of diverse and unique planets. Each world is its own self-contained puzzle, filled with obstacles and secrets to uncover. You'll need to master your magnet gun by attracting and repelling objects to navigate the terrain, solve clever magnetic puzzles, and find the missing ship ...
+
+
+
+[Archival Reference: Steam App ID 4078550]

@@ -1,0 +1,11 @@
+Documented Title: Fighters' Glory (Released: 2020)
+
+Developed by Corbally Games, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action genre, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2020s.
+
+Fighters' Glory is a 1v1 weapons based fighting game. 
+Ten warriors face off in a tournament to win fortune and glory!
+Features include full 3d movement and  local or online Multiplayer.
+
+
+
+[Archival Reference: Steam App ID 1234280]

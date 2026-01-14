@@ -1,0 +1,9 @@
+Documented Title: Smash 'N Grab
+
+Developed by SLAP-BANG! Digital, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action genre, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Smash ‘N Grab is an adrenaline-fuelled, destructive beat ’em up that puts you in control of Smash and Grab, a chaotic duo pulling off heists to devastating effect. Smash is a hulking robot out for justice. Grab is a cunning raccoon chasing wealth. Tethered by a rope, Smash can launch Grab to reel enemies in, seize valuables, and grapple through the environment. Together, they team up to loot everything in sight!Pull off the perfect heist.Your goal in each level is simple: steal all the prized possessions and make your escape. The faster you pull it off, the higher your score. Smash through ...
+
+
+
+[Archival Reference: Steam App ID 3851460]

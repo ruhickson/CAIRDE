@@ -1,0 +1,9 @@
+Documented Title: PizzaBoy
+
+Developed by Breadless, this work represents a contribution to Ireland's digital game development heritage. Classified within the Adventure, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+GAMEPLAY:Take control of PizzaBoy, a nimble pizza delivery guy equipped with an air-dash that allows him to bounce off walls. This can be used to reach greater heights and distances than the standard run and jump. PizzaBoy must navigate dangerous environments to deliver pizzas to hungry monsters. Pizzaboy must make it to the end of the level to deliver the pizza, but don't expect it to be too simple, as each area is full of pizza-hungry monsters. Don't get too close, or they might just steal a slice! The customer won't be happy with a half-eaten pizza.The path to the customer won't always b...
+
+
+
+[Archival Reference: Steam App ID 2238400]

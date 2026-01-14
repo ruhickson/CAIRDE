@@ -1,0 +1,9 @@
+Documented Title: Pro Wrestling Sim (Released: 2021)
+
+Developed by Pro Wrestling Sim, this work represents a contribution to Ireland's digital game development heritage. Classified within the Simulation, Sports, Strategy, Early Access genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2020s.
+
+Upon release, Pro Wrestling Sim garnered overwhelmingly positive critical reception, accumulating 567 player reviews. Pro Wrestling Sim is a text-based pro-wrestling booking simulator. Control a wrestling promotion, decide your roster, and create storylines, feuds and matches where the winners and losers are in your hands.FeaturesPromisesYour workers will request that you make promises to them. This can be asking for a match with a worker, asking for a title shot, or even a title win. Agree to make a promise and you better deliver - you don't want to upset your top star or his friends!Edit DatabaseWith the Edit Database functionality, you can design, build and grow a world of your own creation, based on re...
+
+
+
+[Archival Reference: Steam App ID 1157700]

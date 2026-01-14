@@ -1,0 +1,4008 @@
+# Search Queries for Irish Games Media Archive
+
+Use these queries to search for media links for each game.
+
+================================================================================
+
+## VVVVVV (App ID: 70300)
+Developer: Terry Cavanagh
+Year: 2010
+
+**Cultural Context:**
+  - "VVVVVV" Irish game development cultural impact
+  - "VVVVVV" Ireland game industry
+  - "Terry Cavanagh" Irish developer
+
+**Media Coverage:**
+  - "VVVVVV" review
+  - "VVVVVV" article news
+  - "VVVVVV" press coverage
+
+**Developer Interviews:**
+  - "Terry Cavanagh" interview "VVVVVV"
+  - "Terry Cavanagh" behind the scenes "VVVVVV"
+  - "Terry Cavanagh" GDC talk "VVVVVV"
+  - "VVVVVV" developer interview
+  - "VVVVVV" making of
+
+--------------------------------------------------------------------------------
+
+## Super Hexagon (App ID: 221640)
+Developer: Terry Cavanagh
+Year: 2012
+
+**Cultural Context:**
+  - "Super Hexagon" Irish game development cultural impact
+  - "Super Hexagon" Ireland game industry
+  - "Terry Cavanagh" Irish developer
+
+**Media Coverage:**
+  - "Super Hexagon" review
+  - "Super Hexagon" article news
+  - "Super Hexagon" press coverage
+
+**Developer Interviews:**
+  - "Terry Cavanagh" interview "Super Hexagon"
+  - "Terry Cavanagh" behind the scenes "Super Hexagon"
+  - "Terry Cavanagh" GDC talk "Super Hexagon"
+  - "Super Hexagon" developer interview
+  - "Super Hexagon" making of
+
+--------------------------------------------------------------------------------
+
+## Ku: Shroud of the Morrigan (App ID: 270330)
+Developer: bitSmith Games
+Year: 2014
+
+**Cultural Context:**
+  - "Ku: Shroud of the Morrigan" Irish game development cultural impact
+  - "Ku: Shroud of the Morrigan" Ireland game industry
+  - "bitSmith Games" Irish developer
+
+**Media Coverage:**
+  - "Ku: Shroud of the Morrigan" review
+  - "Ku: Shroud of the Morrigan" article news
+  - "Ku: Shroud of the Morrigan" press coverage
+
+**Developer Interviews:**
+  - "bitSmith Games" interview "Ku: Shroud of the Morrigan"
+  - "bitSmith Games" behind the scenes "Ku: Shroud of the Morrigan"
+  - "bitSmith Games" GDC talk "Ku: Shroud of the Morrigan"
+  - "Ku: Shroud of the Morrigan" developer interview
+  - "Ku: Shroud of the Morrigan" making of
+
+--------------------------------------------------------------------------------
+
+## Darkwind: War on Wheels (App ID: 295710)
+Developer: Psychic Software
+Year: 2014
+
+**Cultural Context:**
+  - "Darkwind: War on Wheels" Irish game development cultural impact
+  - "Darkwind: War on Wheels" Ireland game industry
+  - "Psychic Software" Irish developer
+
+**Media Coverage:**
+  - "Darkwind: War on Wheels" review
+  - "Darkwind: War on Wheels" article news
+  - "Darkwind: War on Wheels" press coverage
+
+**Developer Interviews:**
+  - "Psychic Software" interview "Darkwind: War on Wheels"
+  - "Psychic Software" behind the scenes "Darkwind: War on Wheels"
+  - "Psychic Software" GDC talk "Darkwind: War on Wheels"
+  - "Darkwind: War on Wheels" developer interview
+  - "Darkwind: War on Wheels" making of
+
+--------------------------------------------------------------------------------
+
+## Schrodinger’s Cat And The Raiders Of The Lost Quark (App ID: 295490)
+Developer: Italic Pig Limited
+Year: 2014
+
+**Cultural Context:**
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" Irish game development cultural impact
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" Ireland game industry
+  - "Italic Pig Limited" Irish developer
+
+**Media Coverage:**
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" review
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" article news
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" press coverage
+
+**Developer Interviews:**
+  - "Italic Pig Limited" interview "Schrodinger’s Cat And The Raiders Of The Lost Quark"
+  - "Italic Pig Limited" behind the scenes "Schrodinger’s Cat And The Raiders Of The Lost Quark"
+  - "Italic Pig Limited" GDC talk "Schrodinger’s Cat And The Raiders Of The Lost Quark"
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" developer interview
+  - "Schrodinger’s Cat And The Raiders Of The Lost Quark" making of
+
+--------------------------------------------------------------------------------
+
+## Deadstone (App ID: 327150)
+Developer: Timeslip Softworks
+Year: 2014
+
+**Cultural Context:**
+  - "Deadstone" Irish game development cultural impact
+  - "Deadstone" Ireland game industry
+  - "Timeslip Softworks" Irish developer
+
+**Media Coverage:**
+  - "Deadstone" review
+  - "Deadstone" article news
+  - "Deadstone" press coverage
+
+**Developer Interviews:**
+  - "Timeslip Softworks" interview "Deadstone"
+  - "Timeslip Softworks" behind the scenes "Deadstone"
+  - "Timeslip Softworks" GDC talk "Deadstone"
+  - "Deadstone" developer interview
+  - "Deadstone" making of
+
+--------------------------------------------------------------------------------
+
+## Plazma Being (App ID: 346630)
+Developer: Hedge Knight Games
+Year: 2015
+
+**Cultural Context:**
+  - "Plazma Being" Irish game development cultural impact
+  - "Plazma Being" Ireland game industry
+  - "Hedge Knight Games" Irish developer
+
+**Media Coverage:**
+  - "Plazma Being" review
+  - "Plazma Being" article news
+  - "Plazma Being" press coverage
+
+**Developer Interviews:**
+  - "Hedge Knight Games" interview "Plazma Being"
+  - "Hedge Knight Games" behind the scenes "Plazma Being"
+  - "Hedge Knight Games" GDC talk "Plazma Being"
+  - "Plazma Being" developer interview
+  - "Plazma Being" making of
+
+--------------------------------------------------------------------------------
+
+## Musclecar Online (App ID: 346440)
+Developer: Psychic Software
+Year: 2015
+
+**Cultural Context:**
+  - "Musclecar Online" Irish game development cultural impact
+  - "Musclecar Online" Ireland game industry
+  - "Psychic Software" Irish developer
+
+**Media Coverage:**
+  - "Musclecar Online" review
+  - "Musclecar Online" article news
+  - "Musclecar Online" press coverage
+
+**Developer Interviews:**
+  - "Psychic Software" interview "Musclecar Online"
+  - "Psychic Software" behind the scenes "Musclecar Online"
+  - "Psychic Software" GDC talk "Musclecar Online"
+  - "Musclecar Online" developer interview
+  - "Musclecar Online" making of
+
+--------------------------------------------------------------------------------
+
+## Guild of Dungeoneering Ultimate Edition (App ID: 317820)
+Developer: Gambrinous
+Year: 2015
+
+**Cultural Context:**
+  - "Guild of Dungeoneering Ultimate Edition" Irish game development cultural impact
+  - "Guild of Dungeoneering Ultimate Edition" Ireland game industry
+  - "Gambrinous" Irish developer
+
+**Media Coverage:**
+  - "Guild of Dungeoneering Ultimate Edition" review
+  - "Guild of Dungeoneering Ultimate Edition" article news
+  - "Guild of Dungeoneering Ultimate Edition" press coverage
+
+**Developer Interviews:**
+  - "Gambrinous" interview "Guild of Dungeoneering Ultimate Edition"
+  - "Gambrinous" behind the scenes "Guild of Dungeoneering Ultimate Edition"
+  - "Gambrinous" GDC talk "Guild of Dungeoneering Ultimate Edition"
+  - "Guild of Dungeoneering Ultimate Edition" developer interview
+  - "Guild of Dungeoneering Ultimate Edition" making of
+
+--------------------------------------------------------------------------------
+
+## Mini Metro (App ID: 287980)
+Developer: Dinosaur Polo Club
+Year: 2015
+
+**Cultural Context:**
+  - "Mini Metro" Irish game development cultural impact
+  - "Mini Metro" Ireland game industry
+  - "Dinosaur Polo Club" Irish developer
+
+**Media Coverage:**
+  - "Mini Metro" review
+  - "Mini Metro" article news
+  - "Mini Metro" press coverage
+
+**Developer Interviews:**
+  - "Dinosaur Polo Club" interview "Mini Metro"
+  - "Dinosaur Polo Club" behind the scenes "Mini Metro"
+  - "Dinosaur Polo Club" GDC talk "Mini Metro"
+  - "Mini Metro" developer interview
+  - "Mini Metro" making of
+
+--------------------------------------------------------------------------------
+
+## Duplexer (App ID: 430240)
+Developer: Vantage Games
+Year: 2016
+
+**Cultural Context:**
+  - "Duplexer" Irish game development cultural impact
+  - "Duplexer" Ireland game industry
+  - "Vantage Games" Irish developer
+
+**Media Coverage:**
+  - "Duplexer" review
+  - "Duplexer" article news
+  - "Duplexer" press coverage
+
+**Developer Interviews:**
+  - "Vantage Games" interview "Duplexer"
+  - "Vantage Games" behind the scenes "Duplexer"
+  - "Vantage Games" GDC talk "Duplexer"
+  - "Duplexer" developer interview
+  - "Duplexer" making of
+
+--------------------------------------------------------------------------------
+
+## Wailing Heights (App ID: 443650)
+Developer: Outsider Games
+Year: 2016
+
+**Cultural Context:**
+  - "Wailing Heights" Irish game development cultural impact
+  - "Wailing Heights" Ireland game industry
+  - "Outsider Games" Irish developer
+
+**Media Coverage:**
+  - "Wailing Heights" review
+  - "Wailing Heights" article news
+  - "Wailing Heights" press coverage
+
+**Developer Interviews:**
+  - "Outsider Games" interview "Wailing Heights"
+  - "Outsider Games" behind the scenes "Wailing Heights"
+  - "Outsider Games" GDC talk "Wailing Heights"
+  - "Wailing Heights" developer interview
+  - "Wailing Heights" making of
+
+--------------------------------------------------------------------------------
+
+## Systematic Immunity (App ID: 395100)
+Developer: Hedge Knight Games
+Year: 2016
+
+**Cultural Context:**
+  - "Systematic Immunity" Irish game development cultural impact
+  - "Systematic Immunity" Ireland game industry
+  - "Hedge Knight Games" Irish developer
+
+**Media Coverage:**
+  - "Systematic Immunity" review
+  - "Systematic Immunity" article news
+  - "Systematic Immunity" press coverage
+
+**Developer Interviews:**
+  - "Hedge Knight Games" interview "Systematic Immunity"
+  - "Hedge Knight Games" behind the scenes "Systematic Immunity"
+  - "Hedge Knight Games" GDC talk "Systematic Immunity"
+  - "Systematic Immunity" developer interview
+  - "Systematic Immunity" making of
+
+--------------------------------------------------------------------------------
+
+## Goblins and Grottos (App ID: 389190)
+Developer: Psychic Software
+Year: 2016
+
+**Cultural Context:**
+  - "Goblins and Grottos" Irish game development cultural impact
+  - "Goblins and Grottos" Ireland game industry
+  - "Psychic Software" Irish developer
+
+**Media Coverage:**
+  - "Goblins and Grottos" review
+  - "Goblins and Grottos" article news
+  - "Goblins and Grottos" press coverage
+
+**Developer Interviews:**
+  - "Psychic Software" interview "Goblins and Grottos"
+  - "Psychic Software" behind the scenes "Goblins and Grottos"
+  - "Psychic Software" GDC talk "Goblins and Grottos"
+  - "Goblins and Grottos" developer interview
+  - "Goblins and Grottos" making of
+
+--------------------------------------------------------------------------------
+
+## Her Majesty's SPIFFING (App ID: 488770)
+Developer: Billy Goat Entertainment Ltd
+Year: 2016
+
+**Cultural Context:**
+  - "Her Majesty's SPIFFING" Irish game development cultural impact
+  - "Her Majesty's SPIFFING" Ireland game industry
+  - "Billy Goat Entertainment Ltd" Irish developer
+
+**Media Coverage:**
+  - "Her Majesty's SPIFFING" review
+  - "Her Majesty's SPIFFING" article news
+  - "Her Majesty's SPIFFING" press coverage
+
+**Developer Interviews:**
+  - "Billy Goat Entertainment Ltd" interview "Her Majesty's SPIFFING"
+  - "Billy Goat Entertainment Ltd" behind the scenes "Her Majesty's SPIFFING"
+  - "Billy Goat Entertainment Ltd" GDC talk "Her Majesty's SPIFFING"
+  - "Her Majesty's SPIFFING" developer interview
+  - "Her Majesty's SPIFFING" making of
+
+--------------------------------------------------------------------------------
+
+## The Little Acre (App ID: 423590)
+Developer: Pewter Games Studios
+Year: 2016
+
+**Cultural Context:**
+  - "The Little Acre" Irish game development cultural impact
+  - "The Little Acre" Ireland game industry
+  - "Pewter Games Studios" Irish developer
+
+**Media Coverage:**
+  - "The Little Acre" review
+  - "The Little Acre" article news
+  - "The Little Acre" press coverage
+
+**Developer Interviews:**
+  - "Pewter Games Studios" interview "The Little Acre"
+  - "Pewter Games Studios" behind the scenes "The Little Acre"
+  - "Pewter Games Studios" GDC talk "The Little Acre"
+  - "The Little Acre" developer interview
+  - "The Little Acre" making of
+
+--------------------------------------------------------------------------------
+
+## Gunman Taco Truck (App ID: 586310)
+Developer: Romero Games Ltd.
+Year: 2017
+
+**Cultural Context:**
+  - "Gunman Taco Truck" Irish game development cultural impact
+  - "Gunman Taco Truck" Ireland game industry
+  - "Romero Games Ltd." Irish developer
+
+**Media Coverage:**
+  - "Gunman Taco Truck" review
+  - "Gunman Taco Truck" article news
+  - "Gunman Taco Truck" press coverage
+
+**Developer Interviews:**
+  - "Romero Games Ltd." interview "Gunman Taco Truck"
+  - "Romero Games Ltd." behind the scenes "Gunman Taco Truck"
+  - "Romero Games Ltd." GDC talk "Gunman Taco Truck"
+  - "Gunman Taco Truck" developer interview
+  - "Gunman Taco Truck" making of
+
+--------------------------------------------------------------------------------
+
+## Everything (App ID: 582270)
+Developer: David OReilly
+Year: 2017
+
+**Cultural Context:**
+  - "Everything" Irish game development cultural impact
+  - "Everything" Ireland game industry
+  - "David OReilly" Irish developer
+
+**Media Coverage:**
+  - "Everything" review
+  - "Everything" article news
+  - "Everything" press coverage
+
+**Developer Interviews:**
+  - "David OReilly" interview "Everything"
+  - "David OReilly" behind the scenes "Everything"
+  - "David OReilly" GDC talk "Everything"
+  - "Everything" developer interview
+  - "Everything" making of
+
+--------------------------------------------------------------------------------
+
+## Little Miss Lonely (App ID: 651820)
+Developer: Club Cotton Games
+Year: 2017
+
+**Cultural Context:**
+  - "Little Miss Lonely" Irish game development cultural impact
+  - "Little Miss Lonely" Ireland game industry
+  - "Club Cotton Games" Irish developer
+
+**Media Coverage:**
+  - "Little Miss Lonely" review
+  - "Little Miss Lonely" article news
+  - "Little Miss Lonely" press coverage
+
+**Developer Interviews:**
+  - "Club Cotton Games" interview "Little Miss Lonely"
+  - "Club Cotton Games" behind the scenes "Little Miss Lonely"
+  - "Club Cotton Games" GDC talk "Little Miss Lonely"
+  - "Little Miss Lonely" developer interview
+  - "Little Miss Lonely" making of
+
+--------------------------------------------------------------------------------
+
+## The Darkside Detective (App ID: 368390)
+Developer: Spooky Doorway
+Year: 2017
+
+**Cultural Context:**
+  - "The Darkside Detective" Irish game development cultural impact
+  - "The Darkside Detective" Ireland game industry
+  - "Spooky Doorway" Irish developer
+
+**Media Coverage:**
+  - "The Darkside Detective" review
+  - "The Darkside Detective" article news
+  - "The Darkside Detective" press coverage
+
+**Developer Interviews:**
+  - "Spooky Doorway" interview "The Darkside Detective"
+  - "Spooky Doorway" behind the scenes "The Darkside Detective"
+  - "Spooky Doorway" GDC talk "The Darkside Detective"
+  - "The Darkside Detective" developer interview
+  - "The Darkside Detective" making of
+
+--------------------------------------------------------------------------------
+
+## AuroraBound Deluxe (App ID: 724640)
+Developer: Final Game Studio
+Year: 2017
+
+**Cultural Context:**
+  - "AuroraBound Deluxe" Irish game development cultural impact
+  - "AuroraBound Deluxe" Ireland game industry
+  - "Final Game Studio" Irish developer
+
+**Media Coverage:**
+  - "AuroraBound Deluxe" review
+  - "AuroraBound Deluxe" article news
+  - "AuroraBound Deluxe" press coverage
+
+**Developer Interviews:**
+  - "Final Game Studio" interview "AuroraBound Deluxe"
+  - "Final Game Studio" behind the scenes "AuroraBound Deluxe"
+  - "Final Game Studio" GDC talk "AuroraBound Deluxe"
+  - "AuroraBound Deluxe" developer interview
+  - "AuroraBound Deluxe" making of
+
+--------------------------------------------------------------------------------
+
+## PUBG: BATTLEGROUNDS (App ID: 578080)
+Developer: PUBG Corporation
+Year: 2017
+
+**Cultural Context:**
+  - "PUBG: BATTLEGROUNDS" Irish game development cultural impact
+  - "PUBG: BATTLEGROUNDS" Ireland game industry
+  - "PUBG Corporation" Irish developer
+
+**Media Coverage:**
+  - "PUBG: BATTLEGROUNDS" review
+  - "PUBG: BATTLEGROUNDS" article news
+  - "PUBG: BATTLEGROUNDS" press coverage
+
+**Developer Interviews:**
+  - "PUBG Corporation" interview "PUBG: BATTLEGROUNDS"
+  - "PUBG Corporation" behind the scenes "PUBG: BATTLEGROUNDS"
+  - "PUBG Corporation" GDC talk "PUBG: BATTLEGROUNDS"
+  - "PUBG: BATTLEGROUNDS" developer interview
+  - "PUBG: BATTLEGROUNDS" making of
+
+--------------------------------------------------------------------------------
+
+## Vigilantes (App ID: 545600)
+Developer: Timeslip Softworks
+Year: 2018
+
+**Cultural Context:**
+  - "Vigilantes" Irish game development cultural impact
+  - "Vigilantes" Ireland game industry
+  - "Timeslip Softworks" Irish developer
+
+**Media Coverage:**
+  - "Vigilantes" review
+  - "Vigilantes" article news
+  - "Vigilantes" press coverage
+
+**Developer Interviews:**
+  - "Timeslip Softworks" interview "Vigilantes"
+  - "Timeslip Softworks" behind the scenes "Vigilantes"
+  - "Timeslip Softworks" GDC talk "Vigilantes"
+  - "Vigilantes" developer interview
+  - "Vigilantes" making of
+
+--------------------------------------------------------------------------------
+
+## EnHanced (App ID: 882390)
+Developer: RainingLamppost
+Year: 2018
+
+**Cultural Context:**
+  - "EnHanced" Irish game development cultural impact
+  - "EnHanced" Ireland game industry
+  - "RainingLamppost" Irish developer
+
+**Media Coverage:**
+  - "EnHanced" review
+  - "EnHanced" article news
+  - "EnHanced" press coverage
+
+**Developer Interviews:**
+  - "RainingLamppost" interview "EnHanced"
+  - "RainingLamppost" behind the scenes "EnHanced"
+  - "RainingLamppost" GDC talk "EnHanced"
+  - "EnHanced" developer interview
+  - "EnHanced" making of
+
+--------------------------------------------------------------------------------
+
+## Among Us (App ID: 945360)
+Developer: Innersloth
+Year: 2018
+
+**Cultural Context:**
+  - "Among Us" Irish game development cultural impact
+  - "Among Us" Ireland game industry
+  - "Innersloth" Irish developer
+
+**Media Coverage:**
+  - "Among Us" review
+  - "Among Us" article news
+  - "Among Us" press coverage
+
+**Developer Interviews:**
+  - "Innersloth" interview "Among Us"
+  - "Innersloth" behind the scenes "Among Us"
+  - "Innersloth" GDC talk "Among Us"
+  - "Among Us" developer interview
+  - "Among Us" making of
+
+--------------------------------------------------------------------------------
+
+## THE ENIGMA MACHINE (App ID: 977810)
+Developer: ENIGMA STUDIO
+Year: 2018
+
+**Cultural Context:**
+  - "THE ENIGMA MACHINE" Irish game development cultural impact
+  - "THE ENIGMA MACHINE" Ireland game industry
+  - "ENIGMA STUDIO" Irish developer
+
+**Media Coverage:**
+  - "THE ENIGMA MACHINE" review
+  - "THE ENIGMA MACHINE" article news
+  - "THE ENIGMA MACHINE" press coverage
+
+**Developer Interviews:**
+  - "ENIGMA STUDIO" interview "THE ENIGMA MACHINE"
+  - "ENIGMA STUDIO" behind the scenes "THE ENIGMA MACHINE"
+  - "ENIGMA STUDIO" GDC talk "THE ENIGMA MACHINE"
+  - "THE ENIGMA MACHINE" developer interview
+  - "THE ENIGMA MACHINE" making of
+
+--------------------------------------------------------------------------------
+
+## Arc Savior (App ID: 871310)
+Developer: Squid Monkey Studios
+Year: 2019
+
+**Cultural Context:**
+  - "Arc Savior" Irish game development cultural impact
+  - "Arc Savior" Ireland game industry
+  - "Squid Monkey Studios" Irish developer
+
+**Media Coverage:**
+  - "Arc Savior" review
+  - "Arc Savior" article news
+  - "Arc Savior" press coverage
+
+**Developer Interviews:**
+  - "Squid Monkey Studios" interview "Arc Savior"
+  - "Squid Monkey Studios" behind the scenes "Arc Savior"
+  - "Squid Monkey Studios" GDC talk "Arc Savior"
+  - "Arc Savior" developer interview
+  - "Arc Savior" making of
+
+--------------------------------------------------------------------------------
+
+## Predestination (App ID: 340210)
+Developer: Brain and Nerd Ltd
+Year: 2019
+
+**Cultural Context:**
+  - "Predestination" Irish game development cultural impact
+  - "Predestination" Ireland game industry
+  - "Brain and Nerd Ltd" Irish developer
+
+**Media Coverage:**
+  - "Predestination" review
+  - "Predestination" article news
+  - "Predestination" press coverage
+
+**Developer Interviews:**
+  - "Brain and Nerd Ltd" interview "Predestination"
+  - "Brain and Nerd Ltd" behind the scenes "Predestination"
+  - "Brain and Nerd Ltd" GDC talk "Predestination"
+  - "Predestination" developer interview
+  - "Predestination" making of
+
+--------------------------------------------------------------------------------
+
+## Bassline Sinker (App ID: 945100)
+Developer: TheFitzyGames
+Year: 2019
+
+**Cultural Context:**
+  - "Bassline Sinker" Irish game development cultural impact
+  - "Bassline Sinker" Ireland game industry
+  - "TheFitzyGames" Irish developer
+
+**Media Coverage:**
+  - "Bassline Sinker" review
+  - "Bassline Sinker" article news
+  - "Bassline Sinker" press coverage
+
+**Developer Interviews:**
+  - "TheFitzyGames" interview "Bassline Sinker"
+  - "TheFitzyGames" behind the scenes "Bassline Sinker"
+  - "TheFitzyGames" GDC talk "Bassline Sinker"
+  - "Bassline Sinker" developer interview
+  - "Bassline Sinker" making of
+
+--------------------------------------------------------------------------------
+
+## Line Loops - Logic Puzzles (App ID: 1032240)
+Developer: Final Game Studio
+Year: 2019
+
+**Cultural Context:**
+  - "Line Loops - Logic Puzzles" Irish game development cultural impact
+  - "Line Loops - Logic Puzzles" Ireland game industry
+  - "Final Game Studio" Irish developer
+
+**Media Coverage:**
+  - "Line Loops - Logic Puzzles" review
+  - "Line Loops - Logic Puzzles" article news
+  - "Line Loops - Logic Puzzles" press coverage
+
+**Developer Interviews:**
+  - "Final Game Studio" interview "Line Loops - Logic Puzzles"
+  - "Final Game Studio" behind the scenes "Line Loops - Logic Puzzles"
+  - "Final Game Studio" GDC talk "Line Loops - Logic Puzzles"
+  - "Line Loops - Logic Puzzles" developer interview
+  - "Line Loops - Logic Puzzles" making of
+
+--------------------------------------------------------------------------------
+
+## Aurora Hex - Pattern Puzzles (App ID: 1068540)
+Developer: Final Game Studio
+Year: 2019
+
+**Cultural Context:**
+  - "Aurora Hex - Pattern Puzzles" Irish game development cultural impact
+  - "Aurora Hex - Pattern Puzzles" Ireland game industry
+  - "Final Game Studio" Irish developer
+
+**Media Coverage:**
+  - "Aurora Hex - Pattern Puzzles" review
+  - "Aurora Hex - Pattern Puzzles" article news
+  - "Aurora Hex - Pattern Puzzles" press coverage
+
+**Developer Interviews:**
+  - "Final Game Studio" interview "Aurora Hex - Pattern Puzzles"
+  - "Final Game Studio" behind the scenes "Aurora Hex - Pattern Puzzles"
+  - "Final Game Studio" GDC talk "Aurora Hex - Pattern Puzzles"
+  - "Aurora Hex - Pattern Puzzles" developer interview
+  - "Aurora Hex - Pattern Puzzles" making of
+
+--------------------------------------------------------------------------------
+
+## Dicey Dungeons (App ID: 861540)
+Developer: Terry Cavanagh
+Year: 2019
+
+**Cultural Context:**
+  - "Dicey Dungeons" Irish game development cultural impact
+  - "Dicey Dungeons" Ireland game industry
+  - "Terry Cavanagh" Irish developer
+
+**Media Coverage:**
+  - "Dicey Dungeons" review
+  - "Dicey Dungeons" article news
+  - "Dicey Dungeons" press coverage
+
+**Developer Interviews:**
+  - "Terry Cavanagh" interview "Dicey Dungeons"
+  - "Terry Cavanagh" behind the scenes "Dicey Dungeons"
+  - "Terry Cavanagh" GDC talk "Dicey Dungeons"
+  - "Dicey Dungeons" developer interview
+  - "Dicey Dungeons" making of
+
+--------------------------------------------------------------------------------
+
+## Demon Pit (App ID: 548240)
+Developer: Psychic Software
+Year: 2019
+
+**Cultural Context:**
+  - "Demon Pit" Irish game development cultural impact
+  - "Demon Pit" Ireland game industry
+  - "Psychic Software" Irish developer
+
+**Media Coverage:**
+  - "Demon Pit" review
+  - "Demon Pit" article news
+  - "Demon Pit" press coverage
+
+**Developer Interviews:**
+  - "Psychic Software" interview "Demon Pit"
+  - "Psychic Software" behind the scenes "Demon Pit"
+  - "Psychic Software" GDC talk "Demon Pit"
+  - "Demon Pit" developer interview
+  - "Demon Pit" making of
+
+--------------------------------------------------------------------------------
+
+## Fighters' Glory (App ID: 1234280)
+Developer: Corbally Games
+Year: 2020
+
+**Cultural Context:**
+  - "Fighters' Glory" Irish game development cultural impact
+  - "Fighters' Glory" Ireland game industry
+  - "Corbally Games" Irish developer
+
+**Media Coverage:**
+  - "Fighters' Glory" review
+  - "Fighters' Glory" article news
+  - "Fighters' Glory" press coverage
+
+**Developer Interviews:**
+  - "Corbally Games" interview "Fighters' Glory"
+  - "Corbally Games" behind the scenes "Fighters' Glory"
+  - "Corbally Games" GDC talk "Fighters' Glory"
+  - "Fighters' Glory" developer interview
+  - "Fighters' Glory" making of
+
+--------------------------------------------------------------------------------
+
+## So May It Be: A Witch Dating Simulator (App ID: 1274630)
+Developer: Planchette Games
+Year: 2020
+
+**Cultural Context:**
+  - "So May It Be: A Witch Dating Simulator" Irish game development cultural impact
+  - "So May It Be: A Witch Dating Simulator" Ireland game industry
+  - "Planchette Games" Irish developer
+
+**Media Coverage:**
+  - "So May It Be: A Witch Dating Simulator" review
+  - "So May It Be: A Witch Dating Simulator" article news
+  - "So May It Be: A Witch Dating Simulator" press coverage
+
+**Developer Interviews:**
+  - "Planchette Games" interview "So May It Be: A Witch Dating Simulator"
+  - "Planchette Games" behind the scenes "So May It Be: A Witch Dating Simulator"
+  - "Planchette Games" GDC talk "So May It Be: A Witch Dating Simulator"
+  - "So May It Be: A Witch Dating Simulator" developer interview
+  - "So May It Be: A Witch Dating Simulator" making of
+
+--------------------------------------------------------------------------------
+
+## If Found... (App ID: 1041920)
+Developer: DREAMFEEL
+Year: 2020
+
+**Cultural Context:**
+  - "If Found..." Irish game development cultural impact
+  - "If Found..." Ireland game industry
+  - "DREAMFEEL" Irish developer
+
+**Media Coverage:**
+  - "If Found..." review
+  - "If Found..." article news
+  - "If Found..." press coverage
+
+**Developer Interviews:**
+  - "DREAMFEEL" interview "If Found..."
+  - "DREAMFEEL" behind the scenes "If Found..."
+  - "DREAMFEEL" GDC talk "If Found..."
+  - "If Found..." developer interview
+  - "If Found..." making of
+
+--------------------------------------------------------------------------------
+
+## Ourea (App ID: 1250030)
+Developer: Rewrite Games
+Year: 2020
+
+**Cultural Context:**
+  - "Ourea" Irish game development cultural impact
+  - "Ourea" Ireland game industry
+  - "Rewrite Games" Irish developer
+
+**Media Coverage:**
+  - "Ourea" review
+  - "Ourea" article news
+  - "Ourea" press coverage
+
+**Developer Interviews:**
+  - "Rewrite Games" interview "Ourea"
+  - "Rewrite Games" behind the scenes "Ourea"
+  - "Rewrite Games" GDC talk "Ourea"
+  - "Ourea" developer interview
+  - "Ourea" making of
+
+--------------------------------------------------------------------------------
+
+## Factorio (App ID: 427520)
+Developer: Wube Software LTD.
+Year: 2020
+
+**Cultural Context:**
+  - "Factorio" Irish game development cultural impact
+  - "Factorio" Ireland game industry
+  - "Wube Software LTD." Irish developer
+
+**Media Coverage:**
+  - "Factorio" review
+  - "Factorio" article news
+  - "Factorio" press coverage
+
+**Developer Interviews:**
+  - "Wube Software LTD." interview "Factorio"
+  - "Wube Software LTD." behind the scenes "Factorio"
+  - "Wube Software LTD." GDC talk "Factorio"
+  - "Factorio" developer interview
+  - "Factorio" making of
+
+--------------------------------------------------------------------------------
+
+## Inertial Drift (App ID: 1184480)
+Developer: Level 91 Entertainment
+Year: 2020
+
+**Cultural Context:**
+  - "Inertial Drift" Irish game development cultural impact
+  - "Inertial Drift" Ireland game industry
+  - "Level 91 Entertainment" Irish developer
+
+**Media Coverage:**
+  - "Inertial Drift" review
+  - "Inertial Drift" article news
+  - "Inertial Drift" press coverage
+
+**Developer Interviews:**
+  - "Level 91 Entertainment" interview "Inertial Drift"
+  - "Level 91 Entertainment" behind the scenes "Inertial Drift"
+  - "Level 91 Entertainment" GDC talk "Inertial Drift"
+  - "Inertial Drift" developer interview
+  - "Inertial Drift" making of
+
+--------------------------------------------------------------------------------
+
+## Cardpocalypse (App ID: 904400)
+Developer: Gambrinous
+Year: 2020
+
+**Cultural Context:**
+  - "Cardpocalypse" Irish game development cultural impact
+  - "Cardpocalypse" Ireland game industry
+  - "Gambrinous" Irish developer
+
+**Media Coverage:**
+  - "Cardpocalypse" review
+  - "Cardpocalypse" article news
+  - "Cardpocalypse" press coverage
+
+**Developer Interviews:**
+  - "Gambrinous" interview "Cardpocalypse"
+  - "Gambrinous" behind the scenes "Cardpocalypse"
+  - "Gambrinous" GDC talk "Cardpocalypse"
+  - "Cardpocalypse" developer interview
+  - "Cardpocalypse" making of
+
+--------------------------------------------------------------------------------
+
+## Supermarket Shriek (App ID: 1086460)
+Developer: Billy Goat Entertainment
+Year: 2020
+
+**Cultural Context:**
+  - "Supermarket Shriek" Irish game development cultural impact
+  - "Supermarket Shriek" Ireland game industry
+  - "Billy Goat Entertainment" Irish developer
+
+**Media Coverage:**
+  - "Supermarket Shriek" review
+  - "Supermarket Shriek" article news
+  - "Supermarket Shriek" press coverage
+
+**Developer Interviews:**
+  - "Billy Goat Entertainment" interview "Supermarket Shriek"
+  - "Billy Goat Entertainment" behind the scenes "Supermarket Shriek"
+  - "Billy Goat Entertainment" GDC talk "Supermarket Shriek"
+  - "Supermarket Shriek" developer interview
+  - "Supermarket Shriek" making of
+
+--------------------------------------------------------------------------------
+
+## Empire of Sin (App ID: 604540)
+Developer: Romero Games
+Year: 2020
+
+**Cultural Context:**
+  - "Empire of Sin" Irish game development cultural impact
+  - "Empire of Sin" Ireland game industry
+  - "Romero Games" Irish developer
+
+**Media Coverage:**
+  - "Empire of Sin" review
+  - "Empire of Sin" article news
+  - "Empire of Sin" press coverage
+
+**Developer Interviews:**
+  - "Romero Games" interview "Empire of Sin"
+  - "Romero Games" behind the scenes "Empire of Sin"
+  - "Romero Games" GDC talk "Empire of Sin"
+  - "Empire of Sin" developer interview
+  - "Empire of Sin" making of
+
+--------------------------------------------------------------------------------
+
+## Ho-Ho-Home Invasion (App ID: 1482830)
+Developer: Whitepot Studios
+Year: 2020
+
+**Cultural Context:**
+  - "Ho-Ho-Home Invasion" Irish game development cultural impact
+  - "Ho-Ho-Home Invasion" Ireland game industry
+  - "Whitepot Studios" Irish developer
+
+**Media Coverage:**
+  - "Ho-Ho-Home Invasion" review
+  - "Ho-Ho-Home Invasion" article news
+  - "Ho-Ho-Home Invasion" press coverage
+
+**Developer Interviews:**
+  - "Whitepot Studios" interview "Ho-Ho-Home Invasion"
+  - "Whitepot Studios" behind the scenes "Ho-Ho-Home Invasion"
+  - "Whitepot Studios" GDC talk "Ho-Ho-Home Invasion"
+  - "Ho-Ho-Home Invasion" developer interview
+  - "Ho-Ho-Home Invasion" making of
+
+--------------------------------------------------------------------------------
+
+## Pro Wrestling Sim (App ID: 1157700)
+Developer: Pro Wrestling Sim
+Year: 2021
+
+**Cultural Context:**
+  - "Pro Wrestling Sim" Irish game development cultural impact
+  - "Pro Wrestling Sim" Ireland game industry
+  - "Pro Wrestling Sim" Irish developer
+
+**Media Coverage:**
+  - "Pro Wrestling Sim" review
+  - "Pro Wrestling Sim" article news
+  - "Pro Wrestling Sim" press coverage
+
+**Developer Interviews:**
+  - "Pro Wrestling Sim" interview "Pro Wrestling Sim"
+  - "Pro Wrestling Sim" behind the scenes "Pro Wrestling Sim"
+  - "Pro Wrestling Sim" GDC talk "Pro Wrestling Sim"
+  - "Pro Wrestling Sim" developer interview
+  - "Pro Wrestling Sim" making of
+
+--------------------------------------------------------------------------------
+
+## The Darkside Detective: A Fumble in the Dark (App ID: 795420)
+Developer: Spooky Doorway
+Year: 2021
+
+**Cultural Context:**
+  - "The Darkside Detective: A Fumble in the Dark" Irish game development cultural impact
+  - "The Darkside Detective: A Fumble in the Dark" Ireland game industry
+  - "Spooky Doorway" Irish developer
+
+**Media Coverage:**
+  - "The Darkside Detective: A Fumble in the Dark" review
+  - "The Darkside Detective: A Fumble in the Dark" article news
+  - "The Darkside Detective: A Fumble in the Dark" press coverage
+
+**Developer Interviews:**
+  - "Spooky Doorway" interview "The Darkside Detective: A Fumble in the Dark"
+  - "Spooky Doorway" behind the scenes "The Darkside Detective: A Fumble in the Dark"
+  - "Spooky Doorway" GDC talk "The Darkside Detective: A Fumble in the Dark"
+  - "The Darkside Detective: A Fumble in the Dark" developer interview
+  - "The Darkside Detective: A Fumble in the Dark" making of
+
+--------------------------------------------------------------------------------
+
+## Buildings Have Feelings Too! (App ID: 945740)
+Developer: Blackstaff Games
+Year: 2021
+
+**Cultural Context:**
+  - "Buildings Have Feelings Too!" Irish game development cultural impact
+  - "Buildings Have Feelings Too!" Ireland game industry
+  - "Blackstaff Games" Irish developer
+
+**Media Coverage:**
+  - "Buildings Have Feelings Too!" review
+  - "Buildings Have Feelings Too!" article news
+  - "Buildings Have Feelings Too!" press coverage
+
+**Developer Interviews:**
+  - "Blackstaff Games" interview "Buildings Have Feelings Too!"
+  - "Blackstaff Games" behind the scenes "Buildings Have Feelings Too!"
+  - "Blackstaff Games" GDC talk "Buildings Have Feelings Too!"
+  - "Buildings Have Feelings Too!" developer interview
+  - "Buildings Have Feelings Too!" making of
+
+--------------------------------------------------------------------------------
+
+## The Caretaker (App ID: 1399620)
+Developer: Squid Monkey Studios
+Year: 2021
+
+**Cultural Context:**
+  - "The Caretaker" Irish game development cultural impact
+  - "The Caretaker" Ireland game industry
+  - "Squid Monkey Studios" Irish developer
+
+**Media Coverage:**
+  - "The Caretaker" review
+  - "The Caretaker" article news
+  - "The Caretaker" press coverage
+
+**Developer Interviews:**
+  - "Squid Monkey Studios" interview "The Caretaker"
+  - "Squid Monkey Studios" behind the scenes "The Caretaker"
+  - "Squid Monkey Studios" GDC talk "The Caretaker"
+  - "The Caretaker" developer interview
+  - "The Caretaker" making of
+
+--------------------------------------------------------------------------------
+
+## Alchemic Cutie (App ID: 913720)
+Developer: Vakio
+Year: 2021
+
+**Cultural Context:**
+  - "Alchemic Cutie" Irish game development cultural impact
+  - "Alchemic Cutie" Ireland game industry
+  - "Vakio" Irish developer
+
+**Media Coverage:**
+  - "Alchemic Cutie" review
+  - "Alchemic Cutie" article news
+  - "Alchemic Cutie" press coverage
+
+**Developer Interviews:**
+  - "Vakio" interview "Alchemic Cutie"
+  - "Vakio" behind the scenes "Alchemic Cutie"
+  - "Vakio" GDC talk "Alchemic Cutie"
+  - "Alchemic Cutie" developer interview
+  - "Alchemic Cutie" making of
+
+--------------------------------------------------------------------------------
+
+## MOTHERED - A ROLE-PLAYING HORROR GAME (App ID: 1830720)
+Developer: ENIGMA STUDIO
+Year: 2021
+
+**Cultural Context:**
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" Irish game development cultural impact
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" Ireland game industry
+  - "ENIGMA STUDIO" Irish developer
+
+**Media Coverage:**
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" review
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" article news
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" press coverage
+
+**Developer Interviews:**
+  - "ENIGMA STUDIO" interview "MOTHERED - A ROLE-PLAYING HORROR GAME"
+  - "ENIGMA STUDIO" behind the scenes "MOTHERED - A ROLE-PLAYING HORROR GAME"
+  - "ENIGMA STUDIO" GDC talk "MOTHERED - A ROLE-PLAYING HORROR GAME"
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" developer interview
+  - "MOTHERED - A ROLE-PLAYING HORROR GAME" making of
+
+--------------------------------------------------------------------------------
+
+## Crooks Like Us (App ID: 1492650)
+Developer: Out Of Tune Games
+Year: 2022
+
+**Cultural Context:**
+  - "Crooks Like Us" Irish game development cultural impact
+  - "Crooks Like Us" Ireland game industry
+  - "Out Of Tune Games" Irish developer
+
+**Media Coverage:**
+  - "Crooks Like Us" review
+  - "Crooks Like Us" article news
+  - "Crooks Like Us" press coverage
+
+**Developer Interviews:**
+  - "Out Of Tune Games" interview "Crooks Like Us"
+  - "Out Of Tune Games" behind the scenes "Crooks Like Us"
+  - "Out Of Tune Games" GDC talk "Crooks Like Us"
+  - "Crooks Like Us" developer interview
+  - "Crooks Like Us" making of
+
+--------------------------------------------------------------------------------
+
+## TAXINAUT (App ID: 2082260)
+Developer: mosgrom
+Year: 2022
+
+**Cultural Context:**
+  - "TAXINAUT" Irish game development cultural impact
+  - "TAXINAUT" Ireland game industry
+  - "mosgrom" Irish developer
+
+**Media Coverage:**
+  - "TAXINAUT" review
+  - "TAXINAUT" article news
+  - "TAXINAUT" press coverage
+
+**Developer Interviews:**
+  - "mosgrom" interview "TAXINAUT"
+  - "mosgrom" behind the scenes "TAXINAUT"
+  - "mosgrom" GDC talk "TAXINAUT"
+  - "TAXINAUT" developer interview
+  - "TAXINAUT" making of
+
+--------------------------------------------------------------------------------
+
+## Employee of The Month (App ID: 1957230)
+Developer: Projeckt Skeleton
+Year: 2022
+
+**Cultural Context:**
+  - "Employee of The Month" Irish game development cultural impact
+  - "Employee of The Month" Ireland game industry
+  - "Projeckt Skeleton" Irish developer
+
+**Media Coverage:**
+  - "Employee of The Month" review
+  - "Employee of The Month" article news
+  - "Employee of The Month" press coverage
+
+**Developer Interviews:**
+  - "Projeckt Skeleton" interview "Employee of The Month"
+  - "Projeckt Skeleton" behind the scenes "Employee of The Month"
+  - "Projeckt Skeleton" GDC talk "Employee of The Month"
+  - "Employee of The Month" developer interview
+  - "Employee of The Month" making of
+
+--------------------------------------------------------------------------------
+
+## Jennifer Wilde: Unlikely Revolutionaries (App ID: 1466350)
+Developer: Outsider Games
+Year: 2022
+
+**Cultural Context:**
+  - "Jennifer Wilde: Unlikely Revolutionaries" Irish game development cultural impact
+  - "Jennifer Wilde: Unlikely Revolutionaries" Ireland game industry
+  - "Outsider Games" Irish developer
+
+**Media Coverage:**
+  - "Jennifer Wilde: Unlikely Revolutionaries" review
+  - "Jennifer Wilde: Unlikely Revolutionaries" article news
+  - "Jennifer Wilde: Unlikely Revolutionaries" press coverage
+
+**Developer Interviews:**
+  - "Outsider Games" interview "Jennifer Wilde: Unlikely Revolutionaries"
+  - "Outsider Games" behind the scenes "Jennifer Wilde: Unlikely Revolutionaries"
+  - "Outsider Games" GDC talk "Jennifer Wilde: Unlikely Revolutionaries"
+  - "Jennifer Wilde: Unlikely Revolutionaries" developer interview
+  - "Jennifer Wilde: Unlikely Revolutionaries" making of
+
+--------------------------------------------------------------------------------
+
+## Lincoln Green (App ID: 2199610)
+Developer: Corbally Games
+Year: 2023
+
+**Cultural Context:**
+  - "Lincoln Green" Irish game development cultural impact
+  - "Lincoln Green" Ireland game industry
+  - "Corbally Games" Irish developer
+
+**Media Coverage:**
+  - "Lincoln Green" review
+  - "Lincoln Green" article news
+  - "Lincoln Green" press coverage
+
+**Developer Interviews:**
+  - "Corbally Games" interview "Lincoln Green"
+  - "Corbally Games" behind the scenes "Lincoln Green"
+  - "Corbally Games" GDC talk "Lincoln Green"
+  - "Lincoln Green" developer interview
+  - "Lincoln Green" making of
+
+--------------------------------------------------------------------------------
+
+## FaceValue (App ID: 2222220)
+Developer: Sure Why Not?
+Year: 2023
+
+**Cultural Context:**
+  - "FaceValue" Irish game development cultural impact
+  - "FaceValue" Ireland game industry
+  - "Sure Why Not?" Irish developer
+
+**Media Coverage:**
+  - "FaceValue" review
+  - "FaceValue" article news
+  - "FaceValue" press coverage
+
+**Developer Interviews:**
+  - "Sure Why Not?" interview "FaceValue"
+  - "Sure Why Not?" behind the scenes "FaceValue"
+  - "Sure Why Not?" GDC talk "FaceValue"
+  - "FaceValue" developer interview
+  - "FaceValue" making of
+
+--------------------------------------------------------------------------------
+
+## The Pale Beyond (App ID: 1266030)
+Developer: Saltstone Studios
+Year: 2023
+
+**Cultural Context:**
+  - "The Pale Beyond" Irish game development cultural impact
+  - "The Pale Beyond" Ireland game industry
+  - "Saltstone Studios" Irish developer
+
+**Media Coverage:**
+  - "The Pale Beyond" review
+  - "The Pale Beyond" article news
+  - "The Pale Beyond" press coverage
+
+**Developer Interviews:**
+  - "Saltstone Studios" interview "The Pale Beyond"
+  - "Saltstone Studios" behind the scenes "The Pale Beyond"
+  - "Saltstone Studios" GDC talk "The Pale Beyond"
+  - "The Pale Beyond" developer interview
+  - "The Pale Beyond" making of
+
+--------------------------------------------------------------------------------
+
+## Crab Champions (App ID: 774801)
+Developer: Noisestorm
+Year: 2023
+
+**Cultural Context:**
+  - "Crab Champions" Irish game development cultural impact
+  - "Crab Champions" Ireland game industry
+  - "Noisestorm" Irish developer
+
+**Media Coverage:**
+  - "Crab Champions" review
+  - "Crab Champions" article news
+  - "Crab Champions" press coverage
+
+**Developer Interviews:**
+  - "Noisestorm" interview "Crab Champions"
+  - "Noisestorm" behind the scenes "Crab Champions"
+  - "Noisestorm" GDC talk "Crab Champions"
+  - "Crab Champions" developer interview
+  - "Crab Champions" making of
+
+--------------------------------------------------------------------------------
+
+## Filthy Animals | Heist Simulator (App ID: 1195420)
+Developer: Pewter Games Studios
+Year: 2023
+
+**Cultural Context:**
+  - "Filthy Animals | Heist Simulator" Irish game development cultural impact
+  - "Filthy Animals | Heist Simulator" Ireland game industry
+  - "Pewter Games Studios" Irish developer
+
+**Media Coverage:**
+  - "Filthy Animals | Heist Simulator" review
+  - "Filthy Animals | Heist Simulator" article news
+  - "Filthy Animals | Heist Simulator" press coverage
+
+**Developer Interviews:**
+  - "Pewter Games Studios" interview "Filthy Animals | Heist Simulator"
+  - "Pewter Games Studios" behind the scenes "Filthy Animals | Heist Simulator"
+  - "Pewter Games Studios" GDC talk "Filthy Animals | Heist Simulator"
+  - "Filthy Animals | Heist Simulator" developer interview
+  - "Filthy Animals | Heist Simulator" making of
+
+--------------------------------------------------------------------------------
+
+## This Means Warp (App ID: 1269300)
+Developer: Outlier
+Year: 2023
+
+**Cultural Context:**
+  - "This Means Warp" Irish game development cultural impact
+  - "This Means Warp" Ireland game industry
+  - "Outlier" Irish developer
+
+**Media Coverage:**
+  - "This Means Warp" review
+  - "This Means Warp" article news
+  - "This Means Warp" press coverage
+
+**Developer Interviews:**
+  - "Outlier" interview "This Means Warp"
+  - "Outlier" behind the scenes "This Means Warp"
+  - "Outlier" GDC talk "This Means Warp"
+  - "This Means Warp" developer interview
+  - "This Means Warp" making of
+
+--------------------------------------------------------------------------------
+
+## Sergeant Squidley: Space Cop! (App ID: 2238210)
+Developer: Ninjaconor
+Year: 2023
+
+**Cultural Context:**
+  - "Sergeant Squidley: Space Cop!" Irish game development cultural impact
+  - "Sergeant Squidley: Space Cop!" Ireland game industry
+  - "Ninjaconor" Irish developer
+
+**Media Coverage:**
+  - "Sergeant Squidley: Space Cop!" review
+  - "Sergeant Squidley: Space Cop!" article news
+  - "Sergeant Squidley: Space Cop!" press coverage
+
+**Developer Interviews:**
+  - "Ninjaconor" interview "Sergeant Squidley: Space Cop!"
+  - "Ninjaconor" behind the scenes "Sergeant Squidley: Space Cop!"
+  - "Ninjaconor" GDC talk "Sergeant Squidley: Space Cop!"
+  - "Sergeant Squidley: Space Cop!" developer interview
+  - "Sergeant Squidley: Space Cop!" making of
+
+--------------------------------------------------------------------------------
+
+## Baldur's Gate 3 (App ID: 1086940)
+Developer: Larian Studios
+Year: 2023
+
+**Cultural Context:**
+  - "Baldur's Gate 3" Irish game development cultural impact
+  - "Baldur's Gate 3" Ireland game industry
+  - "Larian Studios" Irish developer
+
+**Media Coverage:**
+  - "Baldur's Gate 3" review
+  - "Baldur's Gate 3" article news
+  - "Baldur's Gate 3" press coverage
+
+**Developer Interviews:**
+  - "Larian Studios" interview "Baldur's Gate 3"
+  - "Larian Studios" behind the scenes "Baldur's Gate 3"
+  - "Larian Studios" GDC talk "Baldur's Gate 3"
+  - "Baldur's Gate 3" developer interview
+  - "Baldur's Gate 3" making of
+
+--------------------------------------------------------------------------------
+
+## Paleo Pines (App ID: 1202200)
+Developer: Italic Pig
+Year: 2023
+
+**Cultural Context:**
+  - "Paleo Pines" Irish game development cultural impact
+  - "Paleo Pines" Ireland game industry
+  - "Italic Pig" Irish developer
+
+**Media Coverage:**
+  - "Paleo Pines" review
+  - "Paleo Pines" article news
+  - "Paleo Pines" press coverage
+
+**Developer Interviews:**
+  - "Italic Pig" interview "Paleo Pines"
+  - "Italic Pig" behind the scenes "Paleo Pines"
+  - "Italic Pig" GDC talk "Paleo Pines"
+  - "Paleo Pines" developer interview
+  - "Paleo Pines" making of
+
+--------------------------------------------------------------------------------
+
+## The Sirena Expedition (App ID: 1957300)
+Developer: Giraffe Cat
+Year: 2023
+
+**Cultural Context:**
+  - "The Sirena Expedition" Irish game development cultural impact
+  - "The Sirena Expedition" Ireland game industry
+  - "Giraffe Cat" Irish developer
+
+**Media Coverage:**
+  - "The Sirena Expedition" review
+  - "The Sirena Expedition" article news
+  - "The Sirena Expedition" press coverage
+
+**Developer Interviews:**
+  - "Giraffe Cat" interview "The Sirena Expedition"
+  - "Giraffe Cat" behind the scenes "The Sirena Expedition"
+  - "Giraffe Cat" GDC talk "The Sirena Expedition"
+  - "The Sirena Expedition" developer interview
+  - "The Sirena Expedition" making of
+
+--------------------------------------------------------------------------------
+
+## com__et (App ID: 2604450)
+Developer: Margarita Games
+Year: 2023
+
+**Cultural Context:**
+  - "com__et" Irish game development cultural impact
+  - "com__et" Ireland game industry
+  - "Margarita Games" Irish developer
+
+**Media Coverage:**
+  - "com__et" review
+  - "com__et" article news
+  - "com__et" press coverage
+
+**Developer Interviews:**
+  - "Margarita Games" interview "com__et"
+  - "Margarita Games" behind the scenes "com__et"
+  - "Margarita Games" GDC talk "com__et"
+  - "com__et" developer interview
+  - "com__et" making of
+
+--------------------------------------------------------------------------------
+
+## Paranoia: Happiness is Mandatory (App ID: 858030)
+Developer: Black Shamrock
+Year: 2023
+
+**Cultural Context:**
+  - "Paranoia: Happiness is Mandatory" Irish game development cultural impact
+  - "Paranoia: Happiness is Mandatory" Ireland game industry
+  - "Black Shamrock" Irish developer
+
+**Media Coverage:**
+  - "Paranoia: Happiness is Mandatory" review
+  - "Paranoia: Happiness is Mandatory" article news
+  - "Paranoia: Happiness is Mandatory" press coverage
+
+**Developer Interviews:**
+  - "Black Shamrock" interview "Paranoia: Happiness is Mandatory"
+  - "Black Shamrock" behind the scenes "Paranoia: Happiness is Mandatory"
+  - "Black Shamrock" GDC talk "Paranoia: Happiness is Mandatory"
+  - "Paranoia: Happiness is Mandatory" developer interview
+  - "Paranoia: Happiness is Mandatory" making of
+
+--------------------------------------------------------------------------------
+
+## Just Dodge, LOL (App ID: 2181800)
+Developer: Gretham
+Year: 2024
+
+**Cultural Context:**
+  - "Just Dodge, LOL" Irish game development cultural impact
+  - "Just Dodge, LOL" Ireland game industry
+  - "Gretham" Irish developer
+
+**Media Coverage:**
+  - "Just Dodge, LOL" review
+  - "Just Dodge, LOL" article news
+  - "Just Dodge, LOL" press coverage
+
+**Developer Interviews:**
+  - "Gretham" interview "Just Dodge, LOL"
+  - "Gretham" behind the scenes "Just Dodge, LOL"
+  - "Gretham" GDC talk "Just Dodge, LOL"
+  - "Just Dodge, LOL" developer interview
+  - "Just Dodge, LOL" making of
+
+--------------------------------------------------------------------------------
+
+## Feud (App ID: 863400)
+Developer: Bearwaves
+Year: 2024
+
+**Cultural Context:**
+  - "Feud" Irish game development cultural impact
+  - "Feud" Ireland game industry
+  - "Bearwaves" Irish developer
+
+**Media Coverage:**
+  - "Feud" review
+  - "Feud" article news
+  - "Feud" press coverage
+
+**Developer Interviews:**
+  - "Bearwaves" interview "Feud"
+  - "Bearwaves" behind the scenes "Feud"
+  - "Bearwaves" GDC talk "Feud"
+  - "Feud" developer interview
+  - "Feud" making of
+
+--------------------------------------------------------------------------------
+
+## The Gauntlet (App ID: 2701020)
+Developer: Round Table Studios
+Year: 2024
+
+**Cultural Context:**
+  - "The Gauntlet" Irish game development cultural impact
+  - "The Gauntlet" Ireland game industry
+  - "Round Table Studios" Irish developer
+
+**Media Coverage:**
+  - "The Gauntlet" review
+  - "The Gauntlet" article news
+  - "The Gauntlet" press coverage
+
+**Developer Interviews:**
+  - "Round Table Studios" interview "The Gauntlet"
+  - "Round Table Studios" behind the scenes "The Gauntlet"
+  - "Round Table Studios" GDC talk "The Gauntlet"
+  - "The Gauntlet" developer interview
+  - "The Gauntlet" making of
+
+--------------------------------------------------------------------------------
+
+## The Final Farewell (App ID: 2803140)
+Developer: Studio Witchstar
+Year: 2024
+
+**Cultural Context:**
+  - "The Final Farewell" Irish game development cultural impact
+  - "The Final Farewell" Ireland game industry
+  - "Studio Witchstar" Irish developer
+
+**Media Coverage:**
+  - "The Final Farewell" review
+  - "The Final Farewell" article news
+  - "The Final Farewell" press coverage
+
+**Developer Interviews:**
+  - "Studio Witchstar" interview "The Final Farewell"
+  - "Studio Witchstar" behind the scenes "The Final Farewell"
+  - "Studio Witchstar" GDC talk "The Final Farewell"
+  - "The Final Farewell" developer interview
+  - "The Final Farewell" making of
+
+--------------------------------------------------------------------------------
+
+## Catlists (App ID: 2772590)
+Developer: Burkus
+Year: 2024
+
+**Cultural Context:**
+  - "Catlists" Irish game development cultural impact
+  - "Catlists" Ireland game industry
+  - "Burkus" Irish developer
+
+**Media Coverage:**
+  - "Catlists" review
+  - "Catlists" article news
+  - "Catlists" press coverage
+
+**Developer Interviews:**
+  - "Burkus" interview "Catlists"
+  - "Burkus" behind the scenes "Catlists"
+  - "Burkus" GDC talk "Catlists"
+  - "Catlists" developer interview
+  - "Catlists" making of
+
+--------------------------------------------------------------------------------
+
+## [ECHOSTASIS] (App ID: 1558000)
+Developer: ENIGMA STUDIO
+Year: 2024
+
+**Cultural Context:**
+  - "[ECHOSTASIS]" Irish game development cultural impact
+  - "[ECHOSTASIS]" Ireland game industry
+  - "ENIGMA STUDIO" Irish developer
+
+**Media Coverage:**
+  - "[ECHOSTASIS]" review
+  - "[ECHOSTASIS]" article news
+  - "[ECHOSTASIS]" press coverage
+
+**Developer Interviews:**
+  - "ENIGMA STUDIO" interview "[ECHOSTASIS]"
+  - "ENIGMA STUDIO" behind the scenes "[ECHOSTASIS]"
+  - "ENIGMA STUDIO" GDC talk "[ECHOSTASIS]"
+  - "[ECHOSTASIS]" developer interview
+  - "[ECHOSTASIS]" making of
+
+--------------------------------------------------------------------------------
+
+## Anchored Hearts: A Tale of Destiny (App ID: 2396660)
+Developer: Studio Witchstar
+Year: 2024
+
+**Cultural Context:**
+  - "Anchored Hearts: A Tale of Destiny" Irish game development cultural impact
+  - "Anchored Hearts: A Tale of Destiny" Ireland game industry
+  - "Studio Witchstar" Irish developer
+
+**Media Coverage:**
+  - "Anchored Hearts: A Tale of Destiny" review
+  - "Anchored Hearts: A Tale of Destiny" article news
+  - "Anchored Hearts: A Tale of Destiny" press coverage
+
+**Developer Interviews:**
+  - "Studio Witchstar" interview "Anchored Hearts: A Tale of Destiny"
+  - "Studio Witchstar" behind the scenes "Anchored Hearts: A Tale of Destiny"
+  - "Studio Witchstar" GDC talk "Anchored Hearts: A Tale of Destiny"
+  - "Anchored Hearts: A Tale of Destiny" developer interview
+  - "Anchored Hearts: A Tale of Destiny" making of
+
+--------------------------------------------------------------------------------
+
+## Scrambled Eggs (App ID: 2906540)
+Developer: Jake Horner
+Year: 2024
+
+**Cultural Context:**
+  - "Scrambled Eggs" Irish game development cultural impact
+  - "Scrambled Eggs" Ireland game industry
+  - "Jake Horner" Irish developer
+
+**Media Coverage:**
+  - "Scrambled Eggs" review
+  - "Scrambled Eggs" article news
+  - "Scrambled Eggs" press coverage
+
+**Developer Interviews:**
+  - "Jake Horner" interview "Scrambled Eggs"
+  - "Jake Horner" behind the scenes "Scrambled Eggs"
+  - "Jake Horner" GDC talk "Scrambled Eggs"
+  - "Scrambled Eggs" developer interview
+  - "Scrambled Eggs" making of
+
+--------------------------------------------------------------------------------
+
+## BattleClaws (App ID: 2835960)
+Developer: DameGev
+Year: 2024
+
+**Cultural Context:**
+  - "BattleClaws" Irish game development cultural impact
+  - "BattleClaws" Ireland game industry
+  - "DameGev" Irish developer
+
+**Media Coverage:**
+  - "BattleClaws" review
+  - "BattleClaws" article news
+  - "BattleClaws" press coverage
+
+**Developer Interviews:**
+  - "DameGev" interview "BattleClaws"
+  - "DameGev" behind the scenes "BattleClaws"
+  - "DameGev" GDC talk "BattleClaws"
+  - "BattleClaws" developer interview
+  - "BattleClaws" making of
+
+--------------------------------------------------------------------------------
+
+## Poetry Pigeon (App ID: 2942420)
+Developer: T. T. Hew Games
+Year: 2024
+
+**Cultural Context:**
+  - "Poetry Pigeon" Irish game development cultural impact
+  - "Poetry Pigeon" Ireland game industry
+  - "T. T. Hew Games" Irish developer
+
+**Media Coverage:**
+  - "Poetry Pigeon" review
+  - "Poetry Pigeon" article news
+  - "Poetry Pigeon" press coverage
+
+**Developer Interviews:**
+  - "T. T. Hew Games" interview "Poetry Pigeon"
+  - "T. T. Hew Games" behind the scenes "Poetry Pigeon"
+  - "T. T. Hew Games" GDC talk "Poetry Pigeon"
+  - "Poetry Pigeon" developer interview
+  - "Poetry Pigeon" making of
+
+--------------------------------------------------------------------------------
+
+## Gladiate! (App ID: 3106750)
+Developer: Teicsoft
+Year: 2024
+
+**Cultural Context:**
+  - "Gladiate!" Irish game development cultural impact
+  - "Gladiate!" Ireland game industry
+  - "Teicsoft" Irish developer
+
+**Media Coverage:**
+  - "Gladiate!" review
+  - "Gladiate!" article news
+  - "Gladiate!" press coverage
+
+**Developer Interviews:**
+  - "Teicsoft" interview "Gladiate!"
+  - "Teicsoft" behind the scenes "Gladiate!"
+  - "Teicsoft" GDC talk "Gladiate!"
+  - "Gladiate!" developer interview
+  - "Gladiate!" making of
+
+--------------------------------------------------------------------------------
+
+## Elemental Exiles (App ID: 2809240)
+Developer: Final Game Studio
+Year: 2024
+
+**Cultural Context:**
+  - "Elemental Exiles" Irish game development cultural impact
+  - "Elemental Exiles" Ireland game industry
+  - "Final Game Studio" Irish developer
+
+**Media Coverage:**
+  - "Elemental Exiles" review
+  - "Elemental Exiles" article news
+  - "Elemental Exiles" press coverage
+
+**Developer Interviews:**
+  - "Final Game Studio" interview "Elemental Exiles"
+  - "Final Game Studio" behind the scenes "Elemental Exiles"
+  - "Final Game Studio" GDC talk "Elemental Exiles"
+  - "Elemental Exiles" developer interview
+  - "Elemental Exiles" making of
+
+--------------------------------------------------------------------------------
+
+## Parcel Corps (App ID: 2015960)
+Developer: Billy Goat Entertainment Ltd
+Year: 2024
+
+**Cultural Context:**
+  - "Parcel Corps" Irish game development cultural impact
+  - "Parcel Corps" Ireland game industry
+  - "Billy Goat Entertainment Ltd" Irish developer
+
+**Media Coverage:**
+  - "Parcel Corps" review
+  - "Parcel Corps" article news
+  - "Parcel Corps" press coverage
+
+**Developer Interviews:**
+  - "Billy Goat Entertainment Ltd" interview "Parcel Corps"
+  - "Billy Goat Entertainment Ltd" behind the scenes "Parcel Corps"
+  - "Billy Goat Entertainment Ltd" GDC talk "Parcel Corps"
+  - "Parcel Corps" developer interview
+  - "Parcel Corps" making of
+
+--------------------------------------------------------------------------------
+
+## Amber Isle (App ID: 1663040)
+Developer: Ambertail Games
+Year: 2024
+
+**Cultural Context:**
+  - "Amber Isle" Irish game development cultural impact
+  - "Amber Isle" Ireland game industry
+  - "Ambertail Games" Irish developer
+
+**Media Coverage:**
+  - "Amber Isle" review
+  - "Amber Isle" article news
+  - "Amber Isle" press coverage
+
+**Developer Interviews:**
+  - "Ambertail Games" interview "Amber Isle"
+  - "Ambertail Games" behind the scenes "Amber Isle"
+  - "Ambertail Games" GDC talk "Amber Isle"
+  - "Amber Isle" developer interview
+  - "Amber Isle" making of
+
+--------------------------------------------------------------------------------
+
+## Whispers in the Shadows (App ID: 2891690)
+Developer: Sugradh_Dev
+Year: 2024
+
+**Cultural Context:**
+  - "Whispers in the Shadows" Irish game development cultural impact
+  - "Whispers in the Shadows" Ireland game industry
+  - "Sugradh_Dev" Irish developer
+
+**Media Coverage:**
+  - "Whispers in the Shadows" review
+  - "Whispers in the Shadows" article news
+  - "Whispers in the Shadows" press coverage
+
+**Developer Interviews:**
+  - "Sugradh_Dev" interview "Whispers in the Shadows"
+  - "Sugradh_Dev" behind the scenes "Whispers in the Shadows"
+  - "Sugradh_Dev" GDC talk "Whispers in the Shadows"
+  - "Whispers in the Shadows" developer interview
+  - "Whispers in the Shadows" making of
+
+--------------------------------------------------------------------------------
+
+## The Ghost of Redstone Manor (App ID: 3193510)
+Developer: Bashevis Games
+Year: 2024
+
+**Cultural Context:**
+  - "The Ghost of Redstone Manor" Irish game development cultural impact
+  - "The Ghost of Redstone Manor" Ireland game industry
+  - "Bashevis Games" Irish developer
+
+**Media Coverage:**
+  - "The Ghost of Redstone Manor" review
+  - "The Ghost of Redstone Manor" article news
+  - "The Ghost of Redstone Manor" press coverage
+
+**Developer Interviews:**
+  - "Bashevis Games" interview "The Ghost of Redstone Manor"
+  - "Bashevis Games" behind the scenes "The Ghost of Redstone Manor"
+  - "Bashevis Games" GDC talk "The Ghost of Redstone Manor"
+  - "The Ghost of Redstone Manor" developer interview
+  - "The Ghost of Redstone Manor" making of
+
+--------------------------------------------------------------------------------
+
+## Chroma Cross (App ID: 3080030)
+Developer: TheFitzyGames
+Year: 2024
+
+**Cultural Context:**
+  - "Chroma Cross" Irish game development cultural impact
+  - "Chroma Cross" Ireland game industry
+  - "TheFitzyGames" Irish developer
+
+**Media Coverage:**
+  - "Chroma Cross" review
+  - "Chroma Cross" article news
+  - "Chroma Cross" press coverage
+
+**Developer Interviews:**
+  - "TheFitzyGames" interview "Chroma Cross"
+  - "TheFitzyGames" behind the scenes "Chroma Cross"
+  - "TheFitzyGames" GDC talk "Chroma Cross"
+  - "Chroma Cross" developer interview
+  - "Chroma Cross" making of
+
+--------------------------------------------------------------------------------
+
+## CROWDED. FOLLOWED. (App ID: 2948790)
+Developer: NIGHT DIAL
+Year: 2024
+
+**Cultural Context:**
+  - "CROWDED. FOLLOWED." Irish game development cultural impact
+  - "CROWDED. FOLLOWED." Ireland game industry
+  - "NIGHT DIAL" Irish developer
+
+**Media Coverage:**
+  - "CROWDED. FOLLOWED." review
+  - "CROWDED. FOLLOWED." article news
+  - "CROWDED. FOLLOWED." press coverage
+
+**Developer Interviews:**
+  - "NIGHT DIAL" interview "CROWDED. FOLLOWED."
+  - "NIGHT DIAL" behind the scenes "CROWDED. FOLLOWED."
+  - "NIGHT DIAL" GDC talk "CROWDED. FOLLOWED."
+  - "CROWDED. FOLLOWED." developer interview
+  - "CROWDED. FOLLOWED." making of
+
+--------------------------------------------------------------------------------
+
+## Daemonium (App ID: 2327140)
+Developer: Steel Feather Studio
+Year: 2024
+
+**Cultural Context:**
+  - "Daemonium" Irish game development cultural impact
+  - "Daemonium" Ireland game industry
+  - "Steel Feather Studio" Irish developer
+
+**Media Coverage:**
+  - "Daemonium" review
+  - "Daemonium" article news
+  - "Daemonium" press coverage
+
+**Developer Interviews:**
+  - "Steel Feather Studio" interview "Daemonium"
+  - "Steel Feather Studio" behind the scenes "Daemonium"
+  - "Steel Feather Studio" GDC talk "Daemonium"
+  - "Daemonium" developer interview
+  - "Daemonium" making of
+
+--------------------------------------------------------------------------------
+
+## Surviving the Abyss (App ID: 1254320)
+Developer: Rocket Flair Studios
+Year: 2024
+
+**Cultural Context:**
+  - "Surviving the Abyss" Irish game development cultural impact
+  - "Surviving the Abyss" Ireland game industry
+  - "Rocket Flair Studios" Irish developer
+
+**Media Coverage:**
+  - "Surviving the Abyss" review
+  - "Surviving the Abyss" article news
+  - "Surviving the Abyss" press coverage
+
+**Developer Interviews:**
+  - "Rocket Flair Studios" interview "Surviving the Abyss"
+  - "Rocket Flair Studios" behind the scenes "Surviving the Abyss"
+  - "Rocket Flair Studios" GDC talk "Surviving the Abyss"
+  - "Surviving the Abyss" developer interview
+  - "Surviving the Abyss" making of
+
+--------------------------------------------------------------------------------
+
+## An Aisling (App ID: 2663840)
+Developer: Club Cotton Games
+Year: 2024
+
+**Cultural Context:**
+  - "An Aisling" Irish game development cultural impact
+  - "An Aisling" Ireland game industry
+  - "Club Cotton Games" Irish developer
+
+**Media Coverage:**
+  - "An Aisling" review
+  - "An Aisling" article news
+  - "An Aisling" press coverage
+
+**Developer Interviews:**
+  - "Club Cotton Games" interview "An Aisling"
+  - "Club Cotton Games" behind the scenes "An Aisling"
+  - "Club Cotton Games" GDC talk "An Aisling"
+  - "An Aisling" developer interview
+  - "An Aisling" making of
+
+--------------------------------------------------------------------------------
+
+## Fight Back The Night (App ID: 2826890)
+Developer: Morpeth Jetsan Ltd
+Year: 2024
+
+**Cultural Context:**
+  - "Fight Back The Night" Irish game development cultural impact
+  - "Fight Back The Night" Ireland game industry
+  - "Morpeth Jetsan Ltd" Irish developer
+
+**Media Coverage:**
+  - "Fight Back The Night" review
+  - "Fight Back The Night" article news
+  - "Fight Back The Night" press coverage
+
+**Developer Interviews:**
+  - "Morpeth Jetsan Ltd" interview "Fight Back The Night"
+  - "Morpeth Jetsan Ltd" behind the scenes "Fight Back The Night"
+  - "Morpeth Jetsan Ltd" GDC talk "Fight Back The Night"
+  - "Fight Back The Night" developer interview
+  - "Fight Back The Night" making of
+
+--------------------------------------------------------------------------------
+
+## LazerGrrl (App ID: 993770)
+Developer: Sandwich Generation
+Year: 2024
+
+**Cultural Context:**
+  - "LazerGrrl" Irish game development cultural impact
+  - "LazerGrrl" Ireland game industry
+  - "Sandwich Generation" Irish developer
+
+**Media Coverage:**
+  - "LazerGrrl" review
+  - "LazerGrrl" article news
+  - "LazerGrrl" press coverage
+
+**Developer Interviews:**
+  - "Sandwich Generation" interview "LazerGrrl"
+  - "Sandwich Generation" behind the scenes "LazerGrrl"
+  - "Sandwich Generation" GDC talk "LazerGrrl"
+  - "LazerGrrl" developer interview
+  - "LazerGrrl" making of
+
+--------------------------------------------------------------------------------
+
+## The Empress Quest : Full Moons Saga (App ID: 2080450)
+Developer: Nine Stories Tower Studio
+Year: 2024
+
+**Cultural Context:**
+  - "The Empress Quest : Full Moons Saga" Irish game development cultural impact
+  - "The Empress Quest : Full Moons Saga" Ireland game industry
+  - "Nine Stories Tower Studio" Irish developer
+
+**Media Coverage:**
+  - "The Empress Quest : Full Moons Saga" review
+  - "The Empress Quest : Full Moons Saga" article news
+  - "The Empress Quest : Full Moons Saga" press coverage
+
+**Developer Interviews:**
+  - "Nine Stories Tower Studio" interview "The Empress Quest : Full Moons Saga"
+  - "Nine Stories Tower Studio" behind the scenes "The Empress Quest : Full Moons Saga"
+  - "Nine Stories Tower Studio" GDC talk "The Empress Quest : Full Moons Saga"
+  - "The Empress Quest : Full Moons Saga" developer interview
+  - "The Empress Quest : Full Moons Saga" making of
+
+--------------------------------------------------------------------------------
+
+## Slap It Together! (App ID: 1520590)
+Developer: Head Tilt Games
+Year: 2024
+
+**Cultural Context:**
+  - "Slap It Together!" Irish game development cultural impact
+  - "Slap It Together!" Ireland game industry
+  - "Head Tilt Games" Irish developer
+
+**Media Coverage:**
+  - "Slap It Together!" review
+  - "Slap It Together!" article news
+  - "Slap It Together!" press coverage
+
+**Developer Interviews:**
+  - "Head Tilt Games" interview "Slap It Together!"
+  - "Head Tilt Games" behind the scenes "Slap It Together!"
+  - "Head Tilt Games" GDC talk "Slap It Together!"
+  - "Slap It Together!" developer interview
+  - "Slap It Together!" making of
+
+--------------------------------------------------------------------------------
+
+## POCKET MYSTERY EP DX (App ID: 3300480)
+Developer: Kohococoa Design Works
+Year: 2024
+
+**Cultural Context:**
+  - "POCKET MYSTERY EP DX" Irish game development cultural impact
+  - "POCKET MYSTERY EP DX" Ireland game industry
+  - "Kohococoa Design Works" Irish developer
+
+**Media Coverage:**
+  - "POCKET MYSTERY EP DX" review
+  - "POCKET MYSTERY EP DX" article news
+  - "POCKET MYSTERY EP DX" press coverage
+
+**Developer Interviews:**
+  - "Kohococoa Design Works" interview "POCKET MYSTERY EP DX"
+  - "Kohococoa Design Works" behind the scenes "POCKET MYSTERY EP DX"
+  - "Kohococoa Design Works" GDC talk "POCKET MYSTERY EP DX"
+  - "POCKET MYSTERY EP DX" developer interview
+  - "POCKET MYSTERY EP DX" making of
+
+--------------------------------------------------------------------------------
+
+## Benign Land (App ID: 3345970)
+Developer: Leandros Ntolas
+Year: 2025
+
+**Cultural Context:**
+  - "Benign Land" Irish game development cultural impact
+  - "Benign Land" Ireland game industry
+  - "Leandros Ntolas" Irish developer
+
+**Media Coverage:**
+  - "Benign Land" review
+  - "Benign Land" article news
+  - "Benign Land" press coverage
+
+**Developer Interviews:**
+  - "Leandros Ntolas" interview "Benign Land"
+  - "Leandros Ntolas" behind the scenes "Benign Land"
+  - "Leandros Ntolas" GDC talk "Benign Land"
+  - "Benign Land" developer interview
+  - "Benign Land" making of
+
+--------------------------------------------------------------------------------
+
+## Foundation (App ID: 690830)
+Developer: Polymorph Games
+Year: 2025
+
+**Cultural Context:**
+  - "Foundation" Irish game development cultural impact
+  - "Foundation" Ireland game industry
+  - "Polymorph Games" Irish developer
+
+**Media Coverage:**
+  - "Foundation" review
+  - "Foundation" article news
+  - "Foundation" press coverage
+
+**Developer Interviews:**
+  - "Polymorph Games" interview "Foundation"
+  - "Polymorph Games" behind the scenes "Foundation"
+  - "Polymorph Games" GDC talk "Foundation"
+  - "Foundation" developer interview
+  - "Foundation" making of
+
+--------------------------------------------------------------------------------
+
+## FriendShapes (App ID: 3475600)
+Developer: RainingLamppost
+Year: 2025
+
+**Cultural Context:**
+  - "FriendShapes" Irish game development cultural impact
+  - "FriendShapes" Ireland game industry
+  - "RainingLamppost" Irish developer
+
+**Media Coverage:**
+  - "FriendShapes" review
+  - "FriendShapes" article news
+  - "FriendShapes" press coverage
+
+**Developer Interviews:**
+  - "RainingLamppost" interview "FriendShapes"
+  - "RainingLamppost" behind the scenes "FriendShapes"
+  - "RainingLamppost" GDC talk "FriendShapes"
+  - "FriendShapes" developer interview
+  - "FriendShapes" making of
+
+--------------------------------------------------------------------------------
+
+## Terry's Other Games (App ID: 2824580)
+Developer: Terry Cavanagh
+Year: 2025
+
+**Cultural Context:**
+  - "Terry's Other Games" Irish game development cultural impact
+  - "Terry's Other Games" Ireland game industry
+  - "Terry Cavanagh" Irish developer
+
+**Media Coverage:**
+  - "Terry's Other Games" review
+  - "Terry's Other Games" article news
+  - "Terry's Other Games" press coverage
+
+**Developer Interviews:**
+  - "Terry Cavanagh" interview "Terry's Other Games"
+  - "Terry Cavanagh" behind the scenes "Terry's Other Games"
+  - "Terry Cavanagh" GDC talk "Terry's Other Games"
+  - "Terry's Other Games" developer interview
+  - "Terry's Other Games" making of
+
+--------------------------------------------------------------------------------
+
+## Mars Vice (App ID: 1886910)
+Developer: Rho Labyrinths GmbH
+Year: 2025
+
+**Cultural Context:**
+  - "Mars Vice" Irish game development cultural impact
+  - "Mars Vice" Ireland game industry
+  - "Rho Labyrinths GmbH" Irish developer
+
+**Media Coverage:**
+  - "Mars Vice" review
+  - "Mars Vice" article news
+  - "Mars Vice" press coverage
+
+**Developer Interviews:**
+  - "Rho Labyrinths GmbH" interview "Mars Vice"
+  - "Rho Labyrinths GmbH" behind the scenes "Mars Vice"
+  - "Rho Labyrinths GmbH" GDC talk "Mars Vice"
+  - "Mars Vice" developer interview
+  - "Mars Vice" making of
+
+--------------------------------------------------------------------------------
+
+## Tile Tales: Pirate (App ID: 2983520)
+Developer: NineZyme OÜ
+Year: 2025
+
+**Cultural Context:**
+  - "Tile Tales: Pirate" Irish game development cultural impact
+  - "Tile Tales: Pirate" Ireland game industry
+  - "NineZyme OÜ" Irish developer
+
+**Media Coverage:**
+  - "Tile Tales: Pirate" review
+  - "Tile Tales: Pirate" article news
+  - "Tile Tales: Pirate" press coverage
+
+**Developer Interviews:**
+  - "NineZyme OÜ" interview "Tile Tales: Pirate"
+  - "NineZyme OÜ" behind the scenes "Tile Tales: Pirate"
+  - "NineZyme OÜ" GDC talk "Tile Tales: Pirate"
+  - "Tile Tales: Pirate" developer interview
+  - "Tile Tales: Pirate" making of
+
+--------------------------------------------------------------------------------
+
+## Axyz (App ID: 2850490)
+Developer: Space Lion Studios
+Year: 2025
+
+**Cultural Context:**
+  - "Axyz" Irish game development cultural impact
+  - "Axyz" Ireland game industry
+  - "Space Lion Studios" Irish developer
+
+**Media Coverage:**
+  - "Axyz" review
+  - "Axyz" article news
+  - "Axyz" press coverage
+
+**Developer Interviews:**
+  - "Space Lion Studios" interview "Axyz"
+  - "Space Lion Studios" behind the scenes "Axyz"
+  - "Space Lion Studios" GDC talk "Axyz"
+  - "Axyz" developer interview
+  - "Axyz" making of
+
+--------------------------------------------------------------------------------
+
+## Ekoh Beach (App ID: 1725270)
+Developer: Zenland Games
+Year: 2025
+
+**Cultural Context:**
+  - "Ekoh Beach" Irish game development cultural impact
+  - "Ekoh Beach" Ireland game industry
+  - "Zenland Games" Irish developer
+
+**Media Coverage:**
+  - "Ekoh Beach" review
+  - "Ekoh Beach" article news
+  - "Ekoh Beach" press coverage
+
+**Developer Interviews:**
+  - "Zenland Games" interview "Ekoh Beach"
+  - "Zenland Games" behind the scenes "Ekoh Beach"
+  - "Zenland Games" GDC talk "Ekoh Beach"
+  - "Ekoh Beach" developer interview
+  - "Ekoh Beach" making of
+
+--------------------------------------------------------------------------------
+
+## For Her (App ID: 3356320)
+Developer: Matthew
+Year: 2025
+
+**Cultural Context:**
+  - "For Her" Irish game development cultural impact
+  - "For Her" Ireland game industry
+  - "Matthew" Irish developer
+
+**Media Coverage:**
+  - "For Her" review
+  - "For Her" article news
+  - "For Her" press coverage
+
+**Developer Interviews:**
+  - "Matthew" interview "For Her"
+  - "Matthew" behind the scenes "For Her"
+  - "Matthew" GDC talk "For Her"
+  - "For Her" developer interview
+  - "For Her" making of
+
+--------------------------------------------------------------------------------
+
+## Tranquil Isle (App ID: 2324180)
+Developer: Tom Daly
+Year: 2025
+
+**Cultural Context:**
+  - "Tranquil Isle" Irish game development cultural impact
+  - "Tranquil Isle" Ireland game industry
+  - "Tom Daly" Irish developer
+
+**Media Coverage:**
+  - "Tranquil Isle" review
+  - "Tranquil Isle" article news
+  - "Tranquil Isle" press coverage
+
+**Developer Interviews:**
+  - "Tom Daly" interview "Tranquil Isle"
+  - "Tom Daly" behind the scenes "Tranquil Isle"
+  - "Tom Daly" GDC talk "Tranquil Isle"
+  - "Tranquil Isle" developer interview
+  - "Tranquil Isle" making of
+
+--------------------------------------------------------------------------------
+
+## Many Nights a Whisper (App ID: 3541130)
+Developer: Deconstructeam
+Year: 2025
+
+**Cultural Context:**
+  - "Many Nights a Whisper" Irish game development cultural impact
+  - "Many Nights a Whisper" Ireland game industry
+  - "Deconstructeam" Irish developer
+
+**Media Coverage:**
+  - "Many Nights a Whisper" review
+  - "Many Nights a Whisper" article news
+  - "Many Nights a Whisper" press coverage
+
+**Developer Interviews:**
+  - "Deconstructeam" interview "Many Nights a Whisper"
+  - "Deconstructeam" behind the scenes "Many Nights a Whisper"
+  - "Deconstructeam" GDC talk "Many Nights a Whisper"
+  - "Many Nights a Whisper" developer interview
+  - "Many Nights a Whisper" making of
+
+--------------------------------------------------------------------------------
+
+## Ventilate (App ID: 3364220)
+Developer: Inkfox Studios
+Year: 2025
+
+**Cultural Context:**
+  - "Ventilate" Irish game development cultural impact
+  - "Ventilate" Ireland game industry
+  - "Inkfox Studios" Irish developer
+
+**Media Coverage:**
+  - "Ventilate" review
+  - "Ventilate" article news
+  - "Ventilate" press coverage
+
+**Developer Interviews:**
+  - "Inkfox Studios" interview "Ventilate"
+  - "Inkfox Studios" behind the scenes "Ventilate"
+  - "Inkfox Studios" GDC talk "Ventilate"
+  - "Ventilate" developer interview
+  - "Ventilate" making of
+
+--------------------------------------------------------------------------------
+
+## Turret Baffler (App ID: 3462150)
+Developer: Aceade Games
+Year: 2025
+
+**Cultural Context:**
+  - "Turret Baffler" Irish game development cultural impact
+  - "Turret Baffler" Ireland game industry
+  - "Aceade Games" Irish developer
+
+**Media Coverage:**
+  - "Turret Baffler" review
+  - "Turret Baffler" article news
+  - "Turret Baffler" press coverage
+
+**Developer Interviews:**
+  - "Aceade Games" interview "Turret Baffler"
+  - "Aceade Games" behind the scenes "Turret Baffler"
+  - "Aceade Games" GDC talk "Turret Baffler"
+  - "Turret Baffler" developer interview
+  - "Turret Baffler" making of
+
+--------------------------------------------------------------------------------
+
+## MMM (App ID: 2985990)
+Developer: We Are Dinosaurs
+Year: 2025
+
+**Cultural Context:**
+  - "MMM" Irish game development cultural impact
+  - "MMM" Ireland game industry
+  - "We Are Dinosaurs" Irish developer
+
+**Media Coverage:**
+  - "MMM" review
+  - "MMM" article news
+  - "MMM" press coverage
+
+**Developer Interviews:**
+  - "We Are Dinosaurs" interview "MMM"
+  - "We Are Dinosaurs" behind the scenes "MMM"
+  - "We Are Dinosaurs" GDC talk "MMM"
+  - "MMM" developer interview
+  - "MMM" making of
+
+--------------------------------------------------------------------------------
+
+## Thank You for Your Time (App ID: 3716980)
+Developer: Rogue Writer Indie
+Year: 2025
+
+**Cultural Context:**
+  - "Thank You for Your Time" Irish game development cultural impact
+  - "Thank You for Your Time" Ireland game industry
+  - "Rogue Writer Indie" Irish developer
+
+**Media Coverage:**
+  - "Thank You for Your Time" review
+  - "Thank You for Your Time" article news
+  - "Thank You for Your Time" press coverage
+
+**Developer Interviews:**
+  - "Rogue Writer Indie" interview "Thank You for Your Time"
+  - "Rogue Writer Indie" behind the scenes "Thank You for Your Time"
+  - "Rogue Writer Indie" GDC talk "Thank You for Your Time"
+  - "Thank You for Your Time" developer interview
+  - "Thank You for Your Time" making of
+
+--------------------------------------------------------------------------------
+
+## Bean Sidhe (App ID: 3694740)
+Developer: Sealbee Games
+Year: 2025
+
+**Cultural Context:**
+  - "Bean Sidhe" Irish game development cultural impact
+  - "Bean Sidhe" Ireland game industry
+  - "Sealbee Games" Irish developer
+
+**Media Coverage:**
+  - "Bean Sidhe" review
+  - "Bean Sidhe" article news
+  - "Bean Sidhe" press coverage
+
+**Developer Interviews:**
+  - "Sealbee Games" interview "Bean Sidhe"
+  - "Sealbee Games" behind the scenes "Bean Sidhe"
+  - "Sealbee Games" GDC talk "Bean Sidhe"
+  - "Bean Sidhe" developer interview
+  - "Bean Sidhe" making of
+
+--------------------------------------------------------------------------------
+
+## The Paddock (App ID: 2972380)
+Developer: Josh Devlin
+Year: 2025
+
+**Cultural Context:**
+  - "The Paddock" Irish game development cultural impact
+  - "The Paddock" Ireland game industry
+  - "Josh Devlin" Irish developer
+
+**Media Coverage:**
+  - "The Paddock" review
+  - "The Paddock" article news
+  - "The Paddock" press coverage
+
+**Developer Interviews:**
+  - "Josh Devlin" interview "The Paddock"
+  - "Josh Devlin" behind the scenes "The Paddock"
+  - "Josh Devlin" GDC talk "The Paddock"
+  - "The Paddock" developer interview
+  - "The Paddock" making of
+
+--------------------------------------------------------------------------------
+
+## Prometheus Wept (App ID: 1208110)
+Developer: Timeslip Softworks
+Year: 2025
+
+**Cultural Context:**
+  - "Prometheus Wept" Irish game development cultural impact
+  - "Prometheus Wept" Ireland game industry
+  - "Timeslip Softworks" Irish developer
+
+**Media Coverage:**
+  - "Prometheus Wept" review
+  - "Prometheus Wept" article news
+  - "Prometheus Wept" press coverage
+
+**Developer Interviews:**
+  - "Timeslip Softworks" interview "Prometheus Wept"
+  - "Timeslip Softworks" behind the scenes "Prometheus Wept"
+  - "Timeslip Softworks" GDC talk "Prometheus Wept"
+  - "Prometheus Wept" developer interview
+  - "Prometheus Wept" making of
+
+--------------------------------------------------------------------------------
+
+## The Necromancer's Tale (App ID: 1315320)
+Developer: Psychic Software
+Year: 2025
+
+**Cultural Context:**
+  - "The Necromancer's Tale" Irish game development cultural impact
+  - "The Necromancer's Tale" Ireland game industry
+  - "Psychic Software" Irish developer
+
+**Media Coverage:**
+  - "The Necromancer's Tale" review
+  - "The Necromancer's Tale" article news
+  - "The Necromancer's Tale" press coverage
+
+**Developer Interviews:**
+  - "Psychic Software" interview "The Necromancer's Tale"
+  - "Psychic Software" behind the scenes "The Necromancer's Tale"
+  - "Psychic Software" GDC talk "The Necromancer's Tale"
+  - "The Necromancer's Tale" developer interview
+  - "The Necromancer's Tale" making of
+
+--------------------------------------------------------------------------------
+
+## Tree Kingdoms (App ID: 3477080)
+Developer: Biscuit Factory Games
+Year: 2025
+
+**Cultural Context:**
+  - "Tree Kingdoms" Irish game development cultural impact
+  - "Tree Kingdoms" Ireland game industry
+  - "Biscuit Factory Games" Irish developer
+
+**Media Coverage:**
+  - "Tree Kingdoms" review
+  - "Tree Kingdoms" article news
+  - "Tree Kingdoms" press coverage
+
+**Developer Interviews:**
+  - "Biscuit Factory Games" interview "Tree Kingdoms"
+  - "Biscuit Factory Games" behind the scenes "Tree Kingdoms"
+  - "Biscuit Factory Games" GDC talk "Tree Kingdoms"
+  - "Tree Kingdoms" developer interview
+  - "Tree Kingdoms" making of
+
+--------------------------------------------------------------------------------
+
+## MINI Rugby: World Tour (App ID: 3842180)
+Developer: Chunky Games
+Year: 2025
+
+**Cultural Context:**
+  - "MINI Rugby: World Tour" Irish game development cultural impact
+  - "MINI Rugby: World Tour" Ireland game industry
+  - "Chunky Games" Irish developer
+
+**Media Coverage:**
+  - "MINI Rugby: World Tour" review
+  - "MINI Rugby: World Tour" article news
+  - "MINI Rugby: World Tour" press coverage
+
+**Developer Interviews:**
+  - "Chunky Games" interview "MINI Rugby: World Tour"
+  - "Chunky Games" behind the scenes "MINI Rugby: World Tour"
+  - "Chunky Games" GDC talk "MINI Rugby: World Tour"
+  - "MINI Rugby: World Tour" developer interview
+  - "MINI Rugby: World Tour" making of
+
+--------------------------------------------------------------------------------
+
+## Eyes of Hellfire (App ID: 1724030)
+Developer: Gambrinous
+Year: 2025
+
+**Cultural Context:**
+  - "Eyes of Hellfire" Irish game development cultural impact
+  - "Eyes of Hellfire" Ireland game industry
+  - "Gambrinous" Irish developer
+
+**Media Coverage:**
+  - "Eyes of Hellfire" review
+  - "Eyes of Hellfire" article news
+  - "Eyes of Hellfire" press coverage
+
+**Developer Interviews:**
+  - "Gambrinous" interview "Eyes of Hellfire"
+  - "Gambrinous" behind the scenes "Eyes of Hellfire"
+  - "Gambrinous" GDC talk "Eyes of Hellfire"
+  - "Eyes of Hellfire" developer interview
+  - "Eyes of Hellfire" making of
+
+--------------------------------------------------------------------------------
+
+## RelicWar (App ID: 1646800)
+Developer: Violent Candle Studios
+Year: 2025
+
+**Cultural Context:**
+  - "RelicWar" Irish game development cultural impact
+  - "RelicWar" Ireland game industry
+  - "Violent Candle Studios" Irish developer
+
+**Media Coverage:**
+  - "RelicWar" review
+  - "RelicWar" article news
+  - "RelicWar" press coverage
+
+**Developer Interviews:**
+  - "Violent Candle Studios" interview "RelicWar"
+  - "Violent Candle Studios" behind the scenes "RelicWar"
+  - "Violent Candle Studios" GDC talk "RelicWar"
+  - "RelicWar" developer interview
+  - "RelicWar" making of
+
+--------------------------------------------------------------------------------
+
+## Mars Attracts (App ID: 2760580)
+Developer: Outlier
+Year: 2025
+
+**Cultural Context:**
+  - "Mars Attracts" Irish game development cultural impact
+  - "Mars Attracts" Ireland game industry
+  - "Outlier" Irish developer
+
+**Media Coverage:**
+  - "Mars Attracts" review
+  - "Mars Attracts" article news
+  - "Mars Attracts" press coverage
+
+**Developer Interviews:**
+  - "Outlier" interview "Mars Attracts"
+  - "Outlier" behind the scenes "Mars Attracts"
+  - "Outlier" GDC talk "Mars Attracts"
+  - "Mars Attracts" developer interview
+  - "Mars Attracts" making of
+
+--------------------------------------------------------------------------------
+
+## Éalú (App ID: 3560370)
+Developer: Beyond the Bark
+Year: 2025
+
+**Cultural Context:**
+  - "Éalú" Irish game development cultural impact
+  - "Éalú" Ireland game industry
+  - "Beyond the Bark" Irish developer
+
+**Media Coverage:**
+  - "Éalú" review
+  - "Éalú" article news
+  - "Éalú" press coverage
+
+**Developer Interviews:**
+  - "Beyond the Bark" interview "Éalú"
+  - "Beyond the Bark" behind the scenes "Éalú"
+  - "Beyond the Bark" GDC talk "Éalú"
+  - "Éalú" developer interview
+  - "Éalú" making of
+
+--------------------------------------------------------------------------------
+
+## Lumo 2 (App ID: 3039260)
+Developer: Triple Eh? Ltd
+Year: 2025
+
+**Cultural Context:**
+  - "Lumo 2" Irish game development cultural impact
+  - "Lumo 2" Ireland game industry
+  - "Triple Eh? Ltd" Irish developer
+
+**Media Coverage:**
+  - "Lumo 2" review
+  - "Lumo 2" article news
+  - "Lumo 2" press coverage
+
+**Developer Interviews:**
+  - "Triple Eh? Ltd" interview "Lumo 2"
+  - "Triple Eh? Ltd" behind the scenes "Lumo 2"
+  - "Triple Eh? Ltd" GDC talk "Lumo 2"
+  - "Lumo 2" developer interview
+  - "Lumo 2" making of
+
+--------------------------------------------------------------------------------
+
+## The Séance of Blake Manor (App ID: 1395520)
+Developer: Spooky Doorway
+Year: 2025
+
+**Cultural Context:**
+  - "The Séance of Blake Manor" Irish game development cultural impact
+  - "The Séance of Blake Manor" Ireland game industry
+  - "Spooky Doorway" Irish developer
+
+**Media Coverage:**
+  - "The Séance of Blake Manor" review
+  - "The Séance of Blake Manor" article news
+  - "The Séance of Blake Manor" press coverage
+
+**Developer Interviews:**
+  - "Spooky Doorway" interview "The Séance of Blake Manor"
+  - "Spooky Doorway" behind the scenes "The Séance of Blake Manor"
+  - "Spooky Doorway" GDC talk "The Séance of Blake Manor"
+  - "The Séance of Blake Manor" developer interview
+  - "The Séance of Blake Manor" making of
+
+--------------------------------------------------------------------------------
+
+## 1711 Ireland: A Witch's Fate (App ID: 4119500)
+Developer: Brian Coyle
+Year: 2025
+
+**Cultural Context:**
+  - "1711 Ireland: A Witch's Fate" Irish game development cultural impact
+  - "1711 Ireland: A Witch's Fate" Ireland game industry
+  - "Brian Coyle" Irish developer
+
+**Media Coverage:**
+  - "1711 Ireland: A Witch's Fate" review
+  - "1711 Ireland: A Witch's Fate" article news
+  - "1711 Ireland: A Witch's Fate" press coverage
+
+**Developer Interviews:**
+  - "Brian Coyle" interview "1711 Ireland: A Witch's Fate"
+  - "Brian Coyle" behind the scenes "1711 Ireland: A Witch's Fate"
+  - "Brian Coyle" GDC talk "1711 Ireland: A Witch's Fate"
+  - "1711 Ireland: A Witch's Fate" developer interview
+  - "1711 Ireland: A Witch's Fate" making of
+
+--------------------------------------------------------------------------------
+
+## Azzy Battles the Darkness (App ID: 689370)
+Developer: Celtic Dragon Studio
+Year: Unknown
+
+**Cultural Context:**
+  - "Azzy Battles the Darkness" Irish game development cultural impact
+  - "Azzy Battles the Darkness" Ireland game industry
+  - "Celtic Dragon Studio" Irish developer
+
+**Media Coverage:**
+  - "Azzy Battles the Darkness" review
+  - "Azzy Battles the Darkness" article news
+  - "Azzy Battles the Darkness" press coverage
+
+**Developer Interviews:**
+  - "Celtic Dragon Studio" interview "Azzy Battles the Darkness"
+  - "Celtic Dragon Studio" behind the scenes "Azzy Battles the Darkness"
+  - "Celtic Dragon Studio" GDC talk "Azzy Battles the Darkness"
+  - "Azzy Battles the Darkness" developer interview
+  - "Azzy Battles the Darkness" making of
+
+--------------------------------------------------------------------------------
+
+## Dynasty of the Sands (App ID: 1143070)
+Developer: Rocket Flair Studios
+Year: Unknown
+
+**Cultural Context:**
+  - "Dynasty of the Sands" Irish game development cultural impact
+  - "Dynasty of the Sands" Ireland game industry
+  - "Rocket Flair Studios" Irish developer
+
+**Media Coverage:**
+  - "Dynasty of the Sands" review
+  - "Dynasty of the Sands" article news
+  - "Dynasty of the Sands" press coverage
+
+**Developer Interviews:**
+  - "Rocket Flair Studios" interview "Dynasty of the Sands"
+  - "Rocket Flair Studios" behind the scenes "Dynasty of the Sands"
+  - "Rocket Flair Studios" GDC talk "Dynasty of the Sands"
+  - "Dynasty of the Sands" developer interview
+  - "Dynasty of the Sands" making of
+
+--------------------------------------------------------------------------------
+
+## Rise of Piracy (App ID: 1400660)
+Developer: IrishJohnGames
+Year: Unknown
+
+**Cultural Context:**
+  - "Rise of Piracy" Irish game development cultural impact
+  - "Rise of Piracy" Ireland game industry
+  - "IrishJohnGames" Irish developer
+
+**Media Coverage:**
+  - "Rise of Piracy" review
+  - "Rise of Piracy" article news
+  - "Rise of Piracy" press coverage
+
+**Developer Interviews:**
+  - "IrishJohnGames" interview "Rise of Piracy"
+  - "IrishJohnGames" behind the scenes "Rise of Piracy"
+  - "IrishJohnGames" GDC talk "Rise of Piracy"
+  - "Rise of Piracy" developer interview
+  - "Rise of Piracy" making of
+
+--------------------------------------------------------------------------------
+
+## Castle Dornstein (App ID: 1595390)
+Developer: Digital Mosaic Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Castle Dornstein" Irish game development cultural impact
+  - "Castle Dornstein" Ireland game industry
+  - "Digital Mosaic Games" Irish developer
+
+**Media Coverage:**
+  - "Castle Dornstein" review
+  - "Castle Dornstein" article news
+  - "Castle Dornstein" press coverage
+
+**Developer Interviews:**
+  - "Digital Mosaic Games" interview "Castle Dornstein"
+  - "Digital Mosaic Games" behind the scenes "Castle Dornstein"
+  - "Digital Mosaic Games" GDC talk "Castle Dornstein"
+  - "Castle Dornstein" developer interview
+  - "Castle Dornstein" making of
+
+--------------------------------------------------------------------------------
+
+## Chimeral Fantasy (App ID: 1866360)
+Developer: Leanne Rath
+Year: Unknown
+
+**Cultural Context:**
+  - "Chimeral Fantasy" Irish game development cultural impact
+  - "Chimeral Fantasy" Ireland game industry
+  - "Leanne Rath" Irish developer
+
+**Media Coverage:**
+  - "Chimeral Fantasy" review
+  - "Chimeral Fantasy" article news
+  - "Chimeral Fantasy" press coverage
+
+**Developer Interviews:**
+  - "Leanne Rath" interview "Chimeral Fantasy"
+  - "Leanne Rath" behind the scenes "Chimeral Fantasy"
+  - "Leanne Rath" GDC talk "Chimeral Fantasy"
+  - "Chimeral Fantasy" developer interview
+  - "Chimeral Fantasy" making of
+
+--------------------------------------------------------------------------------
+
+## Moonatics (App ID: 2003450)
+Developer: Benpaste
+Year: Unknown
+
+**Cultural Context:**
+  - "Moonatics" Irish game development cultural impact
+  - "Moonatics" Ireland game industry
+  - "Benpaste" Irish developer
+
+**Media Coverage:**
+  - "Moonatics" review
+  - "Moonatics" article news
+  - "Moonatics" press coverage
+
+**Developer Interviews:**
+  - "Benpaste" interview "Moonatics"
+  - "Benpaste" behind the scenes "Moonatics"
+  - "Benpaste" GDC talk "Moonatics"
+  - "Moonatics" developer interview
+  - "Moonatics" making of
+
+--------------------------------------------------------------------------------
+
+## PizzaBoy (App ID: 2238400)
+Developer: Breadless
+Year: Unknown
+
+**Cultural Context:**
+  - "PizzaBoy" Irish game development cultural impact
+  - "PizzaBoy" Ireland game industry
+  - "Breadless" Irish developer
+
+**Media Coverage:**
+  - "PizzaBoy" review
+  - "PizzaBoy" article news
+  - "PizzaBoy" press coverage
+
+**Developer Interviews:**
+  - "Breadless" interview "PizzaBoy"
+  - "Breadless" behind the scenes "PizzaBoy"
+  - "Breadless" GDC talk "PizzaBoy"
+  - "PizzaBoy" developer interview
+  - "PizzaBoy" making of
+
+--------------------------------------------------------------------------------
+
+## Neon Runner (App ID: 2471910)
+Developer: iRL Games
+Year: 2025
+
+**Cultural Context:**
+  - "Neon Runner" Irish game development cultural impact
+  - "Neon Runner" Ireland game industry
+  - "iRL Games" Irish developer
+
+**Media Coverage:**
+  - "Neon Runner" review
+  - "Neon Runner" article news
+  - "Neon Runner" press coverage
+
+**Developer Interviews:**
+  - "iRL Games" interview "Neon Runner"
+  - "iRL Games" behind the scenes "Neon Runner"
+  - "iRL Games" GDC talk "Neon Runner"
+  - "Neon Runner" developer interview
+  - "Neon Runner" making of
+
+--------------------------------------------------------------------------------
+
+## PILLORY (App ID: 2472530)
+Developer: IODINE
+Year: Unknown
+
+**Cultural Context:**
+  - "PILLORY" Irish game development cultural impact
+  - "PILLORY" Ireland game industry
+  - "IODINE" Irish developer
+
+**Media Coverage:**
+  - "PILLORY" review
+  - "PILLORY" article news
+  - "PILLORY" press coverage
+
+**Developer Interviews:**
+  - "IODINE" interview "PILLORY"
+  - "IODINE" behind the scenes "PILLORY"
+  - "IODINE" GDC talk "PILLORY"
+  - "PILLORY" developer interview
+  - "PILLORY" making of
+
+--------------------------------------------------------------------------------
+
+## Tax-Force (App ID: 2508290)
+Developer: Outsider Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Tax-Force" Irish game development cultural impact
+  - "Tax-Force" Ireland game industry
+  - "Outsider Games" Irish developer
+
+**Media Coverage:**
+  - "Tax-Force" review
+  - "Tax-Force" article news
+  - "Tax-Force" press coverage
+
+**Developer Interviews:**
+  - "Outsider Games" interview "Tax-Force"
+  - "Outsider Games" behind the scenes "Tax-Force"
+  - "Outsider Games" GDC talk "Tax-Force"
+  - "Tax-Force" developer interview
+  - "Tax-Force" making of
+
+--------------------------------------------------------------------------------
+
+## The Hearth and Harbour (App ID: 2528170)
+Developer: Saltstone Studios
+Year: Unknown
+
+**Cultural Context:**
+  - "The Hearth and Harbour" Irish game development cultural impact
+  - "The Hearth and Harbour" Ireland game industry
+  - "Saltstone Studios" Irish developer
+
+**Media Coverage:**
+  - "The Hearth and Harbour" review
+  - "The Hearth and Harbour" article news
+  - "The Hearth and Harbour" press coverage
+
+**Developer Interviews:**
+  - "Saltstone Studios" interview "The Hearth and Harbour"
+  - "Saltstone Studios" behind the scenes "The Hearth and Harbour"
+  - "Saltstone Studios" GDC talk "The Hearth and Harbour"
+  - "The Hearth and Harbour" developer interview
+  - "The Hearth and Harbour" making of
+
+--------------------------------------------------------------------------------
+
+## Potter About (App ID: 2627200)
+Developer: Stableboy Entertainment
+Year: Unknown
+
+**Cultural Context:**
+  - "Potter About" Irish game development cultural impact
+  - "Potter About" Ireland game industry
+  - "Stableboy Entertainment" Irish developer
+
+**Media Coverage:**
+  - "Potter About" review
+  - "Potter About" article news
+  - "Potter About" press coverage
+
+**Developer Interviews:**
+  - "Stableboy Entertainment" interview "Potter About"
+  - "Stableboy Entertainment" behind the scenes "Potter About"
+  - "Stableboy Entertainment" GDC talk "Potter About"
+  - "Potter About" developer interview
+  - "Potter About" making of
+
+--------------------------------------------------------------------------------
+
+## Spill the Beans (App ID: 2669780)
+Developer: Skeletal Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Spill the Beans" Irish game development cultural impact
+  - "Spill the Beans" Ireland game industry
+  - "Skeletal Games" Irish developer
+
+**Media Coverage:**
+  - "Spill the Beans" review
+  - "Spill the Beans" article news
+  - "Spill the Beans" press coverage
+
+**Developer Interviews:**
+  - "Skeletal Games" interview "Spill the Beans"
+  - "Skeletal Games" behind the scenes "Spill the Beans"
+  - "Skeletal Games" GDC talk "Spill the Beans"
+  - "Spill the Beans" developer interview
+  - "Spill the Beans" making of
+
+--------------------------------------------------------------------------------
+
+## Swing Boy (App ID: 2744520)
+Developer: Robert O'Connor
+Year: Unknown
+
+**Cultural Context:**
+  - "Swing Boy" Irish game development cultural impact
+  - "Swing Boy" Ireland game industry
+  - "Robert O'Connor" Irish developer
+
+**Media Coverage:**
+  - "Swing Boy" review
+  - "Swing Boy" article news
+  - "Swing Boy" press coverage
+
+**Developer Interviews:**
+  - "Robert O'Connor" interview "Swing Boy"
+  - "Robert O'Connor" behind the scenes "Swing Boy"
+  - "Robert O'Connor" GDC talk "Swing Boy"
+  - "Swing Boy" developer interview
+  - "Swing Boy" making of
+
+--------------------------------------------------------------------------------
+
+## Astral Arena (App ID: 2812890)
+Developer: The Game Garden
+Year: Unknown
+
+**Cultural Context:**
+  - "Astral Arena" Irish game development cultural impact
+  - "Astral Arena" Ireland game industry
+  - "The Game Garden" Irish developer
+
+**Media Coverage:**
+  - "Astral Arena" review
+  - "Astral Arena" article news
+  - "Astral Arena" press coverage
+
+**Developer Interviews:**
+  - "The Game Garden" interview "Astral Arena"
+  - "The Game Garden" behind the scenes "Astral Arena"
+  - "The Game Garden" GDC talk "Astral Arena"
+  - "Astral Arena" developer interview
+  - "Astral Arena" making of
+
+--------------------------------------------------------------------------------
+
+## Necromage (App ID: 2891720)
+Developer: CrazyPepe Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Necromage" Irish game development cultural impact
+  - "Necromage" Ireland game industry
+  - "CrazyPepe Games" Irish developer
+
+**Media Coverage:**
+  - "Necromage" review
+  - "Necromage" article news
+  - "Necromage" press coverage
+
+**Developer Interviews:**
+  - "CrazyPepe Games" interview "Necromage"
+  - "CrazyPepe Games" behind the scenes "Necromage"
+  - "CrazyPepe Games" GDC talk "Necromage"
+  - "Necromage" developer interview
+  - "Necromage" making of
+
+--------------------------------------------------------------------------------
+
+## Questing (App ID: 3087670)
+Developer: Jaggy Snake Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Questing" Irish game development cultural impact
+  - "Questing" Ireland game industry
+  - "Jaggy Snake Games" Irish developer
+
+**Media Coverage:**
+  - "Questing" review
+  - "Questing" article news
+  - "Questing" press coverage
+
+**Developer Interviews:**
+  - "Jaggy Snake Games" interview "Questing"
+  - "Jaggy Snake Games" behind the scenes "Questing"
+  - "Jaggy Snake Games" GDC talk "Questing"
+  - "Questing" developer interview
+  - "Questing" making of
+
+--------------------------------------------------------------------------------
+
+## Burden Street Station (App ID: 3126340)
+Developer: IODINE
+Year: Unknown
+
+**Cultural Context:**
+  - "Burden Street Station" Irish game development cultural impact
+  - "Burden Street Station" Ireland game industry
+  - "IODINE" Irish developer
+
+**Media Coverage:**
+  - "Burden Street Station" review
+  - "Burden Street Station" article news
+  - "Burden Street Station" press coverage
+
+**Developer Interviews:**
+  - "IODINE" interview "Burden Street Station"
+  - "IODINE" behind the scenes "Burden Street Station"
+  - "IODINE" GDC talk "Burden Street Station"
+  - "Burden Street Station" developer interview
+  - "Burden Street Station" making of
+
+--------------------------------------------------------------------------------
+
+## Crystal Edge: Retribution (App ID: 3188880)
+Developer: Broken Brains Studios
+Year: Unknown
+
+**Cultural Context:**
+  - "Crystal Edge: Retribution" Irish game development cultural impact
+  - "Crystal Edge: Retribution" Ireland game industry
+  - "Broken Brains Studios" Irish developer
+
+**Media Coverage:**
+  - "Crystal Edge: Retribution" review
+  - "Crystal Edge: Retribution" article news
+  - "Crystal Edge: Retribution" press coverage
+
+**Developer Interviews:**
+  - "Broken Brains Studios" interview "Crystal Edge: Retribution"
+  - "Broken Brains Studios" behind the scenes "Crystal Edge: Retribution"
+  - "Broken Brains Studios" GDC talk "Crystal Edge: Retribution"
+  - "Crystal Edge: Retribution" developer interview
+  - "Crystal Edge: Retribution" making of
+
+--------------------------------------------------------------------------------
+
+## Eighthwell (App ID: 3258250)
+Developer: Lutum Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Eighthwell" Irish game development cultural impact
+  - "Eighthwell" Ireland game industry
+  - "Lutum Games" Irish developer
+
+**Media Coverage:**
+  - "Eighthwell" review
+  - "Eighthwell" article news
+  - "Eighthwell" press coverage
+
+**Developer Interviews:**
+  - "Lutum Games" interview "Eighthwell"
+  - "Lutum Games" behind the scenes "Eighthwell"
+  - "Lutum Games" GDC talk "Eighthwell"
+  - "Eighthwell" developer interview
+  - "Eighthwell" making of
+
+--------------------------------------------------------------------------------
+
+## The Hundredth Hike (App ID: 3286860)
+Developer: Liberation Games
+Year: Unknown
+
+**Cultural Context:**
+  - "The Hundredth Hike" Irish game development cultural impact
+  - "The Hundredth Hike" Ireland game industry
+  - "Liberation Games" Irish developer
+
+**Media Coverage:**
+  - "The Hundredth Hike" review
+  - "The Hundredth Hike" article news
+  - "The Hundredth Hike" press coverage
+
+**Developer Interviews:**
+  - "Liberation Games" interview "The Hundredth Hike"
+  - "Liberation Games" behind the scenes "The Hundredth Hike"
+  - "Liberation Games" GDC talk "The Hundredth Hike"
+  - "The Hundredth Hike" developer interview
+  - "The Hundredth Hike" making of
+
+--------------------------------------------------------------------------------
+
+## Oh No! UFO! (App ID: 3314190)
+Developer: Blunderjack
+Year: Unknown
+
+**Cultural Context:**
+  - "Oh No! UFO!" Irish game development cultural impact
+  - "Oh No! UFO!" Ireland game industry
+  - "Blunderjack" Irish developer
+
+**Media Coverage:**
+  - "Oh No! UFO!" review
+  - "Oh No! UFO!" article news
+  - "Oh No! UFO!" press coverage
+
+**Developer Interviews:**
+  - "Blunderjack" interview "Oh No! UFO!"
+  - "Blunderjack" behind the scenes "Oh No! UFO!"
+  - "Blunderjack" GDC talk "Oh No! UFO!"
+  - "Oh No! UFO!" developer interview
+  - "Oh No! UFO!" making of
+
+--------------------------------------------------------------------------------
+
+## Coco's Revenge (App ID: 3350850)
+Developer: Octopus Punch
+Year: Unknown
+
+**Cultural Context:**
+  - "Coco's Revenge" Irish game development cultural impact
+  - "Coco's Revenge" Ireland game industry
+  - "Octopus Punch" Irish developer
+
+**Media Coverage:**
+  - "Coco's Revenge" review
+  - "Coco's Revenge" article news
+  - "Coco's Revenge" press coverage
+
+**Developer Interviews:**
+  - "Octopus Punch" interview "Coco's Revenge"
+  - "Octopus Punch" behind the scenes "Coco's Revenge"
+  - "Octopus Punch" GDC talk "Coco's Revenge"
+  - "Coco's Revenge" developer interview
+  - "Coco's Revenge" making of
+
+--------------------------------------------------------------------------------
+
+## Junk Sec (App ID: 3354930)
+Developer: Shoehead
+Year: Unknown
+
+**Cultural Context:**
+  - "Junk Sec" Irish game development cultural impact
+  - "Junk Sec" Ireland game industry
+  - "Shoehead" Irish developer
+
+**Media Coverage:**
+  - "Junk Sec" review
+  - "Junk Sec" article news
+  - "Junk Sec" press coverage
+
+**Developer Interviews:**
+  - "Shoehead" interview "Junk Sec"
+  - "Shoehead" behind the scenes "Junk Sec"
+  - "Shoehead" GDC talk "Junk Sec"
+  - "Junk Sec" developer interview
+  - "Junk Sec" making of
+
+--------------------------------------------------------------------------------
+
+## Everstill Valley (App ID: 3411120)
+Developer: Pixel Army Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Everstill Valley" Irish game development cultural impact
+  - "Everstill Valley" Ireland game industry
+  - "Pixel Army Games" Irish developer
+
+**Media Coverage:**
+  - "Everstill Valley" review
+  - "Everstill Valley" article news
+  - "Everstill Valley" press coverage
+
+**Developer Interviews:**
+  - "Pixel Army Games" interview "Everstill Valley"
+  - "Pixel Army Games" behind the scenes "Everstill Valley"
+  - "Pixel Army Games" GDC talk "Everstill Valley"
+  - "Everstill Valley" developer interview
+  - "Everstill Valley" making of
+
+--------------------------------------------------------------------------------
+
+## Little Aviary (App ID: 3437350)
+Developer: Tom Daly
+Year: 2025
+
+**Cultural Context:**
+  - "Little Aviary" Irish game development cultural impact
+  - "Little Aviary" Ireland game industry
+  - "Tom Daly" Irish developer
+
+**Media Coverage:**
+  - "Little Aviary" review
+  - "Little Aviary" article news
+  - "Little Aviary" press coverage
+
+**Developer Interviews:**
+  - "Tom Daly" interview "Little Aviary"
+  - "Tom Daly" behind the scenes "Little Aviary"
+  - "Tom Daly" GDC talk "Little Aviary"
+  - "Little Aviary" developer interview
+  - "Little Aviary" making of
+
+--------------------------------------------------------------------------------
+
+## Pulp Action Shotgun (App ID: 3451110)
+Developer: Monitr
+Year: Unknown
+
+**Cultural Context:**
+  - "Pulp Action Shotgun" Irish game development cultural impact
+  - "Pulp Action Shotgun" Ireland game industry
+  - "Monitr" Irish developer
+
+**Media Coverage:**
+  - "Pulp Action Shotgun" review
+  - "Pulp Action Shotgun" article news
+  - "Pulp Action Shotgun" press coverage
+
+**Developer Interviews:**
+  - "Monitr" interview "Pulp Action Shotgun"
+  - "Monitr" behind the scenes "Pulp Action Shotgun"
+  - "Monitr" GDC talk "Pulp Action Shotgun"
+  - "Pulp Action Shotgun" developer interview
+  - "Pulp Action Shotgun" making of
+
+--------------------------------------------------------------------------------
+
+## Marblous Worlds (App ID: 3469260)
+Developer: Hyphinett
+Year: Unknown
+
+**Cultural Context:**
+  - "Marblous Worlds" Irish game development cultural impact
+  - "Marblous Worlds" Ireland game industry
+  - "Hyphinett" Irish developer
+
+**Media Coverage:**
+  - "Marblous Worlds" review
+  - "Marblous Worlds" article news
+  - "Marblous Worlds" press coverage
+
+**Developer Interviews:**
+  - "Hyphinett" interview "Marblous Worlds"
+  - "Hyphinett" behind the scenes "Marblous Worlds"
+  - "Hyphinett" GDC talk "Marblous Worlds"
+  - "Marblous Worlds" developer interview
+  - "Marblous Worlds" making of
+
+--------------------------------------------------------------------------------
+
+## Sparrow Warfare (App ID: 3473440)
+Developer: NEON AURELIUS
+Year: Unknown
+
+**Cultural Context:**
+  - "Sparrow Warfare" Irish game development cultural impact
+  - "Sparrow Warfare" Ireland game industry
+  - "NEON AURELIUS" Irish developer
+
+**Media Coverage:**
+  - "Sparrow Warfare" review
+  - "Sparrow Warfare" article news
+  - "Sparrow Warfare" press coverage
+
+**Developer Interviews:**
+  - "NEON AURELIUS" interview "Sparrow Warfare"
+  - "NEON AURELIUS" behind the scenes "Sparrow Warfare"
+  - "NEON AURELIUS" GDC talk "Sparrow Warfare"
+  - "Sparrow Warfare" developer interview
+  - "Sparrow Warfare" making of
+
+--------------------------------------------------------------------------------
+
+## Ravel the Frays (App ID: 3499260)
+Developer: Margarita Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Ravel the Frays" Irish game development cultural impact
+  - "Ravel the Frays" Ireland game industry
+  - "Margarita Games" Irish developer
+
+**Media Coverage:**
+  - "Ravel the Frays" review
+  - "Ravel the Frays" article news
+  - "Ravel the Frays" press coverage
+
+**Developer Interviews:**
+  - "Margarita Games" interview "Ravel the Frays"
+  - "Margarita Games" behind the scenes "Ravel the Frays"
+  - "Margarita Games" GDC talk "Ravel the Frays"
+  - "Ravel the Frays" developer interview
+  - "Ravel the Frays" making of
+
+--------------------------------------------------------------------------------
+
+## Bouncy Butt Castle (App ID: 3512730)
+Developer: AueSip
+Year: Unknown
+
+**Cultural Context:**
+  - "Bouncy Butt Castle" Irish game development cultural impact
+  - "Bouncy Butt Castle" Ireland game industry
+  - "AueSip" Irish developer
+
+**Media Coverage:**
+  - "Bouncy Butt Castle" review
+  - "Bouncy Butt Castle" article news
+  - "Bouncy Butt Castle" press coverage
+
+**Developer Interviews:**
+  - "AueSip" interview "Bouncy Butt Castle"
+  - "AueSip" behind the scenes "Bouncy Butt Castle"
+  - "AueSip" GDC talk "Bouncy Butt Castle"
+  - "Bouncy Butt Castle" developer interview
+  - "Bouncy Butt Castle" making of
+
+--------------------------------------------------------------------------------
+
+## You've Changed (App ID: 3556110)
+Developer: Burkus
+Year: Unknown
+
+**Cultural Context:**
+  - "You've Changed" Irish game development cultural impact
+  - "You've Changed" Ireland game industry
+  - "Burkus" Irish developer
+
+**Media Coverage:**
+  - "You've Changed" review
+  - "You've Changed" article news
+  - "You've Changed" press coverage
+
+**Developer Interviews:**
+  - "Burkus" interview "You've Changed"
+  - "Burkus" behind the scenes "You've Changed"
+  - "Burkus" GDC talk "You've Changed"
+  - "You've Changed" developer interview
+  - "You've Changed" making of
+
+--------------------------------------------------------------------------------
+
+## Travel Pack! (App ID: 3571380)
+Developer: Blackstaff Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Travel Pack!" Irish game development cultural impact
+  - "Travel Pack!" Ireland game industry
+  - "Blackstaff Games" Irish developer
+
+**Media Coverage:**
+  - "Travel Pack!" review
+  - "Travel Pack!" article news
+  - "Travel Pack!" press coverage
+
+**Developer Interviews:**
+  - "Blackstaff Games" interview "Travel Pack!"
+  - "Blackstaff Games" behind the scenes "Travel Pack!"
+  - "Blackstaff Games" GDC talk "Travel Pack!"
+  - "Travel Pack!" developer interview
+  - "Travel Pack!" making of
+
+--------------------------------------------------------------------------------
+
+## Leaf Blower Co. (App ID: 3571710)
+Developer: LifT Games
+Year: 2025
+
+**Cultural Context:**
+  - "Leaf Blower Co." Irish game development cultural impact
+  - "Leaf Blower Co." Ireland game industry
+  - "LifT Games" Irish developer
+
+**Media Coverage:**
+  - "Leaf Blower Co." review
+  - "Leaf Blower Co." article news
+  - "Leaf Blower Co." press coverage
+
+**Developer Interviews:**
+  - "LifT Games" interview "Leaf Blower Co."
+  - "LifT Games" behind the scenes "Leaf Blower Co."
+  - "LifT Games" GDC talk "Leaf Blower Co."
+  - "Leaf Blower Co." developer interview
+  - "Leaf Blower Co." making of
+
+--------------------------------------------------------------------------------
+
+## Build A Bot (App ID: 3575280)
+Developer: DESKRAGE
+Year: Unknown
+
+**Cultural Context:**
+  - "Build A Bot" Irish game development cultural impact
+  - "Build A Bot" Ireland game industry
+  - "DESKRAGE" Irish developer
+
+**Media Coverage:**
+  - "Build A Bot" review
+  - "Build A Bot" article news
+  - "Build A Bot" press coverage
+
+**Developer Interviews:**
+  - "DESKRAGE" interview "Build A Bot"
+  - "DESKRAGE" behind the scenes "Build A Bot"
+  - "DESKRAGE" GDC talk "Build A Bot"
+  - "Build A Bot" developer interview
+  - "Build A Bot" making of
+
+--------------------------------------------------------------------------------
+
+## Wee Boats (App ID: 3578080)
+Developer: James Poole
+Year: Unknown
+
+**Cultural Context:**
+  - "Wee Boats" Irish game development cultural impact
+  - "Wee Boats" Ireland game industry
+  - "James Poole" Irish developer
+
+**Media Coverage:**
+  - "Wee Boats" review
+  - "Wee Boats" article news
+  - "Wee Boats" press coverage
+
+**Developer Interviews:**
+  - "James Poole" interview "Wee Boats"
+  - "James Poole" behind the scenes "Wee Boats"
+  - "James Poole" GDC talk "Wee Boats"
+  - "Wee Boats" developer interview
+  - "Wee Boats" making of
+
+--------------------------------------------------------------------------------
+
+## Max Beyond (App ID: 3582530)
+Developer: Hazimation
+Year: Unknown
+
+**Cultural Context:**
+  - "Max Beyond" Irish game development cultural impact
+  - "Max Beyond" Ireland game industry
+  - "Hazimation" Irish developer
+
+**Media Coverage:**
+  - "Max Beyond" review
+  - "Max Beyond" article news
+  - "Max Beyond" press coverage
+
+**Developer Interviews:**
+  - "Hazimation" interview "Max Beyond"
+  - "Hazimation" behind the scenes "Max Beyond"
+  - "Hazimation" GDC talk "Max Beyond"
+  - "Max Beyond" developer interview
+  - "Max Beyond" making of
+
+--------------------------------------------------------------------------------
+
+## Funi Raccoon Game (App ID: 3599690)
+Developer: Crayon
+Year: Unknown
+
+**Cultural Context:**
+  - "Funi Raccoon Game" Irish game development cultural impact
+  - "Funi Raccoon Game" Ireland game industry
+  - "Crayon" Irish developer
+
+**Media Coverage:**
+  - "Funi Raccoon Game" review
+  - "Funi Raccoon Game" article news
+  - "Funi Raccoon Game" press coverage
+
+**Developer Interviews:**
+  - "Crayon" interview "Funi Raccoon Game"
+  - "Crayon" behind the scenes "Funi Raccoon Game"
+  - "Crayon" GDC talk "Funi Raccoon Game"
+  - "Funi Raccoon Game" developer interview
+  - "Funi Raccoon Game" making of
+
+--------------------------------------------------------------------------------
+
+## Blood Of The Lamb (App ID: 3691430)
+Developer: Tusks And Talons Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Blood Of The Lamb" Irish game development cultural impact
+  - "Blood Of The Lamb" Ireland game industry
+  - "Tusks And Talons Games" Irish developer
+
+**Media Coverage:**
+  - "Blood Of The Lamb" review
+  - "Blood Of The Lamb" article news
+  - "Blood Of The Lamb" press coverage
+
+**Developer Interviews:**
+  - "Tusks And Talons Games" interview "Blood Of The Lamb"
+  - "Tusks And Talons Games" behind the scenes "Blood Of The Lamb"
+  - "Tusks And Talons Games" GDC talk "Blood Of The Lamb"
+  - "Blood Of The Lamb" developer interview
+  - "Blood Of The Lamb" making of
+
+--------------------------------------------------------------------------------
+
+## Trading Card Inspector (App ID: 3723750)
+Developer: Daydream Gallery
+Year: Unknown
+
+**Cultural Context:**
+  - "Trading Card Inspector" Irish game development cultural impact
+  - "Trading Card Inspector" Ireland game industry
+  - "Daydream Gallery" Irish developer
+
+**Media Coverage:**
+  - "Trading Card Inspector" review
+  - "Trading Card Inspector" article news
+  - "Trading Card Inspector" press coverage
+
+**Developer Interviews:**
+  - "Daydream Gallery" interview "Trading Card Inspector"
+  - "Daydream Gallery" behind the scenes "Trading Card Inspector"
+  - "Daydream Gallery" GDC talk "Trading Card Inspector"
+  - "Trading Card Inspector" developer interview
+  - "Trading Card Inspector" making of
+
+--------------------------------------------------------------------------------
+
+## Sushi On Wheels (App ID: 3749760)
+Developer: Greene Rapture
+Year: Unknown
+
+**Cultural Context:**
+  - "Sushi On Wheels" Irish game development cultural impact
+  - "Sushi On Wheels" Ireland game industry
+  - "Greene Rapture" Irish developer
+
+**Media Coverage:**
+  - "Sushi On Wheels" review
+  - "Sushi On Wheels" article news
+  - "Sushi On Wheels" press coverage
+
+**Developer Interviews:**
+  - "Greene Rapture" interview "Sushi On Wheels"
+  - "Greene Rapture" behind the scenes "Sushi On Wheels"
+  - "Greene Rapture" GDC talk "Sushi On Wheels"
+  - "Sushi On Wheels" developer interview
+  - "Sushi On Wheels" making of
+
+--------------------------------------------------------------------------------
+
+## Comet Tycoon (App ID: 3763050)
+Developer: CalmFrantix
+Year: 2025
+
+**Cultural Context:**
+  - "Comet Tycoon" Irish game development cultural impact
+  - "Comet Tycoon" Ireland game industry
+  - "CalmFrantix" Irish developer
+
+**Media Coverage:**
+  - "Comet Tycoon" review
+  - "Comet Tycoon" article news
+  - "Comet Tycoon" press coverage
+
+**Developer Interviews:**
+  - "CalmFrantix" interview "Comet Tycoon"
+  - "CalmFrantix" behind the scenes "Comet Tycoon"
+  - "CalmFrantix" GDC talk "Comet Tycoon"
+  - "Comet Tycoon" developer interview
+  - "Comet Tycoon" making of
+
+--------------------------------------------------------------------------------
+
+## Sub-Species (App ID: 3779120)
+Developer: Howling Hamster Entertainment
+Year: Unknown
+
+**Cultural Context:**
+  - "Sub-Species" Irish game development cultural impact
+  - "Sub-Species" Ireland game industry
+  - "Howling Hamster Entertainment" Irish developer
+
+**Media Coverage:**
+  - "Sub-Species" review
+  - "Sub-Species" article news
+  - "Sub-Species" press coverage
+
+**Developer Interviews:**
+  - "Howling Hamster Entertainment" interview "Sub-Species"
+  - "Howling Hamster Entertainment" behind the scenes "Sub-Species"
+  - "Howling Hamster Entertainment" GDC talk "Sub-Species"
+  - "Sub-Species" developer interview
+  - "Sub-Species" making of
+
+--------------------------------------------------------------------------------
+
+## TÖLT (App ID: 3812490)
+Developer: ENIGMA STUDIO
+Year: Unknown
+
+**Cultural Context:**
+  - "TÖLT" Irish game development cultural impact
+  - "TÖLT" Ireland game industry
+  - "ENIGMA STUDIO" Irish developer
+
+**Media Coverage:**
+  - "TÖLT" review
+  - "TÖLT" article news
+  - "TÖLT" press coverage
+
+**Developer Interviews:**
+  - "ENIGMA STUDIO" interview "TÖLT"
+  - "ENIGMA STUDIO" behind the scenes "TÖLT"
+  - "ENIGMA STUDIO" GDC talk "TÖLT"
+  - "TÖLT" developer interview
+  - "TÖLT" making of
+
+--------------------------------------------------------------------------------
+
+## DeTails (App ID: 3840340)
+Developer: Can You Eat It?
+Year: Unknown
+
+**Cultural Context:**
+  - "DeTails" Irish game development cultural impact
+  - "DeTails" Ireland game industry
+  - "Can You Eat It?" Irish developer
+
+**Media Coverage:**
+  - "DeTails" review
+  - "DeTails" article news
+  - "DeTails" press coverage
+
+**Developer Interviews:**
+  - "Can You Eat It?" interview "DeTails"
+  - "Can You Eat It?" behind the scenes "DeTails"
+  - "Can You Eat It?" GDC talk "DeTails"
+  - "DeTails" developer interview
+  - "DeTails" making of
+
+--------------------------------------------------------------------------------
+
+## Smash 'N Grab (App ID: 3851460)
+Developer: SLAP-BANG! Digital
+Year: Unknown
+
+**Cultural Context:**
+  - "Smash 'N Grab" Irish game development cultural impact
+  - "Smash 'N Grab" Ireland game industry
+  - "SLAP-BANG! Digital" Irish developer
+
+**Media Coverage:**
+  - "Smash 'N Grab" review
+  - "Smash 'N Grab" article news
+  - "Smash 'N Grab" press coverage
+
+**Developer Interviews:**
+  - "SLAP-BANG! Digital" interview "Smash 'N Grab"
+  - "SLAP-BANG! Digital" behind the scenes "Smash 'N Grab"
+  - "SLAP-BANG! Digital" GDC talk "Smash 'N Grab"
+  - "Smash 'N Grab" developer interview
+  - "Smash 'N Grab" making of
+
+--------------------------------------------------------------------------------
+
+## ExoDomia (App ID: 3873460)
+Developer: Fomorian Studios
+Year: Unknown
+
+**Cultural Context:**
+  - "ExoDomia" Irish game development cultural impact
+  - "ExoDomia" Ireland game industry
+  - "Fomorian Studios" Irish developer
+
+**Media Coverage:**
+  - "ExoDomia" review
+  - "ExoDomia" article news
+  - "ExoDomia" press coverage
+
+**Developer Interviews:**
+  - "Fomorian Studios" interview "ExoDomia"
+  - "Fomorian Studios" behind the scenes "ExoDomia"
+  - "Fomorian Studios" GDC talk "ExoDomia"
+  - "ExoDomia" developer interview
+  - "ExoDomia" making of
+
+--------------------------------------------------------------------------------
+
+## Familiar Findings (App ID: 3914780)
+Developer: Cliffa Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Familiar Findings" Irish game development cultural impact
+  - "Familiar Findings" Ireland game industry
+  - "Cliffa Games" Irish developer
+
+**Media Coverage:**
+  - "Familiar Findings" review
+  - "Familiar Findings" article news
+  - "Familiar Findings" press coverage
+
+**Developer Interviews:**
+  - "Cliffa Games" interview "Familiar Findings"
+  - "Cliffa Games" behind the scenes "Familiar Findings"
+  - "Cliffa Games" GDC talk "Familiar Findings"
+  - "Familiar Findings" developer interview
+  - "Familiar Findings" making of
+
+--------------------------------------------------------------------------------
+
+## Breadieval (App ID: 3917800)
+Developer: Eight Dots Game Studio
+Year: Unknown
+
+**Cultural Context:**
+  - "Breadieval" Irish game development cultural impact
+  - "Breadieval" Ireland game industry
+  - "Eight Dots Game Studio" Irish developer
+
+**Media Coverage:**
+  - "Breadieval" review
+  - "Breadieval" article news
+  - "Breadieval" press coverage
+
+**Developer Interviews:**
+  - "Eight Dots Game Studio" interview "Breadieval"
+  - "Eight Dots Game Studio" behind the scenes "Breadieval"
+  - "Eight Dots Game Studio" GDC talk "Breadieval"
+  - "Breadieval" developer interview
+  - "Breadieval" making of
+
+--------------------------------------------------------------------------------
+
+## Myosotis (App ID: 3977140)
+Developer: Matthew
+Year: Unknown
+
+**Cultural Context:**
+  - "Myosotis" Irish game development cultural impact
+  - "Myosotis" Ireland game industry
+  - "Matthew" Irish developer
+
+**Media Coverage:**
+  - "Myosotis" review
+  - "Myosotis" article news
+  - "Myosotis" press coverage
+
+**Developer Interviews:**
+  - "Matthew" interview "Myosotis"
+  - "Matthew" behind the scenes "Myosotis"
+  - "Matthew" GDC talk "Myosotis"
+  - "Myosotis" developer interview
+  - "Myosotis" making of
+
+--------------------------------------------------------------------------------
+
+## Exercise your Demons (App ID: 4032290)
+Developer: BoopDood
+Year: Unknown
+
+**Cultural Context:**
+  - "Exercise your Demons" Irish game development cultural impact
+  - "Exercise your Demons" Ireland game industry
+  - "BoopDood" Irish developer
+
+**Media Coverage:**
+  - "Exercise your Demons" review
+  - "Exercise your Demons" article news
+  - "Exercise your Demons" press coverage
+
+**Developer Interviews:**
+  - "BoopDood" interview "Exercise your Demons"
+  - "BoopDood" behind the scenes "Exercise your Demons"
+  - "BoopDood" GDC talk "Exercise your Demons"
+  - "Exercise your Demons" developer interview
+  - "Exercise your Demons" making of
+
+--------------------------------------------------------------------------------
+
+## Brass & Bramble (App ID: 4039690)
+Developer: Puca Labs
+Year: Unknown
+
+**Cultural Context:**
+  - "Brass & Bramble" Irish game development cultural impact
+  - "Brass & Bramble" Ireland game industry
+  - "Puca Labs" Irish developer
+
+**Media Coverage:**
+  - "Brass & Bramble" review
+  - "Brass & Bramble" article news
+  - "Brass & Bramble" press coverage
+
+**Developer Interviews:**
+  - "Puca Labs" interview "Brass & Bramble"
+  - "Puca Labs" behind the scenes "Brass & Bramble"
+  - "Puca Labs" GDC talk "Brass & Bramble"
+  - "Brass & Bramble" developer interview
+  - "Brass & Bramble" making of
+
+--------------------------------------------------------------------------------
+
+## Blast Off! (App ID: 4078550)
+Developer: Head for Orbit Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Blast Off!" Irish game development cultural impact
+  - "Blast Off!" Ireland game industry
+  - "Head for Orbit Games" Irish developer
+
+**Media Coverage:**
+  - "Blast Off!" review
+  - "Blast Off!" article news
+  - "Blast Off!" press coverage
+
+**Developer Interviews:**
+  - "Head for Orbit Games" interview "Blast Off!"
+  - "Head for Orbit Games" behind the scenes "Blast Off!"
+  - "Head for Orbit Games" GDC talk "Blast Off!"
+  - "Blast Off!" developer interview
+  - "Blast Off!" making of
+
+--------------------------------------------------------------------------------
+
+## Muskets VR (App ID: 4088470)
+Developer: Swordmaster2k Games
+Year: Unknown
+
+**Cultural Context:**
+  - "Muskets VR" Irish game development cultural impact
+  - "Muskets VR" Ireland game industry
+  - "Swordmaster2k Games" Irish developer
+
+**Media Coverage:**
+  - "Muskets VR" review
+  - "Muskets VR" article news
+  - "Muskets VR" press coverage
+
+**Developer Interviews:**
+  - "Swordmaster2k Games" interview "Muskets VR"
+  - "Swordmaster2k Games" behind the scenes "Muskets VR"
+  - "Swordmaster2k Games" GDC talk "Muskets VR"
+  - "Muskets VR" developer interview
+  - "Muskets VR" making of
+
+--------------------------------------------------------------------------------
+
+## Benjumpin Hopkins (App ID: 4091420)
+Developer: MrWhoMan
+Year: Unknown
+
+**Cultural Context:**
+  - "Benjumpin Hopkins" Irish game development cultural impact
+  - "Benjumpin Hopkins" Ireland game industry
+  - "MrWhoMan" Irish developer
+
+**Media Coverage:**
+  - "Benjumpin Hopkins" review
+  - "Benjumpin Hopkins" article news
+  - "Benjumpin Hopkins" press coverage
+
+**Developer Interviews:**
+  - "MrWhoMan" interview "Benjumpin Hopkins"
+  - "MrWhoMan" behind the scenes "Benjumpin Hopkins"
+  - "MrWhoMan" GDC talk "Benjumpin Hopkins"
+  - "Benjumpin Hopkins" developer interview
+  - "Benjumpin Hopkins" making of
+
+--------------------------------------------------------------------------------
+

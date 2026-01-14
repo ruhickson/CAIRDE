@@ -1,0 +1,9 @@
+Documented Title: Castle Dornstein
+
+Developed by Digital Mosaic Games, this work represents a contribution to Ireland's digital game development heritage. Classified within the Adventure, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+Hemlock is a young scholar invited to a crumbling castle in the Bohemian countryside. The wealthy nobleman Lord Fiodor Dornstein has hired him to translate a mysterious medieval book known as The Devil's Diary, a text rumored to harbor an ancient evil.But when the book goes missing on Hemlock's first night, everyone becomes a suspect. In order to find the book, Hemlock will need to explore the castle grounds, question the local villagers, and unravel the secrets of a dark past.
+
+
+
+[Archival Reference: Steam App ID 1595390]

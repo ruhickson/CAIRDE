@@ -1,0 +1,9 @@
+Documented Title: You've Changed
+
+Developed by Burkus, this work represents a contribution to Ireland's digital game development heritage. Classified within the Indie genre, this title demonstrates the technical and creative capabilities of Irish game development studios during this period.
+
+You've Changed is an anomaly horror game in which you unravel a mystery behind the anomalies. Imagine &quot;spot the difference&quot; but scary. The game features 8-bit era inspired art and rotoscoped enemy animations.Art Style and Graphics 🖼️Retro-inspired art style: You've Changed uses a limited, 54-color palette and renders at 320x180 resolution . The game is presented at 16:9 and scales crisply to modern resolutions.Enemies are hand-crafted with silky-smooth, rotoscoped animations.Gameplay 🎮Over 300+ anomalies across 4 locations - unravel the mystery in story mode or find every anomaly ...
+
+
+
+[Archival Reference: Steam App ID 3556110]

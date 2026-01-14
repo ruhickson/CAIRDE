@@ -1,0 +1,9 @@
+Documented Title: Mini Metro (Released: 2015)
+
+Developed by Dinosaur Polo Club, this work represents a contribution to Ireland's digital game development heritage. Classified within the Indie, Simulation, Strategy genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2010s.
+
+Upon release, Mini Metro garnered overwhelmingly positive critical reception, accumulating 16,081 player reviews. In Mini Metro, you take on the task of designing the subway layout for a rapidly expanding city. Your city starts with three stations. Draw routes between these stations to connect them with subway lines. Commuters travel along your lines to get around the city as fast as they can. Each station can only hold a handful of waiting commuters so your subway network will need to be well-designed to avoid delays.The city is growing. More stations are opening, and commuters are appearing faster. The demands on your network are ever-increasing. You'll be constantly redesigning your lines to maximis...
+
+
+
+[Archival Reference: Steam App ID 287980]

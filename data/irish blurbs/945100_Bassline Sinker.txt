@@ -1,0 +1,9 @@
+Documented Title: Bassline Sinker (Released: 2019)
+
+Developed by TheFitzyGames, this work represents a contribution to Ireland's digital game development heritage. Classified within the Action, Casual, Indie genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2010s.
+
+Upon release, Bassline Sinker garnered positive critical reception, accumulating 18 player reviews. Bassline Sinker is a Shooter / Bullet hell that responds to your music.This arcade shooter takes in any .mp3 / .wav file, the game then changes and reacts in real time to the audio. Your weapons, enemies and the environment all react differently to the music making every song flow differently in the game. The game is set in an underwater seascape, with the player taking control of “Ruby” the manta ray. However, many other sea creatures also use the power of the music to fight against Ruby. Eels that surround her, angler fish that lure her in and Squids which shoot Ink bombs at her. Bassline...
+
+
+
+[Archival Reference: Steam App ID 945100]

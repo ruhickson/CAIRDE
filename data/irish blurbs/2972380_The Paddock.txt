@@ -1,0 +1,9 @@
+Documented Title: The Paddock (Released: 2025)
+
+Developed by Josh Devlin, this work represents a contribution to Ireland's digital game development heritage. Classified within the Casual, Indie, Simulation genres, this title demonstrates the technical and creative capabilities of Irish game development studios during the 2020s.
+
+Upon release, The Paddock garnered positive critical reception, accumulating 14 player reviews. The Paddock is a short game about dealing with dinosaurs as a security guard, if you die you must start from the beginning. Features CCTV cameras that are used for watching the dinosaur and electrocuting it when it gets too close to the fence.First person game, you have a torch and a few other tools.One continuous level that has you complete objectives as you play it.  A story that unravels as you play through the game. A short experience that can be finished in 1 hour. If you die, the game restarts. Gameplay  Set in the remote mountains the player is starting their first shift as a securit...
+
+
+
+[Archival Reference: Steam App ID 2972380]

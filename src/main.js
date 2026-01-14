@@ -7,6 +7,9 @@ import router from "./router";
 import Button from "./components/Button.vue";
 import LinkButton from "./components/LinkButton.vue";
 
+// Enable dark mode by default
+document.documentElement.classList.add('dark');
+
 let app = createApp(App);
 
 app.use(VueSmoothScroll);
